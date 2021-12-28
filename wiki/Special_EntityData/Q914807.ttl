@@ -1,0 +1,4057 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix data: <https://www.wikidata.org/wiki/Special:EntityData/> .
+@prefix s: <http://www.wikidata.org/entity/statement/> .
+@prefix ref: <http://www.wikidata.org/reference/> .
+@prefix v: <http://www.wikidata.org/value/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wdtn: <http://www.wikidata.org/prop/direct-normalized/> .
+@prefix p: <http://www.wikidata.org/prop/> .
+@prefix ps: <http://www.wikidata.org/prop/statement/> .
+@prefix psv: <http://www.wikidata.org/prop/statement/value/> .
+@prefix psn: <http://www.wikidata.org/prop/statement/value-normalized/> .
+@prefix pq: <http://www.wikidata.org/prop/qualifier/> .
+@prefix pqv: <http://www.wikidata.org/prop/qualifier/value/> .
+@prefix pqn: <http://www.wikidata.org/prop/qualifier/value-normalized/> .
+@prefix pr: <http://www.wikidata.org/prop/reference/> .
+@prefix prv: <http://www.wikidata.org/prop/reference/value/> .
+@prefix prn: <http://www.wikidata.org/prop/reference/value-normalized/> .
+@prefix wdno: <http://www.wikidata.org/prop/novalue/> .
+
+data:Q914807 a schema:Dataset ;
+	schema:about wd:Q914807 ;
+	cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+	schema:softwareVersion "1.0.0" ;
+	schema:version "1536334449"^^xsd:integer ;
+	schema:dateModified "2021-11-30T00:22:10Z"^^xsd:dateTime ;
+	wikibase:statements "6"^^xsd:integer ;
+	wikibase:sitelinks "389"^^xsd:integer ;
+	wikibase:identifiers "0"^^xsd:integer .
+
+wd:Q914807 a wikibase:Item .
+
+<https://ace.wikipedia.org/wiki/Beunantu:Aso%C3%AB> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ace" ;
+	schema:isPartOf <https://ace.wikipedia.org/> ;
+	schema:name "Beunantu:Asoë"@ace .
+
+<https://ace.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://af.wikipedia.org/wiki/Wikipedia:Hulp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "af" ;
+	schema:isPartOf <https://af.wikipedia.org/> ;
+	schema:name "Wikipedia:Hulp"@af .
+
+<https://af.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ak.wikipedia.org/wiki/Boa:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ak" ;
+	schema:isPartOf <https://ak.wikipedia.org/> ;
+	schema:name "Boa:Contents"@ak .
+
+<https://ak.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://als.wikipedia.org/wiki/Wikipedia:Hilfe> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "gsw" ;
+	schema:isPartOf <https://als.wikipedia.org/> ;
+	schema:name "Wikipedia:Hilfe"@gsw .
+
+<https://als.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://am.wikipedia.org/wiki/%E1%8A%A5%E1%88%AD%E1%8B%B3%E1%89%B3:%E1%8B%AD%E1%8B%9E%E1%89%B3> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "am" ;
+	schema:isPartOf <https://am.wikipedia.org/> ;
+	schema:name "እርዳታ:ይዞታ"@am .
+
+<https://am.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ang.wikipedia.org/wiki/Help:Inno%C3%BE> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ang" ;
+	schema:isPartOf <https://ang.wikipedia.org/> ;
+	schema:name "Help:Innoþ"@ang .
+
+<https://ang.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://an.wikipedia.org/wiki/Wikipedia:Aduya> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "an" ;
+	schema:isPartOf <https://an.wikipedia.org/> ;
+	schema:name "Wikipedia:Aduya"@an .
+
+<https://an.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://arc.wikipedia.org/wiki/%DC%A5%DC%98%DC%95%DC%AA%DC%A2%DC%90:%DC%9A%DC%92%DC%9D%DC%AB%DC%AC%CC%88%DC%90> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "arc" ;
+	schema:isPartOf <https://arc.wikipedia.org/> ;
+	schema:name "ܥܘܕܪܢܐ:ܚܒܝܫܬ̈ܐ"@arc .
+
+<https://arc.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ar" ;
+	schema:isPartOf <https://ar.wikipedia.org/> ;
+	schema:name "مساعدة:محتويات"@ar .
+
+<https://ar.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ar.wikinews.org/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ar" ;
+	schema:isPartOf <https://ar.wikinews.org/> ;
+	schema:name "مساعدة:محتويات"@ar .
+
+<https://ar.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://ar.wikisource.org/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ar" ;
+	schema:isPartOf <https://ar.wikisource.org/> ;
+	schema:name "مساعدة:محتويات"@ar .
+
+<https://ar.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://arz.wikipedia.org/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "arz" ;
+	schema:isPartOf <https://arz.wikipedia.org/> ;
+	schema:name "مساعدة:محتويات"@arz .
+
+<https://arz.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ast.wikipedia.org/wiki/Ayuda:Conten%C3%ADos> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ast" ;
+	schema:isPartOf <https://ast.wikipedia.org/> ;
+	schema:name "Ayuda:Conteníos"@ast .
+
+<https://ast.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ay.wikipedia.org/wiki/Ayuda:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ay" ;
+	schema:isPartOf <https://ay.wikipedia.org/> ;
+	schema:name "Ayuda:Contents"@ay .
+
+<https://ay.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://azb.wikipedia.org/wiki/%DA%A9%D8%A4%D9%85%DA%A9:%D8%A7%DB%8C%DA%86%DB%8C%D9%86%D8%AF%D9%87%E2%80%8C%DA%A9%DB%8C%D9%84%D8%B1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "azb" ;
+	schema:isPartOf <https://azb.wikipedia.org/> ;
+	schema:name "کؤمک:ایچینده‌کیلر"@azb .
+
+<https://azb.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://az.wikipedia.org/wiki/K%C3%B6m%C9%99k:M%C3%BCnd%C9%99ricat> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "az" ;
+	schema:isPartOf <https://az.wikipedia.org/> ;
+	schema:name "Kömək:Mündəricat"@az .
+
+<https://az.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://az.wikibooks.org/wiki/K%C3%B6m%C9%99k:M%C3%BCnd%C9%99ricat> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "az" ;
+	schema:isPartOf <https://az.wikibooks.org/> ;
+	schema:name "Kömək:Mündəricat"@az .
+
+<https://az.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://az.wikiquote.org/wiki/K%C3%B6m%C9%99k:M%C3%BCnd%C9%99ricat> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "az" ;
+	schema:isPartOf <https://az.wikiquote.org/> ;
+	schema:name "Kömək:Mündəricat"@az .
+
+<https://az.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://az.wikisource.org/wiki/K%C3%B6m%C9%99k:M%C3%BCnd%C9%99ricat> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "az" ;
+	schema:isPartOf <https://az.wikisource.org/> ;
+	schema:name "Kömək:Mündəricat"@az .
+
+<https://az.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://az.wiktionary.org/wiki/K%C3%B6m%C9%99k:M%C3%BCnd%C9%99ricat> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "az" ;
+	schema:isPartOf <https://az.wiktionary.org/> ;
+	schema:name "Kömək:Mündəricat"@az .
+
+<https://az.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://bar.wikipedia.org/wiki/Huif:Hilfe> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bar" ;
+	schema:isPartOf <https://bar.wikipedia.org/> ;
+	schema:name "Huif:Hilfe"@bar .
+
+<https://bar.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://bat-smg.wikipedia.org/wiki/Pagelba:Tor%C4%97n%C4%ABs> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sgs" ;
+	schema:isPartOf <https://bat-smg.wikipedia.org/> ;
+	schema:name "Pagelba:Torėnīs"@sgs .
+
+<https://bat-smg.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ba.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B5%D0%BB%D0%B5%D1%88%D0%BC%D3%99> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ba" ;
+	schema:isPartOf <https://ba.wikipedia.org/> ;
+	schema:name "Википедия:Белешмә"@ba .
+
+<https://ba.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://be-tarask.wikipedia.org/wiki/%D0%94%D0%B0%D0%BF%D0%B0%D0%BC%D0%BE%D0%B3%D0%B0:%D0%97%D1%8C%D0%BC%D0%B5%D1%81%D1%82> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "be-tarask" ;
+	schema:isPartOf <https://be-tarask.wikipedia.org/> ;
+	schema:name "Дапамога:Зьмест"@be-tarask .
+
+<https://be-tarask.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://be.wikisource.org/wiki/%D0%94%D0%B0%D0%B2%D0%B5%D0%B4%D0%BA%D0%B0:%D0%97%D0%BC%D0%B5%D1%81%D1%82> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "be" ;
+	schema:isPartOf <https://be.wikisource.org/> ;
+	schema:name "Даведка:Змест"@be .
+
+<https://be.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://bg.wiktionary.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA:%D0%9F%D1%8A%D1%80%D0%B2%D0%B8_%D1%81%D1%82%D1%8A%D0%BF%D0%BA%D0%B8> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bg" ;
+	schema:isPartOf <https://bg.wiktionary.org/> ;
+	schema:name "Уикиречник:Първи стъпки"@bg .
+
+<https://bg.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://bi.wikipedia.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bi" ;
+	schema:isPartOf <https://bi.wikipedia.org/> ;
+	schema:name "Help:Contents"@bi .
+
+<https://bi.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://bjn.wikipedia.org/wiki/Patulung:Isi> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bjn" ;
+	schema:isPartOf <https://bjn.wikipedia.org/> ;
+	schema:name "Patulung:Isi"@bjn .
+
+<https://bjn.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF:%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A7%80> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bn" ;
+	schema:isPartOf <https://bn.wikipedia.org/> ;
+	schema:name "সাহায্য:সূচী"@bn .
+
+<https://bn.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://bn.wikisource.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF:%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A7%80> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bn" ;
+	schema:isPartOf <https://bn.wikisource.org/> ;
+	schema:name "সাহায্য:সূচী"@bn .
+
+<https://bn.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://bn.wiktionary.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF:%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A6%BF> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bn" ;
+	schema:isPartOf <https://bn.wiktionary.org/> ;
+	schema:name "সাহায্য:সূচি"@bn .
+
+<https://bn.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://bo.wikipedia.org/wiki/Help:%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%93%E0%BC%8B%E0%BD%A3%E0%BE%A1%E0%BD%93%E0%BC%8B%E0%BD%91%E0%BE%AD%E0%BD%BC%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%A0%E0%BD%91%E0%BE%B2%E0%BD%B2%E0%BC%8D> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bo" ;
+	schema:isPartOf <https://bo.wikipedia.org/> ;
+	schema:name "Help:རྒྱན་ལྡན་དྭོགས་འདྲི།"@bo .
+
+<https://bo.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://br.wikisource.org/wiki/Skoazell:Skoazell> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "br" ;
+	schema:isPartOf <https://br.wikisource.org/> ;
+	schema:name "Skoazell:Skoazell"@br .
+
+<https://br.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://bs.wikipedia.org/wiki/Pomo%C4%87:Sadr%C5%BEaj> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bs" ;
+	schema:isPartOf <https://bs.wikipedia.org/> ;
+	schema:name "Pomoć:Sadržaj"@bs .
+
+<https://bs.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://bs.wikiquote.org/wiki/Pomo%C4%87:Sadr%C5%BEaj> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bs" ;
+	schema:isPartOf <https://bs.wikiquote.org/> ;
+	schema:name "Pomoć:Sadržaj"@bs .
+
+<https://bs.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://bug.wikipedia.org/wiki/Bantuan:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bug" ;
+	schema:isPartOf <https://bug.wikipedia.org/> ;
+	schema:name "Bantuan:Contents"@bug .
+
+<https://bug.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ca.wikipedia.org/wiki/Viquip%C3%A8dia:Ajuda> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ca" ;
+	schema:isPartOf <https://ca.wikipedia.org/> ;
+	schema:name "Viquipèdia:Ajuda"@ca .
+
+<https://ca.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ca.wikibooks.org/wiki/Ajuda:Portal> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ca" ;
+	schema:isPartOf <https://ca.wikibooks.org/> ;
+	schema:name "Ajuda:Portal"@ca .
+
+<https://ca.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://ca.wikiquote.org/wiki/Viquidites:Ajuda> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ca" ;
+	schema:isPartOf <https://ca.wikiquote.org/> ;
+	schema:name "Viquidites:Ajuda"@ca .
+
+<https://ca.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://ca.wikisource.org/wiki/Viquitexts:Ajuda> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ca" ;
+	schema:isPartOf <https://ca.wikisource.org/> ;
+	schema:name "Viquitexts:Ajuda"@ca .
+
+<https://ca.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://ceb.wikipedia.org/wiki/Tabang:Mga_sulod> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ceb" ;
+	schema:isPartOf <https://ceb.wikipedia.org/> ;
+	schema:name "Tabang:Mga sulod"@ceb .
+
+<https://ceb.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ce.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%93%D3%80%D0%BE> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ce" ;
+	schema:isPartOf <https://ce.wikipedia.org/> ;
+	schema:name "Википеди:ГӀо"@ce .
+
+<https://ce.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://chy.wikipedia.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "chy" ;
+	schema:isPartOf <https://chy.wikipedia.org/> ;
+	schema:name "Help:Contents"@chy .
+
+<https://chy.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ckb.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B1%D9%85%DB%95%D8%AA%DB%8C:%D9%86%D8%A7%D9%88%DB%95%D8%B1%DB%86%DA%A9> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ckb" ;
+	schema:isPartOf <https://ckb.wikipedia.org/> ;
+	schema:name "یارمەتی:ناوەرۆک"@ckb .
+
+<https://ckb.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://commons.wikimedia.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://commons.wikimedia.org/> ;
+	schema:name "Help:Contents"@en .
+
+<https://commons.wikimedia.org/> wikibase:wikiGroup "commons" .
+
+<https://crh.wikipedia.org/wiki/Yard%C4%B1m:M%C3%BCnderice> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "crh-Latn" ;
+	schema:isPartOf <https://crh.wikipedia.org/> ;
+	schema:name "Yardım:Münderice"@crh-Latn .
+
+<https://crh.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:Obsah> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cs" ;
+	schema:isPartOf <https://cs.wikipedia.org/> ;
+	schema:name "Nápověda:Obsah"@cs .
+
+<https://cs.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://cs.wikibooks.org/wiki/N%C3%A1pov%C4%9Bda:Obsah> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cs" ;
+	schema:isPartOf <https://cs.wikibooks.org/> ;
+	schema:name "Nápověda:Obsah"@cs .
+
+<https://cs.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://cs.wikinews.org/wiki/N%C3%A1pov%C4%9Bda:Obsah> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cs" ;
+	schema:isPartOf <https://cs.wikinews.org/> ;
+	schema:name "Nápověda:Obsah"@cs .
+
+<https://cs.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://cs.wikiquote.org/wiki/Wikicit%C3%A1ty:Port%C3%A1l> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cs" ;
+	schema:isPartOf <https://cs.wikiquote.org/> ;
+	schema:name "Wikicitáty:Portál"@cs .
+
+<https://cs.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://cs.wikisource.org/wiki/N%C3%A1pov%C4%9Bda:Obsah> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cs" ;
+	schema:isPartOf <https://cs.wikisource.org/> ;
+	schema:name "Nápověda:Obsah"@cs .
+
+<https://cs.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://cs.wikiversity.org/wiki/N%C3%A1pov%C4%9Bda:Obsah> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cs" ;
+	schema:isPartOf <https://cs.wikiversity.org/> ;
+	schema:name "Nápověda:Obsah"@cs .
+
+<https://cs.wikiversity.org/> wikibase:wikiGroup "wikiversity" .
+
+<https://cu.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C:%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D1%8A> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cu" ;
+	schema:isPartOf <https://cu.wikipedia.org/> ;
+	schema:name "Помощь:Каталогъ"@cu .
+
+<https://cu.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://cv.wikipedia.org/wiki/%D0%9F%D1%83%D0%BB%C4%83%D1%88%D1%83:%D0%A2%D1%83%D0%BF%D0%BC%D0%B0%D0%BB%D0%BB%D0%B8> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cv" ;
+	schema:isPartOf <https://cv.wikipedia.org/> ;
+	schema:name "Пулăшу:Тупмалли"@cv .
+
+<https://cv.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://cy.wikipedia.org/wiki/Wicipedia:Cymorth> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cy" ;
+	schema:isPartOf <https://cy.wikipedia.org/> ;
+	schema:name "Wicipedia:Cymorth"@cy .
+
+<https://cy.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://cy.wikiquote.org/wiki/Cymorth:Cymorth> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cy" ;
+	schema:isPartOf <https://cy.wikiquote.org/> ;
+	schema:name "Cymorth:Cymorth"@cy .
+
+<https://cy.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://cy.wiktionary.org/wiki/Cymorth:Prif_dudalen> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cy" ;
+	schema:isPartOf <https://cy.wiktionary.org/> ;
+	schema:name "Cymorth:Prif dudalen"@cy .
+
+<https://cy.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://da.wikipedia.org/wiki/Hj%C3%A6lp:Forside> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "da" ;
+	schema:isPartOf <https://da.wikipedia.org/> ;
+	schema:name "Hjælp:Forside"@da .
+
+<https://da.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://da.wikibooks.org/wiki/Wikibooks:Hj%C3%A6lp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "da" ;
+	schema:isPartOf <https://da.wikibooks.org/> ;
+	schema:name "Wikibooks:Hjælp"@da .
+
+<https://da.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://da.wikiquote.org/wiki/Hj%C3%A6lp:Forside> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "da" ;
+	schema:isPartOf <https://da.wikiquote.org/> ;
+	schema:name "Hjælp:Forside"@da .
+
+<https://da.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://da.wikisource.org/wiki/Wikisource:Hj%C3%A6lp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "da" ;
+	schema:isPartOf <https://da.wikisource.org/> ;
+	schema:name "Wikisource:Hjælp"@da .
+
+<https://da.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://de.wikipedia.org/wiki/Hilfe:%C3%9Cbersicht> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "de" ;
+	schema:isPartOf <https://de.wikipedia.org/> ;
+	schema:name "Hilfe:Übersicht"@de .
+
+<https://de.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://de.wikibooks.org/wiki/Wikibooks:Hilfe> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "de" ;
+	schema:isPartOf <https://de.wikibooks.org/> ;
+	schema:name "Wikibooks:Hilfe"@de .
+
+<https://de.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://de.wikinews.org/wiki/Hilfe:%C3%9Cbersicht> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "de" ;
+	schema:isPartOf <https://de.wikinews.org/> ;
+	schema:name "Hilfe:Übersicht"@de .
+
+<https://de.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://de.wikiquote.org/wiki/Wikiquote:Hilfe> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "de" ;
+	schema:isPartOf <https://de.wikiquote.org/> ;
+	schema:name "Wikiquote:Hilfe"@de .
+
+<https://de.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://de.wikisource.org/wiki/Wikisource:Hilfe> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "de" ;
+	schema:isPartOf <https://de.wikisource.org/> ;
+	schema:name "Wikisource:Hilfe"@de .
+
+<https://de.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://de.wikiversity.org/wiki/Wikiversity:Hilfe> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "de" ;
+	schema:isPartOf <https://de.wikiversity.org/> ;
+	schema:name "Wikiversity:Hilfe"@de .
+
+<https://de.wikiversity.org/> wikibase:wikiGroup "wikiversity" .
+
+<https://diq.wikipedia.org/wiki/Desteg:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "diq" ;
+	schema:isPartOf <https://diq.wikipedia.org/> ;
+	schema:name "Desteg:Contents"@diq .
+
+<https://diq.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://dsb.wikipedia.org/wiki/Pomoc:Pomoc> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "dsb" ;
+	schema:isPartOf <https://dsb.wikipedia.org/> ;
+	schema:name "Pomoc:Pomoc"@dsb .
+
+<https://dsb.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://dty.wikipedia.org/wiki/Helppage> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "dty" ;
+	schema:isPartOf <https://dty.wikipedia.org/> ;
+	schema:name "Helppage"@dty .
+
+<https://dty.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://dz.wikipedia.org/wiki/Help:%E0%BD%93%E0%BD%84%E0%BC%8B%E0%BD%91%E0%BD%BC%E0%BD%93%E0%BC%8D> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "dz" ;
+	schema:isPartOf <https://dz.wikipedia.org/> ;
+	schema:name "Help:ནང་དོན།"@dz .
+
+<https://dz.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://el.wikipedia.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1:%CE%92%CE%BF%CE%AE%CE%B8%CE%B5%CE%B9%CE%B1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "el" ;
+	schema:isPartOf <https://el.wikipedia.org/> ;
+	schema:name "Βικιπαίδεια:Βοήθεια"@el .
+
+<https://el.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://el.wikiquote.org/wiki/%CE%92%CE%BF%CE%AE%CE%B8%CE%B5%CE%B9%CE%B1:%CE%A0%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%B1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "el" ;
+	schema:isPartOf <https://el.wikiquote.org/> ;
+	schema:name "Βοήθεια:Περιεχόμενα"@el .
+
+<https://el.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://el.wikiversity.org/wiki/%CE%92%CE%BF%CE%AE%CE%B8%CE%B5%CE%B9%CE%B1:%CE%A0%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%B1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "el" ;
+	schema:isPartOf <https://el.wikiversity.org/> ;
+	schema:name "Βοήθεια:Περιεχόμενα"@el .
+
+<https://el.wikiversity.org/> wikibase:wikiGroup "wikiversity" .
+
+<https://en.wikipedia.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://en.wikipedia.org/> ;
+	schema:name "Help:Contents"@en .
+
+<https://en.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://en.wikibooks.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://en.wikibooks.org/> ;
+	schema:name "Help:Contents"@en .
+
+<https://en.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://en.wikinews.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://en.wikinews.org/> ;
+	schema:name "Help:Contents"@en .
+
+<https://en.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://en.wikiquote.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://en.wikiquote.org/> ;
+	schema:name "Help:Contents"@en .
+
+<https://en.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://en.wikisource.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://en.wikisource.org/> ;
+	schema:name "Help:Contents"@en .
+
+<https://en.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://en.wikiversity.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://en.wikiversity.org/> ;
+	schema:name "Help:Contents"@en .
+
+<https://en.wikiversity.org/> wikibase:wikiGroup "wikiversity" .
+
+<https://en.wikivoyage.org/wiki/Wikivoyage:Help> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://en.wikivoyage.org/> ;
+	schema:name "Wikivoyage:Help"@en .
+
+<https://en.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://en.wiktionary.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://en.wiktionary.org/> ;
+	schema:name "Help:Contents"@en .
+
+<https://en.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://eo.wikipedia.org/wiki/Helpo:Enhavo> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "eo" ;
+	schema:isPartOf <https://eo.wikipedia.org/> ;
+	schema:name "Helpo:Enhavo"@eo .
+
+<https://eo.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://eo.wikibooks.org/wiki/Helpo:Enkonduko> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "eo" ;
+	schema:isPartOf <https://eo.wikibooks.org/> ;
+	schema:name "Helpo:Enkonduko"@eo .
+
+<https://eo.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://es.wikipedia.org/wiki/Ayuda:Contenidos> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "es" ;
+	schema:isPartOf <https://es.wikipedia.org/> ;
+	schema:name "Ayuda:Contenidos"@es .
+
+<https://es.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://es.wikibooks.org/wiki/Wikilibros:Ayuda> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "es" ;
+	schema:isPartOf <https://es.wikibooks.org/> ;
+	schema:name "Wikilibros:Ayuda"@es .
+
+<https://es.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://es.wikinews.org/wiki/Ayuda:Contenidos> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "es" ;
+	schema:isPartOf <https://es.wikinews.org/> ;
+	schema:name "Ayuda:Contenidos"@es .
+
+<https://es.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://es.wikiquote.org/wiki/Ayuda:Contenidos> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "es" ;
+	schema:isPartOf <https://es.wikiquote.org/> ;
+	schema:name "Ayuda:Contenidos"@es .
+
+<https://es.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://es.wikisource.org/wiki/Wikisource:Ayuda> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "es" ;
+	schema:isPartOf <https://es.wikisource.org/> ;
+	schema:name "Wikisource:Ayuda"@es .
+
+<https://es.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://es.wikiversity.org/wiki/Ayuda:Ayuda> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "es" ;
+	schema:isPartOf <https://es.wikiversity.org/> ;
+	schema:name "Ayuda:Ayuda"@es .
+
+<https://es.wikiversity.org/> wikibase:wikiGroup "wikiversity" .
+
+<https://es.wiktionary.org/wiki/Wikcionario:Ayuda> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "es" ;
+	schema:isPartOf <https://es.wiktionary.org/> ;
+	schema:name "Wikcionario:Ayuda"@es .
+
+<https://es.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://et.wikipedia.org/wiki/Juhend:Sisukord> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "et" ;
+	schema:isPartOf <https://et.wikipedia.org/> ;
+	schema:name "Juhend:Sisukord"@et .
+
+<https://et.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://et.wikibooks.org/wiki/Juhend:Sisukord> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "et" ;
+	schema:isPartOf <https://et.wikibooks.org/> ;
+	schema:name "Juhend:Sisukord"@et .
+
+<https://et.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://et.wikisource.org/wiki/Juhend:Sisukord> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "et" ;
+	schema:isPartOf <https://et.wikisource.org/> ;
+	schema:name "Juhend:Sisukord"@et .
+
+<https://et.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://eu.wikiquote.org/wiki/Wikiesanak:Laguntza> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "eu" ;
+	schema:isPartOf <https://eu.wikiquote.org/> ;
+	schema:name "Wikiesanak:Laguntza"@eu .
+
+<https://eu.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7:%D9%81%D9%87%D8%B1%D8%B3%D8%AA> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fa" ;
+	schema:isPartOf <https://fa.wikipedia.org/> ;
+	schema:name "راهنما:فهرست"@fa .
+
+<https://fa.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://fa.wikibooks.org/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7:%D9%81%D9%87%D8%B1%D8%B3%D8%AA> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fa" ;
+	schema:isPartOf <https://fa.wikibooks.org/> ;
+	schema:name "راهنما:فهرست"@fa .
+
+<https://fa.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://fa.wikiquote.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%DA%AF%D9%81%D8%AA%D8%A7%D9%88%D8%B1%D8%AF:%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fa" ;
+	schema:isPartOf <https://fa.wikiquote.org/> ;
+	schema:name "ویکی‌گفتاورد:راهنما"@fa .
+
+<https://fa.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://fa.wikisource.org/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7:%D8%AF%D8%B1%D9%88%D9%86%E2%80%8C%D9%85%D8%A7%DB%8C%D9%87> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fa" ;
+	schema:isPartOf <https://fa.wikisource.org/> ;
+	schema:name "راهنما:درون‌مایه"@fa .
+
+<https://fa.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://fa.wiktionary.org/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7:%D8%AF%D8%B1%D9%88%D9%86%E2%80%8C%D9%85%D8%A7%DB%8C%D9%87> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fa" ;
+	schema:isPartOf <https://fa.wiktionary.org/> ;
+	schema:name "راهنما:درون‌مایه"@fa .
+
+<https://fa.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://fiu-vro.wikipedia.org/wiki/Oppus:Abi> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "vro" ;
+	schema:isPartOf <https://fiu-vro.wikipedia.org/> ;
+	schema:name "Oppus:Abi"@vro .
+
+<https://fiu-vro.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://fi.wikipedia.org/wiki/Ohje:Sis%C3%A4llys> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fi" ;
+	schema:isPartOf <https://fi.wikipedia.org/> ;
+	schema:name "Ohje:Sisällys"@fi .
+
+<https://fi.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://fi.wikibooks.org/wiki/Ohje:Sis%C3%A4llys> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fi" ;
+	schema:isPartOf <https://fi.wikibooks.org/> ;
+	schema:name "Ohje:Sisällys"@fi .
+
+<https://fi.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://fi.wikiversity.org/wiki/Ohje:Sis%C3%A4llys> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fi" ;
+	schema:isPartOf <https://fi.wikiversity.org/> ;
+	schema:name "Ohje:Sisällys"@fi .
+
+<https://fi.wikiversity.org/> wikibase:wikiGroup "wikiversity" .
+
+<https://fo.wikipedia.org/wiki/Hj%C3%A1lp:Innihald> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fo" ;
+	schema:isPartOf <https://fo.wikipedia.org/> ;
+	schema:name "Hjálp:Innihald"@fo .
+
+<https://fo.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://fr.wikibooks.org/wiki/Aide:Accueil> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fr" ;
+	schema:isPartOf <https://fr.wikibooks.org/> ;
+	schema:name "Aide:Accueil"@fr .
+
+<https://fr.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://fr.wikinews.org/wiki/Aide:Sommaire> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fr" ;
+	schema:isPartOf <https://fr.wikinews.org/> ;
+	schema:name "Aide:Sommaire"@fr .
+
+<https://fr.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://fr.wikiquote.org/wiki/Aide:Sommaire> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fr" ;
+	schema:isPartOf <https://fr.wikiquote.org/> ;
+	schema:name "Aide:Sommaire"@fr .
+
+<https://fr.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://fr.wikisource.org/wiki/Aide:Aide> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fr" ;
+	schema:isPartOf <https://fr.wikisource.org/> ;
+	schema:name "Aide:Aide"@fr .
+
+<https://fr.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://fr.wikiversity.org/wiki/Aide:Sommaire> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fr" ;
+	schema:isPartOf <https://fr.wikiversity.org/> ;
+	schema:name "Aide:Sommaire"@fr .
+
+<https://fr.wikiversity.org/> wikibase:wikiGroup "wikiversity" .
+
+<https://fr.wikivoyage.org/wiki/Aide:Accueil> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fr" ;
+	schema:isPartOf <https://fr.wikivoyage.org/> ;
+	schema:name "Aide:Accueil"@fr .
+
+<https://fr.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://fr.wiktionary.org/wiki/Aide:Sommaire> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fr" ;
+	schema:isPartOf <https://fr.wiktionary.org/> ;
+	schema:name "Aide:Sommaire"@fr .
+
+<https://fr.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://fy.wikipedia.org/wiki/Wikipedy:Help> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fy" ;
+	schema:isPartOf <https://fy.wikipedia.org/> ;
+	schema:name "Wikipedy:Help"@fy .
+
+<https://fy.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ga.wikipedia.org/wiki/Vicip%C3%A9id:Cabhair> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ga" ;
+	schema:isPartOf <https://ga.wikipedia.org/> ;
+	schema:name "Vicipéid:Cabhair"@ga .
+
+<https://ga.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://gd.wikipedia.org/wiki/Cobhair:Susbaint> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "gd" ;
+	schema:isPartOf <https://gd.wikipedia.org/> ;
+	schema:name "Cobhair:Susbaint"@gd .
+
+<https://gd.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://gl.wikipedia.org/wiki/Wikipedia:Axuda> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "gl" ;
+	schema:isPartOf <https://gl.wikipedia.org/> ;
+	schema:name "Wikipedia:Axuda"@gl .
+
+<https://gl.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://gl.wikiquote.org/wiki/Axuda:%C3%8Dndice> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "gl" ;
+	schema:isPartOf <https://gl.wikiquote.org/> ;
+	schema:name "Axuda:Índice"@gl .
+
+<https://gl.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://gl.wikisource.org/wiki/Wikisource:Axuda> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "gl" ;
+	schema:isPartOf <https://gl.wikisource.org/> ;
+	schema:name "Wikisource:Axuda"@gl .
+
+<https://gl.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://gn.wikipedia.org/wiki/Pytyv%C3%B5:Pytyv%C3%B5h%C3%A1ra> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "gn" ;
+	schema:isPartOf <https://gn.wikipedia.org/> ;
+	schema:name "Pytyvõ:Pytyvõhára"@gn .
+
+<https://gn.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://gu.wikipedia.org/wiki/%E0%AA%AE%E0%AA%A6%E0%AA%A6:%E0%AA%B8%E0%AB%82%E0%AA%9A%E0%AA%BF> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "gu" ;
+	schema:isPartOf <https://gu.wikipedia.org/> ;
+	schema:name "મદદ:સૂચિ"@gu .
+
+<https://gu.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://gu.wikisource.org/wiki/%E0%AA%AE%E0%AA%A6%E0%AA%A6:%E0%AA%B8%E0%AB%82%E0%AA%9A%E0%AA%BF> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "gu" ;
+	schema:isPartOf <https://gu.wikisource.org/> ;
+	schema:name "મદદ:સૂચિ"@gu .
+
+<https://gu.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://he.wikipedia.org/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "he" ;
+	schema:isPartOf <https://he.wikipedia.org/> ;
+	schema:name "עזרה:תפריט ראשי"@he .
+
+<https://he.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://he.wikibooks.org/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%93%D7%A3_%D7%A2%D7%96%D7%A8%D7%94> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "he" ;
+	schema:isPartOf <https://he.wikibooks.org/> ;
+	schema:name "עזרה:דף עזרה"@he .
+
+<https://he.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://he.wikiquote.org/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "he" ;
+	schema:isPartOf <https://he.wikiquote.org/> ;
+	schema:name "עזרה:תפריט ראשי"@he .
+
+<https://he.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://he.wikisource.org/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "he" ;
+	schema:isPartOf <https://he.wikisource.org/> ;
+	schema:name "עזרה:תפריט ראשי"@he .
+
+<https://he.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://he.wiktionary.org/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "he" ;
+	schema:isPartOf <https://he.wiktionary.org/> ;
+	schema:name "עזרה:תפריט ראשי"@he .
+
+<https://he.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hi" ;
+	schema:isPartOf <https://hi.wikipedia.org/> ;
+	schema:name "विकिपीडिया:सहायता"@hi .
+
+<https://hi.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://hr.wikipedia.org/wiki/Pomo%C4%87:Sadr%C5%BEaj> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hr" ;
+	schema:isPartOf <https://hr.wikipedia.org/> ;
+	schema:name "Pomoć:Sadržaj"@hr .
+
+<https://hr.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://hsb.wikipedia.org/wiki/Wikipedija:Pomoc> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hsb" ;
+	schema:isPartOf <https://hsb.wikipedia.org/> ;
+	schema:name "Wikipedija:Pomoc"@hsb .
+
+<https://hsb.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://hu.wikipedia.org/wiki/Wikip%C3%A9dia:Seg%C3%ADts%C3%A9g> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hu" ;
+	schema:isPartOf <https://hu.wikipedia.org/> ;
+	schema:name "Wikipédia:Segítség"@hu .
+
+<https://hu.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://hu.wikibooks.org/wiki/Seg%C3%ADts%C3%A9g:Tartalom> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hu" ;
+	schema:isPartOf <https://hu.wikibooks.org/> ;
+	schema:name "Segítség:Tartalom"@hu .
+
+<https://hu.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://hu.wikiquote.org/wiki/Seg%C3%ADts%C3%A9g:Tartalom> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hu" ;
+	schema:isPartOf <https://hu.wikiquote.org/> ;
+	schema:name "Segítség:Tartalom"@hu .
+
+<https://hu.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://hy.wikipedia.org/wiki/%D5%95%D5%A3%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6:%D4%B3%D5%AC%D5%AD%D5%A1%D6%81%D5%A1%D5%B6%D5%AF> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hy" ;
+	schema:isPartOf <https://hy.wikipedia.org/> ;
+	schema:name "Օգնություն:Գլխացանկ"@hy .
+
+<https://hy.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://hy.wikiquote.org/wiki/%D5%95%D5%A3%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6:%D4%B3%D5%AC%D5%AD%D5%A1%D6%81%D5%A1%D5%B6%D5%AF> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hy" ;
+	schema:isPartOf <https://hy.wikiquote.org/> ;
+	schema:name "Օգնություն:Գլխացանկ"@hy .
+
+<https://hy.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://ia.wikipedia.org/wiki/Wikipedia:Adjuta> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ia" ;
+	schema:isPartOf <https://ia.wikipedia.org/> ;
+	schema:name "Wikipedia:Adjuta"@ia .
+
+<https://ia.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://id.wikipedia.org/wiki/Bantuan:Isi> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "id" ;
+	schema:isPartOf <https://id.wikipedia.org/> ;
+	schema:name "Bantuan:Isi"@id .
+
+<https://id.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://id.wikibooks.org/wiki/Bantuan:Isi> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "id" ;
+	schema:isPartOf <https://id.wikibooks.org/> ;
+	schema:name "Bantuan:Isi"@id .
+
+<https://id.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://id.wikisource.org/wiki/Bantuan:Isi> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "id" ;
+	schema:isPartOf <https://id.wikisource.org/> ;
+	schema:name "Bantuan:Isi"@id .
+
+<https://id.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://ilo.wikipedia.org/wiki/Tulong:Dagiti_linaon> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ilo" ;
+	schema:isPartOf <https://ilo.wikipedia.org/> ;
+	schema:name "Tulong:Dagiti linaon"@ilo .
+
+<https://ilo.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://io.wikipedia.org/wiki/Helpo:Helpo> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "io" ;
+	schema:isPartOf <https://io.wikipedia.org/> ;
+	schema:name "Helpo:Helpo"@io .
+
+<https://io.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://is.wikipedia.org/wiki/Hj%C3%A1lp:Efnisyfirlit> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "is" ;
+	schema:isPartOf <https://is.wikipedia.org/> ;
+	schema:name "Hjálp:Efnisyfirlit"@is .
+
+<https://is.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://is.wikiquote.org/wiki/Hj%C3%A1lp:Efnisyfirlit> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "is" ;
+	schema:isPartOf <https://is.wikiquote.org/> ;
+	schema:name "Hjálp:Efnisyfirlit"@is .
+
+<https://is.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://is.wikisource.org/wiki/Hj%C3%A1lp:Efnisyfirlit> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "is" ;
+	schema:isPartOf <https://is.wikisource.org/> ;
+	schema:name "Hjálp:Efnisyfirlit"@is .
+
+<https://is.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://it.wikipedia.org/wiki/Aiuto:Aiuto> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "it" ;
+	schema:isPartOf <https://it.wikipedia.org/> ;
+	schema:name "Aiuto:Aiuto"@it .
+
+<https://it.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://it.wikibooks.org/wiki/Aiuto:Aiuto> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "it" ;
+	schema:isPartOf <https://it.wikibooks.org/> ;
+	schema:name "Aiuto:Aiuto"@it .
+
+<https://it.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://it.wikiquote.org/wiki/Aiuto:Aiuto> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "it" ;
+	schema:isPartOf <https://it.wikiquote.org/> ;
+	schema:name "Aiuto:Aiuto"@it .
+
+<https://it.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://it.wikisource.org/wiki/Aiuto:Aiuto> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "it" ;
+	schema:isPartOf <https://it.wikisource.org/> ;
+	schema:name "Aiuto:Aiuto"@it .
+
+<https://it.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://it.wikiversity.org/wiki/Aiuto:Aiuto> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "it" ;
+	schema:isPartOf <https://it.wikiversity.org/> ;
+	schema:name "Aiuto:Aiuto"@it .
+
+<https://it.wikiversity.org/> wikibase:wikiGroup "wikiversity" .
+
+<https://it.wikivoyage.org/wiki/Aiuto:Aiuto> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "it" ;
+	schema:isPartOf <https://it.wikivoyage.org/> ;
+	schema:name "Aiuto:Aiuto"@it .
+
+<https://it.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://it.wiktionary.org/wiki/Aiuto:Aiuto> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "it" ;
+	schema:isPartOf <https://it.wiktionary.org/> ;
+	schema:name "Aiuto:Aiuto"@it .
+
+<https://it.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://ja.wikipedia.org/wiki/Help:%E7%9B%AE%E6%AC%A1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ja" ;
+	schema:isPartOf <https://ja.wikipedia.org/> ;
+	schema:name "Help:目次"@ja .
+
+<https://ja.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ja.wikibooks.org/wiki/%E3%83%98%E3%83%AB%E3%83%97:%E7%9B%AE%E6%AC%A1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ja" ;
+	schema:isPartOf <https://ja.wikibooks.org/> ;
+	schema:name "ヘルプ:目次"@ja .
+
+<https://ja.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://ja.wikisource.org/wiki/%E3%83%98%E3%83%AB%E3%83%97:%E7%9B%AE%E6%AC%A1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ja" ;
+	schema:isPartOf <https://ja.wikisource.org/> ;
+	schema:name "ヘルプ:目次"@ja .
+
+<https://ja.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://ja.wikiversity.org/wiki/%E3%83%98%E3%83%AB%E3%83%97:%E7%9B%AE%E6%AC%A1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ja" ;
+	schema:isPartOf <https://ja.wikiversity.org/> ;
+	schema:name "ヘルプ:目次"@ja .
+
+<https://ja.wikiversity.org/> wikibase:wikiGroup "wikiversity" .
+
+<https://ja.wiktionary.org/wiki/%E3%83%98%E3%83%AB%E3%83%97:%E7%9B%AE%E6%AC%A1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ja" ;
+	schema:isPartOf <https://ja.wiktionary.org/> ;
+	schema:name "ヘルプ:目次"@ja .
+
+<https://ja.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://jv.wikipedia.org/wiki/Pitulung:Isi> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "jv" ;
+	schema:isPartOf <https://jv.wikipedia.org/> ;
+	schema:name "Pitulung:Isi"@jv .
+
+<https://jv.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ka.wikiquote.org/wiki/%E1%83%93%E1%83%90%E1%83%AE%E1%83%9B%E1%83%90%E1%83%A0%E1%83%94%E1%83%91%E1%83%90:%E1%83%A8%E1%83%98%E1%83%9C%E1%83%90%E1%83%90%E1%83%A0%E1%83%A1%E1%83%98> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ka" ;
+	schema:isPartOf <https://ka.wikiquote.org/> ;
+	schema:name "დახმარება:შინაარსი"@ka .
+
+<https://ka.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://kk.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BD%D1%8B%D2%9B%D1%82%D0%B0%D0%BC%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "kk" ;
+	schema:isPartOf <https://kk.wikipedia.org/> ;
+	schema:name "Уикипедия:Анықтама"@kk .
+
+<https://kk.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://kl.wikipedia.org/wiki/Ikiuutit:Ikiuutit> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "kl" ;
+	schema:isPartOf <https://kl.wikipedia.org/> ;
+	schema:name "Ikiuutit:Ikiuutit"@kl .
+
+<https://kl.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://km.wikipedia.org/wiki/%E1%9E%87%E1%9F%86%E1%9E%93%E1%9E%BD%E1%9E%99:%E1%9E%98%E1%9E%B6%E1%9E%8F%E1%9E%B7%E1%9E%80%E1%9E%B6> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "km" ;
+	schema:isPartOf <https://km.wikipedia.org/> ;
+	schema:name "ជំនួយ:មាតិកា"@km .
+
+<https://km.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://kn.wikipedia.org/wiki/%E0%B2%B8%E0%B2%B9%E0%B2%BE%E0%B2%AF:%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%B5%E0%B2%BF%E0%B2%A1%E0%B2%BF> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "kn" ;
+	schema:isPartOf <https://kn.wikipedia.org/> ;
+	schema:name "ಸಹಾಯ:ಪರಿವಿಡಿ"@kn .
+
+<https://kn.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8F%84%EC%9B%80%EB%A7%90> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ko" ;
+	schema:isPartOf <https://ko.wikipedia.org/> ;
+	schema:name "위키백과:도움말"@ko .
+
+<https://ko.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ko.wikinews.org/wiki/%EC%9C%84%ED%82%A4%EB%89%B4%EC%8A%A4:%EB%8F%84%EC%9B%80%EB%A7%90> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ko" ;
+	schema:isPartOf <https://ko.wikinews.org/> ;
+	schema:name "위키뉴스:도움말"@ko .
+
+<https://ko.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://ko.wikiquote.org/wiki/%EB%8F%84%EC%9B%80%EB%A7%90:%EB%AA%A9%EC%B0%A8> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ko" ;
+	schema:isPartOf <https://ko.wikiquote.org/> ;
+	schema:name "도움말:목차"@ko .
+
+<https://ko.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://ko.wikisource.org/wiki/%EC%9C%84%ED%82%A4%EB%AC%B8%ED%97%8C:%EB%8F%84%EC%9B%80%EB%A7%90> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ko" ;
+	schema:isPartOf <https://ko.wikisource.org/> ;
+	schema:name "위키문헌:도움말"@ko .
+
+<https://ko.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://ko.wiktionary.org/wiki/%EC%9C%84%ED%82%A4%EB%82%B1%EB%A7%90%EC%82%AC%EC%A0%84:%EB%8F%84%EC%9B%80%EB%A7%90> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ko" ;
+	schema:isPartOf <https://ko.wiktionary.org/> ;
+	schema:name "위키낱말사전:도움말"@ko .
+
+<https://ko.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://ksh.wikipedia.org/wiki/Wikipedia:H%C3%B6lp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ksh" ;
+	schema:isPartOf <https://ksh.wikipedia.org/> ;
+	schema:name "Wikipedia:Hölp"@ksh .
+
+<https://ksh.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://kw.wikipedia.org/wiki/Wikipedia:Gweres> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "kw" ;
+	schema:isPartOf <https://kw.wikipedia.org/> ;
+	schema:name "Wikipedia:Gweres"@kw .
+
+<https://kw.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ky.wikipedia.org/wiki/%D0%96%D0%B0%D1%80%D0%B4%D0%B0%D0%BC:%D0%9C%D0%B0%D0%B7%D0%BC%D1%83%D0%BD%D1%83> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ky" ;
+	schema:isPartOf <https://ky.wikipedia.org/> ;
+	schema:name "Жардам:Мазмуну"@ky .
+
+<https://ky.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://lad.wikipedia.org/wiki/Ayudo:Cont%C3%A8nidos> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "lad" ;
+	schema:isPartOf <https://lad.wikipedia.org/> ;
+	schema:name "Ayudo:Contènidos"@lad .
+
+<https://lad.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://la.wikipedia.org/wiki/Vicipaedia:Praefatio> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "la" ;
+	schema:isPartOf <https://la.wikipedia.org/> ;
+	schema:name "Vicipaedia:Praefatio"@la .
+
+<https://la.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://la.wikiquote.org/wiki/Auxilium:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "la" ;
+	schema:isPartOf <https://la.wikiquote.org/> ;
+	schema:name "Auxilium:Contents"@la .
+
+<https://la.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://lb.wikipedia.org/wiki/Wikipedia:H%C3%ABllef> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "lb" ;
+	schema:isPartOf <https://lb.wikipedia.org/> ;
+	schema:name "Wikipedia:Hëllef"@lb .
+
+<https://lb.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://li.wikipedia.org/wiki/Wikipedia:Gebroekersportaol> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "li" ;
+	schema:isPartOf <https://li.wikipedia.org/> ;
+	schema:name "Wikipedia:Gebroekersportaol"@li .
+
+<https://li.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://lmo.wikipedia.org/wiki/Wikipedia:J%C3%BCtt> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "lmo" ;
+	schema:isPartOf <https://lmo.wikipedia.org/> ;
+	schema:name "Wikipedia:Jütt"@lmo .
+
+<https://lmo.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ln.wikipedia.org/wiki/Bos%C3%A1lisi:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ln" ;
+	schema:isPartOf <https://ln.wikipedia.org/> ;
+	schema:name "Bosálisi:Contents"@ln .
+
+<https://ln.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://lo.wikipedia.org/wiki/%E0%BA%8A%E0%BB%88%E0%BA%A7%E0%BA%8D%E0%BB%80%E0%BA%AB%E0%BA%BC%E0%BA%B7%E0%BA%AD:%E0%BB%80%E0%BA%99%E0%BA%B7%E0%BB%89%E0%BA%AD%E0%BB%83%E0%BA%99> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "lo" ;
+	schema:isPartOf <https://lo.wikipedia.org/> ;
+	schema:name "ຊ່ວຍເຫຼືອ:ເນື້ອໃນ"@lo .
+
+<https://lo.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://lt.wikipedia.org/wiki/Pagalba:Turinys> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "lt" ;
+	schema:isPartOf <https://lt.wikipedia.org/> ;
+	schema:name "Pagalba:Turinys"@lt .
+
+<https://lt.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://lt.wikibooks.org/wiki/Pagalba:Turinys> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "lt" ;
+	schema:isPartOf <https://lt.wikibooks.org/> ;
+	schema:name "Pagalba:Turinys"@lt .
+
+<https://lt.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://lt.wikiquote.org/wiki/Wikiquote:Kaip_kurti> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "lt" ;
+	schema:isPartOf <https://lt.wikiquote.org/> ;
+	schema:name "Wikiquote:Kaip kurti"@lt .
+
+<https://lt.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://lv.wikipedia.org/wiki/Pal%C4%ABdz%C4%ABba:Saturs> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "lv" ;
+	schema:isPartOf <https://lv.wikipedia.org/> ;
+	schema:name "Palīdzība:Saturs"@lv .
+
+<https://lv.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://map-bms.wikipedia.org/wiki/Pitulung:Isi> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "jv-x-bms" ;
+	schema:isPartOf <https://map-bms.wikipedia.org/> ;
+	schema:name "Pitulung:Isi"@jv-x-bms .
+
+<https://map-bms.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://www.mediawiki.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://www.mediawiki.org/> ;
+	schema:name "Help:Contents"@en .
+
+<https://www.mediawiki.org/> wikibase:wikiGroup "mediawiki" .
+
+<https://meta.wikimedia.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://meta.wikimedia.org/> ;
+	schema:name "Help:Contents"@en .
+
+<https://meta.wikimedia.org/> wikibase:wikiGroup "meta" .
+
+<https://min.wikipedia.org/wiki/Bantuan:Isi> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "min" ;
+	schema:isPartOf <https://min.wikipedia.org/> ;
+	schema:name "Bantuan:Isi"@min .
+
+<https://min.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://mi.wikipedia.org/wiki/Whakam%C4%81rama:Kuputohu> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "mi" ;
+	schema:isPartOf <https://mi.wikipedia.org/> ;
+	schema:name "Whakamārama:Kuputohu"@mi .
+
+<https://mi.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://mi.wiktionary.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "mi" ;
+	schema:isPartOf <https://mi.wiktionary.org/> ;
+	schema:name "Help:Contents"@mi .
+
+<https://mi.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://mk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%88:%D0%A1%D0%BE%D0%B4%D1%80%D0%B6%D0%B8%D0%BD%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "mk" ;
+	schema:isPartOf <https://mk.wikipedia.org/> ;
+	schema:name "Помош:Содржина"@mk .
+
+<https://mk.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%B9%E0%B4%BE%E0%B4%AF%E0%B4%82:%E0%B4%89%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%9F%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%82> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ml" ;
+	schema:isPartOf <https://ml.wikipedia.org/> ;
+	schema:name "സഹായം:ഉള്ളടക്കം"@ml .
+
+<https://ml.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ml.wikisource.org/wiki/%E0%B4%B8%E0%B4%B9%E0%B4%BE%E0%B4%AF%E0%B4%82:%E0%B4%89%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%9F%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%82> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ml" ;
+	schema:isPartOf <https://ml.wikisource.org/> ;
+	schema:name "സഹായം:ഉള്ളടക്കം"@ml .
+
+<https://ml.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://mn.wikipedia.org/wiki/%D0%A2%D1%83%D1%81%D0%BB%D0%B0%D0%BC%D0%B6:%D0%90%D0%B3%D1%83%D1%83%D0%BB%D0%B3%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "mn" ;
+	schema:isPartOf <https://mn.wikipedia.org/> ;
+	schema:name "Тусламж:Агуулга"@mn .
+
+<https://mn.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A5%8D%E0%A4%AF:%E0%A4%86%E0%A4%B6%E0%A4%AF> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "mr" ;
+	schema:isPartOf <https://mr.wikipedia.org/> ;
+	schema:name "सहाय्य:आशय"@mr .
+
+<https://mr.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A5%8D%E0%A4%AF:%E0%A4%86%E0%A4%B6%E0%A4%AF> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "mr" ;
+	schema:isPartOf <https://mr.wikisource.org/> ;
+	schema:name "सहाय्य:आशय"@mr .
+
+<https://mr.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://ms.wikipedia.org/wiki/Bantuan:Kandungan> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ms" ;
+	schema:isPartOf <https://ms.wikipedia.org/> ;
+	schema:name "Bantuan:Kandungan"@ms .
+
+<https://ms.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ms.wikibooks.org/wiki/Bantuan:Kandungan> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ms" ;
+	schema:isPartOf <https://ms.wikibooks.org/> ;
+	schema:name "Bantuan:Kandungan"@ms .
+
+<https://ms.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://ms.wiktionary.org/wiki/Bantuan:Kandungan> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ms" ;
+	schema:isPartOf <https://ms.wiktionary.org/> ;
+	schema:name "Bantuan:Kandungan"@ms .
+
+<https://ms.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://mt.wikipedia.org/wiki/G%C4%A7ajnuna:Kontenut> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "mt" ;
+	schema:isPartOf <https://mt.wikipedia.org/> ;
+	schema:name "Għajnuna:Kontenut"@mt .
+
+<https://mt.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://nap.wikipedia.org/wiki/Wikipedia:Aj%C3%B9to> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nap" ;
+	schema:isPartOf <https://nap.wikipedia.org/> ;
+	schema:name "Wikipedia:Ajùto"@nap .
+
+<https://nap.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://nds-nl.wikipedia.org/wiki/Hulpe:Wikipedie> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nds-NL" ;
+	schema:isPartOf <https://nds-nl.wikipedia.org/> ;
+	schema:name "Hulpe:Wikipedie"@nds-NL .
+
+<https://nds-nl.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://nds.wikipedia.org/wiki/Wikipedia:H%C3%BClp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nds" ;
+	schema:isPartOf <https://nds.wikipedia.org/> ;
+	schema:name "Wikipedia:Hülp"@nds .
+
+<https://nds.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ne.wikipedia.org/wiki/%E0%A4%AE%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A4%A4:%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ne" ;
+	schema:isPartOf <https://ne.wikipedia.org/> ;
+	schema:name "मद्दत:सहायता"@ne .
+
+<https://ne.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://new.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%B2%E0%A4%BF:%E0%A4%A7%E0%A4%B2%E0%A4%83%E0%A4%AA%E0%A5%8C> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "new" ;
+	schema:isPartOf <https://new.wikipedia.org/> ;
+	schema:name "ग्वाहालि:धलःपौ"@new .
+
+<https://new.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://nl.wikipedia.org/wiki/Portaal:Hulp_en_beheer> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nl" ;
+	schema:isPartOf <https://nl.wikipedia.org/> ;
+	schema:name "Portaal:Hulp en beheer"@nl .
+
+<https://nl.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://nl.wikibooks.org/wiki/Wikibooks:Help> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nl" ;
+	schema:isPartOf <https://nl.wikibooks.org/> ;
+	schema:name "Wikibooks:Help"@nl .
+
+<https://nl.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://nl.wikivoyage.org/wiki/Wikivoyage:Hulp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nl" ;
+	schema:isPartOf <https://nl.wikivoyage.org/> ;
+	schema:name "Wikivoyage:Hulp"@nl .
+
+<https://nl.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://nl.wiktionary.org/wiki/WikiWoordenboek:Hulp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nl" ;
+	schema:isPartOf <https://nl.wiktionary.org/> ;
+	schema:name "WikiWoordenboek:Hulp"@nl .
+
+<https://nl.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://nn.wikipedia.org/wiki/Hjelp:Innhald> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nn" ;
+	schema:isPartOf <https://nn.wikipedia.org/> ;
+	schema:name "Hjelp:Innhald"@nn .
+
+<https://nn.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://no.wikipedia.org/wiki/Hjelp:Portal> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nb" ;
+	schema:isPartOf <https://no.wikipedia.org/> ;
+	schema:name "Hjelp:Portal"@nb .
+
+<https://no.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://no.wikisource.org/wiki/Wikikilden:Hjelp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nb" ;
+	schema:isPartOf <https://no.wikisource.org/> ;
+	schema:name "Wikikilden:Hjelp"@nb .
+
+<https://no.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://no.wiktionary.org/wiki/Wiktionary:Hjelp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nb" ;
+	schema:isPartOf <https://no.wiktionary.org/> ;
+	schema:name "Wiktionary:Hjelp"@nb .
+
+<https://no.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://nv.wikipedia.org/wiki/An%C3%A1%CA%BC%C3%A1lwo%CA%BC:Bee_had%C3%ADt%CA%BC%C3%A9h%C3%ADg%C3%AD%C3%AD> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nv" ;
+	schema:isPartOf <https://nv.wikipedia.org/> ;
+	schema:name "Anáʼálwoʼ:Bee hadítʼéhígíí"@nv .
+
+<https://nv.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://or.wikipedia.org/wiki/%E0%AC%B8%E0%AC%B9%E0%AC%AF%E0%AD%8B%E0%AC%97:%E0%AC%AC%E0%AC%BF%E0%AC%B7%E0%AD%9F%E0%AC%AC%E0%AC%B8%E0%AD%8D%E0%AC%A4%E0%AD%81> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "or" ;
+	schema:isPartOf <https://or.wikipedia.org/> ;
+	schema:name "ସହଯୋଗ:ବିଷୟବସ୍ତୁ"@or .
+
+<https://or.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://or.wikisource.org/wiki/%E0%AC%B8%E0%AC%B9%E0%AC%AF%E0%AD%8B%E0%AC%97:%E0%AC%AC%E0%AC%BF%E0%AC%B7%E0%AD%9F%E0%AC%AC%E0%AC%B8%E0%AD%8D%E0%AC%A4%E0%AD%81> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "or" ;
+	schema:isPartOf <https://or.wikisource.org/> ;
+	schema:name "ସହଯୋଗ:ବିଷୟବସ୍ତୁ"@or .
+
+<https://or.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://os.wikipedia.org/wiki/%C3%86%D1%85%D1%85%D1%83%D1%8B%D1%81:%D0%9C%D0%B8%D0%B4%D0%B8%D1%81> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "os" ;
+	schema:isPartOf <https://os.wikipedia.org/> ;
+	schema:name "Æххуыс:Мидис"@os .
+
+<https://os.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://pl.wikipedia.org/wiki/Pomoc:Spis_tre%C5%9Bci> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pl" ;
+	schema:isPartOf <https://pl.wikipedia.org/> ;
+	schema:name "Pomoc:Spis treści"@pl .
+
+<https://pl.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://pl.wikibooks.org/wiki/Pomoc:Spis_tre%C5%9Bci> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pl" ;
+	schema:isPartOf <https://pl.wikibooks.org/> ;
+	schema:name "Pomoc:Spis treści"@pl .
+
+<https://pl.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://pl.wikinews.org/wiki/Pomoc:Spis_tre%C5%9Bci> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pl" ;
+	schema:isPartOf <https://pl.wikinews.org/> ;
+	schema:name "Pomoc:Spis treści"@pl .
+
+<https://pl.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://pl.wikiquote.org/wiki/Pomoc:Spis_tre%C5%9Bci> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pl" ;
+	schema:isPartOf <https://pl.wikiquote.org/> ;
+	schema:name "Pomoc:Spis treści"@pl .
+
+<https://pl.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://pl.wikisource.org/wiki/Pomoc:Spis_tre%C5%9Bci> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pl" ;
+	schema:isPartOf <https://pl.wikisource.org/> ;
+	schema:name "Pomoc:Spis treści"@pl .
+
+<https://pl.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://pl.wikivoyage.org/wiki/Wikipodr%C3%B3%C5%BCe:Pomoc> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pl" ;
+	schema:isPartOf <https://pl.wikivoyage.org/> ;
+	schema:name "Wikipodróże:Pomoc"@pl .
+
+<https://pl.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://pms.wikipedia.org/wiki/Agiut:Agiut> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pms" ;
+	schema:isPartOf <https://pms.wikipedia.org/> ;
+	schema:name "Agiut:Agiut"@pms .
+
+<https://pms.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://pt.wikipedia.org/wiki/Ajuda:P%C3%A1gina_principal> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pt" ;
+	schema:isPartOf <https://pt.wikipedia.org/> ;
+	schema:name "Ajuda:Página principal"@pt .
+
+<https://pt.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://pt.wikibooks.org/wiki/Ajuda:Conte%C3%BAdos> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pt" ;
+	schema:isPartOf <https://pt.wikibooks.org/> ;
+	schema:name "Ajuda:Conteúdos"@pt .
+
+<https://pt.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://pt.wikiquote.org/wiki/Ajuda:P%C3%A1gina_principal> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pt" ;
+	schema:isPartOf <https://pt.wikiquote.org/> ;
+	schema:name "Ajuda:Página principal"@pt .
+
+<https://pt.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://pt.wikisource.org/wiki/Ajuda:Conte%C3%BAdos> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pt" ;
+	schema:isPartOf <https://pt.wikisource.org/> ;
+	schema:name "Ajuda:Conteúdos"@pt .
+
+<https://pt.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://pt.wikiversity.org/wiki/Ajuda:Busca> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pt" ;
+	schema:isPartOf <https://pt.wikiversity.org/> ;
+	schema:name "Ajuda:Busca"@pt .
+
+<https://pt.wikiversity.org/> wikibase:wikiGroup "wikiversity" .
+
+<https://pt.wikivoyage.org/wiki/Wikivoyage:Ajuda> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pt" ;
+	schema:isPartOf <https://pt.wikivoyage.org/> ;
+	schema:name "Wikivoyage:Ajuda"@pt .
+
+<https://pt.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://pt.wiktionary.org/wiki/Ajuda:%C3%8Dndice> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pt" ;
+	schema:isPartOf <https://pt.wiktionary.org/> ;
+	schema:name "Ajuda:Índice"@pt .
+
+<https://pt.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://rm.wikipedia.org/wiki/Agid:Cuntegn> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "rm" ;
+	schema:isPartOf <https://rm.wikipedia.org/> ;
+	schema:name "Agid:Cuntegn"@rm .
+
+<https://rm.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://rn.wikipedia.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "rn" ;
+	schema:isPartOf <https://rn.wikipedia.org/> ;
+	schema:name "Help:Contents"@rn .
+
+<https://rn.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ro.wikipedia.org/wiki/Ajutor:Cuprins> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ro" ;
+	schema:isPartOf <https://ro.wikipedia.org/> ;
+	schema:name "Ajutor:Cuprins"@ro .
+
+<https://ro.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ro.wikiquote.org/wiki/Ajutor:Cuprins> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ro" ;
+	schema:isPartOf <https://ro.wikiquote.org/> ;
+	schema:name "Ajutor:Cuprins"@ro .
+
+<https://ro.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://ro.wikisource.org/wiki/Ajutor:Cuprins> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ro" ;
+	schema:isPartOf <https://ro.wikisource.org/> ;
+	schema:name "Ajutor:Cuprins"@ro .
+
+<https://ro.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://ro.wikivoyage.org/wiki/Wikivoyage:Ajutor> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ro" ;
+	schema:isPartOf <https://ro.wikivoyage.org/> ;
+	schema:name "Wikivoyage:Ajutor"@ro .
+
+<https://ro.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ru" ;
+	schema:isPartOf <https://ru.wikipedia.org/> ;
+	schema:name "Википедия:Справка"@ru .
+
+<https://ru.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ru.wikibooks.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ru" ;
+	schema:isPartOf <https://ru.wikibooks.org/> ;
+	schema:name "Викиучебник:Справка"@ru .
+
+<https://ru.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://ru.wikiquote.org/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ru" ;
+	schema:isPartOf <https://ru.wikiquote.org/> ;
+	schema:name "Справка:Содержание"@ru .
+
+<https://ru.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://ru.wikisource.org/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ru" ;
+	schema:isPartOf <https://ru.wikisource.org/> ;
+	schema:name "Справка:Содержание"@ru .
+
+<https://ru.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://ru.wikiversity.org/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ru" ;
+	schema:isPartOf <https://ru.wikiversity.org/> ;
+	schema:name "Справка:Содержание"@ru .
+
+<https://ru.wikiversity.org/> wikibase:wikiGroup "wikiversity" .
+
+<https://ru.wikivoyage.org/wiki/Wikivoyage:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ru" ;
+	schema:isPartOf <https://ru.wikivoyage.org/> ;
+	schema:name "Wikivoyage:Справка"@ru .
+
+<https://ru.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://ru.wiktionary.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ru" ;
+	schema:isPartOf <https://ru.wiktionary.org/> ;
+	schema:name "Викисловарь:Справка"@ru .
+
+<https://ru.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://sah.wikipedia.org/wiki/%D0%91%D0%B8%D0%BA%D0%B8%D0%BF%D0%B8%D1%8D%D0%B4%D1%8C%D0%B8%D0%B9%D1%8D:%D0%A1%D0%B0%D2%95%D0%B0%D0%BB%D0%B0%D0%B0%D1%87%D1%87%D1%8B%D0%BB%D0%B0%D1%80%D0%B3%D0%B0_%D0%BA%D3%A9%D0%BC%D3%A9> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sah" ;
+	schema:isPartOf <https://sah.wikipedia.org/> ;
+	schema:name "Бикипиэдьийэ:Саҕалааччыларга көмө"@sah .
+
+<https://sah.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sa.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sa" ;
+	schema:isPartOf <https://sa.wikipedia.org/> ;
+	schema:name "विकिपीडिया:साहाय्यम्"@sa .
+
+<https://sa.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://scn.wikipedia.org/wiki/Aiutu:Cuntinuti> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "scn" ;
+	schema:isPartOf <https://scn.wikipedia.org/> ;
+	schema:name "Aiutu:Cuntinuti"@scn .
+
+<https://scn.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sco.wikipedia.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sco" ;
+	schema:isPartOf <https://sco.wikipedia.org/> ;
+	schema:name "Help:Contents"@sco .
+
+<https://sco.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sd.wikipedia.org/wiki/%D9%85%D8%AF%D8%AF:%D9%85%D9%86%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sd" ;
+	schema:isPartOf <https://sd.wikipedia.org/> ;
+	schema:name "مدد:مندرجات"@sd .
+
+<https://sd.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://se.wikipedia.org/wiki/Veahkki:Sisdoallu> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "se" ;
+	schema:isPartOf <https://se.wikipedia.org/> ;
+	schema:name "Veahkki:Sisdoallu"@se .
+
+<https://se.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sh.wikipedia.org/wiki/Pomo%C4%87:Sadr%C5%BEaj> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sh" ;
+	schema:isPartOf <https://sh.wikipedia.org/> ;
+	schema:name "Pomoć:Sadržaj"@sh .
+
+<https://sh.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://simple.wikipedia.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en-simple" ;
+	schema:isPartOf <https://simple.wikipedia.org/> ;
+	schema:name "Help:Contents"@en-simple .
+
+<https://simple.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://si.wikipedia.org/wiki/%E0%B6%8B%E0%B6%AF%E0%B7%80%E0%B7%94:%E0%B6%B4%E0%B6%A7%E0%B7%94%E0%B6%B1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "si" ;
+	schema:isPartOf <https://si.wikipedia.org/> ;
+	schema:name "උදවු:පටුන"@si .
+
+<https://si.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sk.wikipedia.org/wiki/Pomoc:Obsah> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sk" ;
+	schema:isPartOf <https://sk.wikipedia.org/> ;
+	schema:name "Pomoc:Obsah"@sk .
+
+<https://sk.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sk.wikisource.org/wiki/Pomoc:Obsah> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sk" ;
+	schema:isPartOf <https://sk.wikisource.org/> ;
+	schema:name "Pomoc:Obsah"@sk .
+
+<https://sk.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://sl.wikipedia.org/wiki/Pomo%C4%8D:Vsebina> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sl" ;
+	schema:isPartOf <https://sl.wikipedia.org/> ;
+	schema:name "Pomoč:Vsebina"@sl .
+
+<https://sl.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sl.wikiquote.org/wiki/Pomo%C4%8D:Vsebina> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sl" ;
+	schema:isPartOf <https://sl.wikiquote.org/> ;
+	schema:name "Pomoč:Vsebina"@sl .
+
+<https://sl.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://so.wikipedia.org/wiki/Cutub:Caawin> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "so" ;
+	schema:isPartOf <https://so.wikipedia.org/> ;
+	schema:name "Cutub:Caawin"@so .
+
+<https://so.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://species.wikimedia.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://species.wikimedia.org/> ;
+	schema:name "Help:Contents"@en .
+
+<https://species.wikimedia.org/> wikibase:wikiGroup "species" .
+
+<https://sq.wikipedia.org/wiki/Ndihm%C3%AB:P%C3%ABrmbajtja> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sq" ;
+	schema:isPartOf <https://sq.wikipedia.org/> ;
+	schema:name "Ndihmë:Përmbajtja"@sq .
+
+<https://sq.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sr.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%9B:%D0%A1%D0%B0%D0%B4%D1%80%D0%B6%D0%B0%D1%98> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sr" ;
+	schema:isPartOf <https://sr.wikipedia.org/> ;
+	schema:name "Помоћ:Садржај"@sr .
+
+<https://sr.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sr.wikiquote.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%9B:%D0%A1%D0%B0%D0%B4%D1%80%D0%B6%D0%B0%D1%98> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sr" ;
+	schema:isPartOf <https://sr.wikiquote.org/> ;
+	schema:name "Помоћ:Садржај"@sr .
+
+<https://sr.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://stq.wikipedia.org/wiki/H%C3%A4lpe:H%C3%A4lpe> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "stq" ;
+	schema:isPartOf <https://stq.wikipedia.org/> ;
+	schema:name "Hälpe:Hälpe"@stq .
+
+<https://stq.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://su.wikipedia.org/wiki/Wikipedia:Pitulung> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "su" ;
+	schema:isPartOf <https://su.wikipedia.org/> ;
+	schema:name "Wikipedia:Pitulung"@su .
+
+<https://su.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://su.wikiquote.org/wiki/Pitulung:Eusi> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "su" ;
+	schema:isPartOf <https://su.wikiquote.org/> ;
+	schema:name "Pitulung:Eusi"@su .
+
+<https://su.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://sv.wikipedia.org/wiki/Wikipedia:Hj%C3%A4lp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sv" ;
+	schema:isPartOf <https://sv.wikipedia.org/> ;
+	schema:name "Wikipedia:Hjälp"@sv .
+
+<https://sv.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sv.wikisource.org/wiki/Wikisource:Hj%C3%A4lp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sv" ;
+	schema:isPartOf <https://sv.wikisource.org/> ;
+	schema:name "Wikisource:Hjälp"@sv .
+
+<https://sv.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://sv.wikivoyage.org/wiki/Wikivoyage:Hj%C3%A4lp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sv" ;
+	schema:isPartOf <https://sv.wikivoyage.org/> ;
+	schema:name "Wikivoyage:Hjälp"@sv .
+
+<https://sv.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://sw.wikipedia.org/wiki/Wikipedia:Msaada_wa_kuanzisha_makala> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sw" ;
+	schema:isPartOf <https://sw.wikipedia.org/> ;
+	schema:name "Wikipedia:Msaada wa kuanzisha makala"@sw .
+
+<https://sw.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://szl.wikipedia.org/wiki/P%C5%AFmoc:P%C5%AFmoc> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "szl" ;
+	schema:isPartOf <https://szl.wikipedia.org/> ;
+	schema:name "Půmoc:Půmoc"@szl .
+
+<https://szl.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE:%E0%AE%89%E0%AE%A4%E0%AE%B5%E0%AE%BF> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ta" ;
+	schema:isPartOf <https://ta.wikipedia.org/> ;
+	schema:name "விக்கிப்பீடியா:உதவி"@ta .
+
+<https://ta.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://te.wikipedia.org/wiki/%E0%B0%B8%E0%B0%B9%E0%B0%BE%E0%B0%AF%E0%B0%82:%E0%B0%B8%E0%B1%82%E0%B0%9A%E0%B0%BF%E0%B0%95> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "te" ;
+	schema:isPartOf <https://te.wikipedia.org/> ;
+	schema:name "సహాయం:సూచిక"@te .
+
+<https://te.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://tg.wikipedia.org/wiki/%D0%A0%D0%BE%D2%B3%D0%BD%D0%B0%D0%BC%D0%BE:%D0%9C%D1%83%D0%BD%D0%B4%D0%B0%D1%80%D0%B8%D2%B7%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tg" ;
+	schema:isPartOf <https://tg.wikipedia.org/> ;
+	schema:name "Роҳнамо:Мундариҷа"@tg .
+
+<https://tg.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89:%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%8D> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "th" ;
+	schema:isPartOf <https://th.wikipedia.org/> ;
+	schema:name "วิธีใช้:สารบัญ"@th .
+
+<https://th.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://th.wiktionary.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89:%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "th" ;
+	schema:isPartOf <https://th.wiktionary.org/> ;
+	schema:name "วิธีใช้:วิธีการใช้งาน"@th .
+
+<https://th.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://tk.wikipedia.org/wiki/%C3%9Dardam:I%C3%A7ind%C3%A4kiler> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tk" ;
+	schema:isPartOf <https://tk.wikipedia.org/> ;
+	schema:name "Ýardam:Içindäkiler"@tk .
+
+<https://tk.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://tl.wikipedia.org/wiki/Wikipedia:Tulong> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tl" ;
+	schema:isPartOf <https://tl.wikipedia.org/> ;
+	schema:name "Wikipedia:Tulong"@tl .
+
+<https://tl.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://to.wikipedia.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "to" ;
+	schema:isPartOf <https://to.wikipedia.org/> ;
+	schema:name "Help:Contents"@to .
+
+<https://to.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://tr.wikipedia.org/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tr" ;
+	schema:isPartOf <https://tr.wikipedia.org/> ;
+	schema:name "Yardım:İçindekiler"@tr .
+
+<https://tr.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://tr.wikibooks.org/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tr" ;
+	schema:isPartOf <https://tr.wikibooks.org/> ;
+	schema:name "Yardım:İçindekiler"@tr .
+
+<https://tr.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://tr.wikinews.org/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tr" ;
+	schema:isPartOf <https://tr.wikinews.org/> ;
+	schema:name "Yardım:İçindekiler"@tr .
+
+<https://tr.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://tr.wikiquote.org/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tr" ;
+	schema:isPartOf <https://tr.wikiquote.org/> ;
+	schema:name "Yardım:İçindekiler"@tr .
+
+<https://tr.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://tr.wikisource.org/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tr" ;
+	schema:isPartOf <https://tr.wikisource.org/> ;
+	schema:name "Yardım:İçindekiler"@tr .
+
+<https://tr.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://tyv.wikipedia.org/wiki/%D0%94%D1%83%D0%B7%D0%B0:%D0%94%D0%BE%D0%BF%D1%87%D1%83%D0%B7%D1%83> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tyv" ;
+	schema:isPartOf <https://tyv.wikipedia.org/> ;
+	schema:name "Дуза:Допчузу"@tyv .
+
+<https://tyv.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ug.wikipedia.org/wiki/%D9%8A%D8%A7%D8%B1%D8%AF%DB%95%D9%85:%D9%8A%D8%A7%D8%B1%D8%AF%DB%95%D9%85> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ug" ;
+	schema:isPartOf <https://ug.wikipedia.org/> ;
+	schema:name "ياردەم:ياردەم"@ug .
+
+<https://ug.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ug.wiktionary.org/wiki/%D9%8A%D8%A7%D8%B1%D8%AF%DB%95%D9%85:%D9%85%DB%95%D8%B2%D9%85%DB%87%D9%86%D9%84%D8%A7%D8%B1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ug" ;
+	schema:isPartOf <https://ug.wiktionary.org/> ;
+	schema:name "ياردەم:مەزمۇنلار"@ug .
+
+<https://ug.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "uk" ;
+	schema:isPartOf <https://uk.wikipedia.org/> ;
+	schema:name "Вікіпедія:Довідка"@uk .
+
+<https://uk.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://uk.wikiquote.org/wiki/%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0:%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "uk" ;
+	schema:isPartOf <https://uk.wikiquote.org/> ;
+	schema:name "Довідка:Довідка"@uk .
+
+<https://uk.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://uk.wikisource.org/wiki/%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0:%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "uk" ;
+	schema:isPartOf <https://uk.wikisource.org/> ;
+	schema:name "Довідка:Довідка"@uk .
+
+<https://uk.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://uk.wikivoyage.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D0%B8:%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "uk" ;
+	schema:isPartOf <https://uk.wikivoyage.org/> ;
+	schema:name "Вікімандри:Довідка"@uk .
+
+<https://uk.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://ur.wikipedia.org/wiki/%D9%85%D8%B9%D8%A7%D9%88%D9%86%D8%AA:%D9%85%D9%86%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ur" ;
+	schema:isPartOf <https://ur.wikipedia.org/> ;
+	schema:name "معاونت:مندرجات"@ur .
+
+<https://ur.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://uz.wikipedia.org/wiki/Yordam:Mundarija> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "uz" ;
+	schema:isPartOf <https://uz.wikipedia.org/> ;
+	schema:name "Yordam:Mundarija"@uz .
+
+<https://uz.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://vec.wikipedia.org/wiki/Ajuto:Ajuto> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "vec" ;
+	schema:isPartOf <https://vec.wikipedia.org/> ;
+	schema:name "Ajuto:Ajuto"@vec .
+
+<https://vec.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://vep.wikipedia.org/wiki/Abu:S%C3%BCd%C3%A4iolend> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "vep" ;
+	schema:isPartOf <https://vep.wikipedia.org/> ;
+	schema:name "Abu:Südäiolend"@vep .
+
+<https://vep.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://vi.wikipedia.org/wiki/Tr%E1%BB%A3_gi%C3%BAp:M%E1%BB%A5c_l%E1%BB%A5c> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "vi" ;
+	schema:isPartOf <https://vi.wikipedia.org/> ;
+	schema:name "Trợ giúp:Mục lục"@vi .
+
+<https://vi.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://vi.wikiquote.org/wiki/Tr%E1%BB%A3_gi%C3%BAp:M%E1%BB%A5c_l%E1%BB%A5c> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "vi" ;
+	schema:isPartOf <https://vi.wikiquote.org/> ;
+	schema:name "Trợ giúp:Mục lục"@vi .
+
+<https://vi.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://vi.wikisource.org/wiki/Tr%E1%BB%A3_gi%C3%BAp:N%E1%BB%99i_dung> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "vi" ;
+	schema:isPartOf <https://vi.wikisource.org/> ;
+	schema:name "Trợ giúp:Nội dung"@vi .
+
+<https://vi.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://vi.wiktionary.org/wiki/Tr%E1%BB%A3_gi%C3%BAp:M%E1%BB%A5c_l%E1%BB%A5c> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "vi" ;
+	schema:isPartOf <https://vi.wiktionary.org/> ;
+	schema:name "Trợ giúp:Mục lục"@vi .
+
+<https://vi.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://vls.wikipedia.org/wiki/Ulpe:Wikipedia> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "vls" ;
+	schema:isPartOf <https://vls.wikipedia.org/> ;
+	schema:name "Ulpe:Wikipedia"@vls .
+
+<https://vls.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://vo.wikipedia.org/wiki/V%C3%BCkiped:Yuf> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "vo" ;
+	schema:isPartOf <https://vo.wikipedia.org/> ;
+	schema:name "Vükiped:Yuf"@vo .
+
+<https://vo.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://wa.wikipedia.org/wiki/Wikipedia:Aidance> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "wa" ;
+	schema:isPartOf <https://wa.wikipedia.org/> ;
+	schema:name "Wikipedia:Aidance"@wa .
+
+<https://wa.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://www.wikidata.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://www.wikidata.org/> ;
+	schema:name "Help:Contents"@en .
+
+<https://www.wikidata.org/> wikibase:wikiGroup "wikidata" .
+
+<https://wuu.wikipedia.org/wiki/Help:%E7%9B%AE%E5%BD%95> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "wuu" ;
+	schema:isPartOf <https://wuu.wikipedia.org/> ;
+	schema:name "Help:目录"@wuu .
+
+<https://wuu.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://yi.wikipedia.org/wiki/%D7%94%D7%99%D7%9C%D7%A3:%D7%90%D7%99%D7%A0%D7%94%D7%90%D7%9C%D7%98> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "yi" ;
+	schema:isPartOf <https://yi.wikipedia.org/> ;
+	schema:name "הילף:אינהאלט"@yi .
+
+<https://yi.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://zh-min-nan.wikipedia.org/wiki/Pang-ch%C4%81n:Bo%CC%8Dk-lio%CC%8Dk> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nan" ;
+	schema:isPartOf <https://zh-min-nan.wikipedia.org/> ;
+	schema:name "Pang-chān:Bo̍k-lio̍k"@nan .
+
+<https://zh-min-nan.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://zh-yue.wikipedia.org/wiki/Help:%E7%9B%AE%E9%8C%84> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "yue" ;
+	schema:isPartOf <https://zh-yue.wikipedia.org/> ;
+	schema:name "Help:目錄"@yue .
+
+<https://zh-yue.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://zh.wikipedia.org/wiki/Help:%E7%9B%AE%E5%BD%95> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "zh" ;
+	schema:isPartOf <https://zh.wikipedia.org/> ;
+	schema:name "Help:目录"@zh .
+
+<https://zh.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://zh.wikibooks.org/wiki/Help:%E7%9B%AE%E5%BD%95> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "zh" ;
+	schema:isPartOf <https://zh.wikibooks.org/> ;
+	schema:name "Help:目录"@zh .
+
+<https://zh.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://zh.wikiquote.org/wiki/Help:%E8%AA%AA%E6%98%8E> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "zh" ;
+	schema:isPartOf <https://zh.wikiquote.org/> ;
+	schema:name "Help:說明"@zh .
+
+<https://zh.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://zh.wikisource.org/wiki/Help:%E7%9B%AE%E5%BD%95> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "zh" ;
+	schema:isPartOf <https://zh.wikisource.org/> ;
+	schema:name "Help:目录"@zh .
+
+<https://zh.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://zh.wikivoyage.org/wiki/Wikivoyage:%E5%B8%AE%E5%8A%A9> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "zh" ;
+	schema:isPartOf <https://zh.wikivoyage.org/> ;
+	schema:name "Wikivoyage:帮助"@zh .
+
+<https://zh.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://zh.wiktionary.org/wiki/Wiktionary:%E5%B8%AE%E5%8A%A9> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "zh" ;
+	schema:isPartOf <https://zh.wiktionary.org/> ;
+	schema:name "Wiktionary:帮助"@zh .
+
+<https://zh.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://pl.wiktionary.org/wiki/Wikis%C5%82ownik:Pomoc> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pl" ;
+	schema:isPartOf <https://pl.wiktionary.org/> ;
+	schema:name "Wikisłownik:Pomoc"@pl .
+
+<https://pl.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://el.wiktionary.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CE%BB%CE%B5%CE%BE%CE%B9%CE%BA%CF%8C:%CE%92%CE%BF%CE%AE%CE%B8%CE%B5%CE%B9%CE%B1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "el" ;
+	schema:isPartOf <https://el.wiktionary.org/> ;
+	schema:name "Βικιλεξικό:Βοήθεια"@el .
+
+<https://el.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://ca.wiktionary.org/wiki/Viccionari:Ajuda> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ca" ;
+	schema:isPartOf <https://ca.wiktionary.org/> ;
+	schema:name "Viccionari:Ajuda"@ca .
+
+<https://ca.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://cs.wiktionary.org/wiki/N%C3%A1pov%C4%9Bda:Obsah> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cs" ;
+	schema:isPartOf <https://cs.wiktionary.org/> ;
+	schema:name "Nápověda:Obsah"@cs .
+
+<https://cs.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://tt.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AF%D1%80%D0%B4%D3%99%D0%BC> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tt" ;
+	schema:isPartOf <https://tt.wikipedia.org/> ;
+	schema:name "Википедия:Ярдәм"@tt .
+
+<https://tt.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://bh.wikipedia.org/wiki/%E0%A4%AE%E0%A4%A6%E0%A4%A6:%E0%A4%AC%E0%A4%BF%E0%A4%B8%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bho" ;
+	schema:isPartOf <https://bh.wikipedia.org/> ;
+	schema:name "मदद:बिसयसूची"@bho .
+
+<https://bh.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://fi.wikinews.org/wiki/Ohje:Sis%C3%A4llys> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fi" ;
+	schema:isPartOf <https://fi.wikinews.org/> ;
+	schema:name "Ohje:Sisällys"@fi .
+
+<https://fi.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://nl.wikinews.org/wiki/Help:Wikinieuws> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nl" ;
+	schema:isPartOf <https://nl.wikinews.org/> ;
+	schema:name "Help:Wikinieuws"@nl .
+
+<https://nl.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://it.wikinews.org/wiki/Aiuto:Aiuto> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "it" ;
+	schema:isPartOf <https://it.wikinews.org/> ;
+	schema:name "Aiuto:Aiuto"@it .
+
+<https://it.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://mwl.wikipedia.org/wiki/Ajuda:P%C3%A1igina_percipal> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "mwl" ;
+	schema:isPartOf <https://mwl.wikipedia.org/> ;
+	schema:name "Ajuda:Páigina percipal"@mwl .
+
+<https://mwl.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://af.wiktionary.org/wiki/Wiktionary:Hulp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "af" ;
+	schema:isPartOf <https://af.wiktionary.org/> ;
+	schema:name "Wiktionary:Hulp"@af .
+
+<https://af.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://he.wikivoyage.org/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "he" ;
+	schema:isPartOf <https://he.wikivoyage.org/> ;
+	schema:name "עזרה:תפריט ראשי"@he .
+
+<https://he.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://pt.wikinews.org/wiki/Ajuda:P%C3%A1gina_principal> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pt" ;
+	schema:isPartOf <https://pt.wikinews.org/> ;
+	schema:name "Ajuda:Página principal"@pt .
+
+<https://pt.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://simple.wiktionary.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en-simple" ;
+	schema:isPartOf <https://simple.wiktionary.org/> ;
+	schema:name "Help:Contents"@en-simple .
+
+<https://simple.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://be.wikiquote.org/wiki/%D0%94%D0%B0%D0%B2%D0%B5%D0%B4%D0%BA%D0%B0:%D0%97%D0%BC%D0%B5%D1%81%D1%82> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "be" ;
+	schema:isPartOf <https://be.wikiquote.org/> ;
+	schema:name "Даведка:Змест"@be .
+
+<https://be.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://eu.wikipedia.org/wiki/Laguntza:Sarrera> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "eu" ;
+	schema:isPartOf <https://eu.wikipedia.org/> ;
+	schema:name "Laguntza:Sarrera"@eu .
+
+<https://eu.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://be.wikibooks.org/wiki/%D0%94%D0%B0%D0%B2%D0%B5%D0%B4%D0%BA%D0%B0:%D0%AF%D0%BA_%D1%81%D1%82%D0%B2%D0%B0%D1%80%D0%B0%D1%86%D1%8C_%D0%BD%D0%BE%D0%B2%D1%83%D1%8E_%D0%BA%D0%BD%D1%96%D0%B3%D1%83> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "be" ;
+	schema:isPartOf <https://be.wikibooks.org/> ;
+	schema:name "Даведка:Як ствараць новую кнігу"@be .
+
+<https://be.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://qu.wikipedia.org/wiki/Yanapa:Wikipidiya_Yanapana> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "qu" ;
+	schema:isPartOf <https://qu.wikipedia.org/> ;
+	schema:name "Yanapa:Wikipidiya Yanapana"@qu .
+
+<https://qu.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://bn.wikivoyage.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3:%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bn" ;
+	schema:isPartOf <https://bn.wikivoyage.org/> ;
+	schema:name "উইকিভ্রমণ:সাহায্য"@bn .
+
+<https://bn.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://eu.wikisource.org/wiki/Laguntza:Sarrera> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "eu" ;
+	schema:isPartOf <https://eu.wikisource.org/> ;
+	schema:name "Laguntza:Sarrera"@eu .
+
+<https://eu.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://ps.wikipedia.org/wiki/%D9%84%D8%A7%D8%B1%DA%9A%D9%88%D8%AF:%D9%BE%D9%87_%D9%88%D9%8A%DA%A9%D9%8A%D9%BE%DB%90%DA%89%D9%8A%D8%A7_%DA%A9%D9%8A_%D9%84%D9%8A%DA%A9%D9%86%D9%87_%D8%AC%D9%88%DA%93%D9%88%D9%84> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ps" ;
+	schema:isPartOf <https://ps.wikipedia.org/> ;
+	schema:name "لارښود:په ويکيپېډيا کي ليکنه جوړول"@ps .
+
+<https://ps.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ko.wikiversity.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B0%EC%9B%80%ED%84%B0:%EB%AA%A9%EC%B0%A8> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ko" ;
+	schema:isPartOf <https://ko.wikiversity.org/> ;
+	schema:name "위키배움터:목차"@ko .
+
+<https://ko.wikiversity.org/> wikibase:wikiGroup "wikiversity" .
+
+<https://sq.wikiquote.org/wiki/Wikiquote:Faqet_ndihm%C3%ABse> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sq" ;
+	schema:isPartOf <https://sq.wikiquote.org/> ;
+	schema:name "Wikiquote:Faqet ndihmëse"@sq .
+
+<https://sq.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://hu.wiktionary.org/wiki/Seg%C3%ADts%C3%A9g:Tartalom> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hu" ;
+	schema:isPartOf <https://hu.wiktionary.org/> ;
+	schema:name "Segítség:Tartalom"@hu .
+
+<https://hu.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://ar.wiktionary.org/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ar" ;
+	schema:isPartOf <https://ar.wiktionary.org/> ;
+	schema:name "مساعدة:محتويات"@ar .
+
+<https://ar.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://be.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%8B%D1%8F:%D0%94%D0%B0%D0%B2%D0%B5%D0%B4%D0%BA%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "be" ;
+	schema:isPartOf <https://be.wikipedia.org/> ;
+	schema:name "Вікіпедыя:Даведка"@be .
+
+<https://be.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://kn.wikisource.org/wiki/%E0%B2%B8%E0%B2%B9%E0%B2%BE%E0%B2%AF:%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%B5%E0%B2%BF%E0%B2%A1%E0%B2%BF> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "kn" ;
+	schema:isPartOf <https://kn.wikisource.org/> ;
+	schema:name "ಸಹಾಯ:ಪರಿವಿಡಿ"@kn .
+
+<https://kn.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://shn.wikipedia.org/wiki/%E1%80%9C%E1%80%BD%E1%80%84%E1%80%BA%E1%82%88%E1%81%B8%E1%80%BD%E1%82%86%E1%82%88%E1%80%91%E1%82%85%E1%80%99%E1%80%BA:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "shn" ;
+	schema:isPartOf <https://shn.wikipedia.org/> ;
+	schema:name "လွင်ႈၸွႆႈထႅမ်:Contents"@shn .
+
+<https://shn.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://th.wikiquote.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89:%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%8D> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "th" ;
+	schema:isPartOf <https://th.wikiquote.org/> ;
+	schema:name "วิธีใช้:สารบัญ"@th .
+
+<https://th.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://th.wikisource.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89:%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%8D> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "th" ;
+	schema:isPartOf <https://th.wikisource.org/> ;
+	schema:name "วิธีใช้:สารบัญ"@th .
+
+<https://th.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://cdo.wikipedia.org/wiki/%E5%B9%AB%E5%8A%A9:M%C5%ADk-li%C5%8Fh> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cdo" ;
+	schema:isPartOf <https://cdo.wikipedia.org/> ;
+	schema:name "幫助:Mŭk-liŏh"@cdo .
+
+<https://cdo.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://hak.wikipedia.org/wiki/%E5%B9%AB%E5%8A%A9:%E7%9B%AE%E9%8C%84> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hak" ;
+	schema:isPartOf <https://hak.wikipedia.org/> ;
+	schema:name "幫助:目錄"@hak .
+
+<https://hak.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sr.wikinews.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%9B:%D0%A1%D0%B0%D0%B4%D1%80%D0%B6%D0%B0%D1%98> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sr" ;
+	schema:isPartOf <https://sr.wikinews.org/> ;
+	schema:name "Помоћ:Садржај"@sr .
+
+<https://sr.wikinews.org/> wikibase:wikiGroup "wikinews" .
+
+<https://ar.wikiversity.org/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ar" ;
+	schema:isPartOf <https://ar.wikiversity.org/> ;
+	schema:name "مساعدة:محتويات"@ar .
+
+<https://ar.wikiversity.org/> wikibase:wikiGroup "wikiversity" .
+
+<https://ar.wikiquote.org/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ar" ;
+	schema:isPartOf <https://ar.wikiquote.org/> ;
+	schema:name "مساعدة:محتويات"@ar .
+
+<https://ar.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://fr.wikipedia.org/wiki/Aide:Accueil> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "fr" ;
+	schema:isPartOf <https://fr.wikipedia.org/> ;
+	schema:name "Aide:Accueil"@fr .
+
+<https://fr.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ku.wikipedia.org/wiki/Al%C3%AEkar%C3%AE:Naverok> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ku" ;
+	schema:isPartOf <https://ku.wikipedia.org/> ;
+	schema:name "Alîkarî:Naverok"@ku .
+
+<https://ku.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sc.wikipedia.org/wiki/Agiudu:Agiudu> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sc" ;
+	schema:isPartOf <https://sc.wikipedia.org/> ;
+	schema:name "Agiudu:Agiudu"@sc .
+
+<https://sc.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://th.wikibooks.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89:%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%8D> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "th" ;
+	schema:isPartOf <https://th.wikibooks.org/> ;
+	schema:name "วิธีใช้:สารบัญ"@th .
+
+<https://th.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://inh.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%9D%D0%BE%D0%B2%D0%BA%D1%8A%D0%BE%D1%81%D1%82%D0%B0%D0%BB> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "inh" ;
+	schema:isPartOf <https://inh.wikipedia.org/> ;
+	schema:name "Википеди:Новкъостал"@inh .
+
+<https://inh.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://su.wiktionary.org/wiki/Pitulung:Eusi> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "su" ;
+	schema:isPartOf <https://su.wiktionary.org/> ;
+	schema:name "Pitulung:Eusi"@su .
+
+<https://su.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://bn.wikibooks.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF:%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A7%80%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "bn" ;
+	schema:isPartOf <https://bn.wikibooks.org/> ;
+	schema:name "সাহায্য:সূচীপত্র"@bn .
+
+<https://bn.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://oc.wikipedia.org/wiki/Ajuda:Ensenhador> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "oc" ;
+	schema:isPartOf <https://oc.wikipedia.org/> ;
+	schema:name "Ajuda:Ensenhador"@oc .
+
+<https://oc.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://id.wikiquote.org/wiki/Bantuan:Isi> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "id" ;
+	schema:isPartOf <https://id.wikiquote.org/> ;
+	schema:name "Bantuan:Isi"@id .
+
+<https://id.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://el.wikisource.org/wiki/%CE%92%CE%BF%CE%AE%CE%B8%CE%B5%CE%B9%CE%B1:%CE%A0%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%B1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "el" ;
+	schema:isPartOf <https://el.wikisource.org/> ;
+	schema:name "Βοήθεια:Περιεχόμενα"@el .
+
+<https://el.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://gor.wikipedia.org/wiki/Wubodu:Tuwango> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "gor" ;
+	schema:isPartOf <https://gor.wikipedia.org/> ;
+	schema:name "Wubodu:Tuwango"@gor .
+
+<https://gor.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://sk.wikibooks.org/wiki/Pomoc:Obsah> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sk" ;
+	schema:isPartOf <https://sk.wikibooks.org/> ;
+	schema:name "Pomoc:Obsah"@sk .
+
+<https://sk.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90:%E1%83%90%E1%83%A0%E1%83%A5%E1%83%98%E1%83%95%E1%83%98/%E1%83%93%E1%83%90%E1%83%AE%E1%83%9B%E1%83%90%E1%83%A0%E1%83%94%E1%83%91%E1%83%90> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ka" ;
+	schema:isPartOf <https://ka.wikipedia.org/> ;
+	schema:name "ვიკიპედია:არქივი/დახმარება"@ka .
+
+<https://ka.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://cbk-zam.wikipedia.org/wiki/Ayuda:Ayuda> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "cbk-x-zam" ;
+	schema:isPartOf <https://cbk-zam.wikipedia.org/> ;
+	schema:name "Ayuda:Ayuda"@cbk-x-zam .
+
+<https://cbk-zam.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ie.wikipedia.org/wiki/Auxilie:Auxilie> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ie" ;
+	schema:isPartOf <https://ie.wikipedia.org/> ;
+	schema:name "Auxilie:Auxilie"@ie .
+
+<https://ie.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://hr.wikibooks.org/wiki/Pomo%C4%87:Sadr%C5%BEaj> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hr" ;
+	schema:isPartOf <https://hr.wikibooks.org/> ;
+	schema:name "Pomoć:Sadržaj"@hr .
+
+<https://hr.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://tr.wiktionary.org/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tr" ;
+	schema:isPartOf <https://tr.wiktionary.org/> ;
+	schema:name "Yardım:İçindekiler"@tr .
+
+<https://tr.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://hi.wikisource.org/wiki/%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE:%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hi" ;
+	schema:isPartOf <https://hi.wikisource.org/> ;
+	schema:name "सहायता:अनुक्रम"@hi .
+
+<https://hi.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://tt.wikibooks.org/wiki/%D0%AF%D1%80%D0%B4%D3%99%D0%BC:%D0%AD%D1%87%D1%82%D3%99%D0%BB%D0%B5%D0%BA> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tt" ;
+	schema:isPartOf <https://tt.wikibooks.org/> ;
+	schema:name "Ярдәм:Эчтәлек"@tt .
+
+<https://tt.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://de.wikivoyage.org/wiki/Hilfe:Themen%C3%BCbersicht> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "de" ;
+	schema:isPartOf <https://de.wikivoyage.org/> ;
+	schema:name "Hilfe:Themenübersicht"@de .
+
+<https://de.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://sk.wikiquote.org/wiki/Pomoc:Obsah> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sk" ;
+	schema:isPartOf <https://sk.wikiquote.org/> ;
+	schema:name "Pomoc:Obsah"@sk .
+
+<https://sk.wikiquote.org/> wikibase:wikiGroup "wikiquote" .
+
+<https://uk.wiktionary.org/wiki/%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0:%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "uk" ;
+	schema:isPartOf <https://uk.wiktionary.org/> ;
+	schema:name "Довідка:Довідка"@uk .
+
+<https://uk.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://ja.wikivoyage.org/wiki/%E3%83%98%E3%83%AB%E3%83%97:%E7%9B%AE%E6%AC%A1> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ja" ;
+	schema:isPartOf <https://ja.wikivoyage.org/> ;
+	schema:name "ヘルプ:目次"@ja .
+
+<https://ja.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://ar.wikibooks.org/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ar" ;
+	schema:isPartOf <https://ar.wikibooks.org/> ;
+	schema:name "مساعدة:محتويات"@ar .
+
+<https://ar.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://pap.wikipedia.org/wiki/Help:Kontenido> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "pap" ;
+	schema:isPartOf <https://pap.wikipedia.org/> ;
+	schema:name "Help:Kontenido"@pap .
+
+<https://pap.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://eo.wiktionary.org/wiki/Helpo:Superrigardo> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "eo" ;
+	schema:isPartOf <https://eo.wiktionary.org/> ;
+	schema:name "Helpo:Superrigardo"@eo .
+
+<https://eo.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://id.wiktionary.org/wiki/Bantuan:Isi> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "id" ;
+	schema:isPartOf <https://id.wiktionary.org/> ;
+	schema:name "Bantuan:Isi"@id .
+
+<https://id.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://sv.wiktionary.org/wiki/Hj%C3%A4lp:Index> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "sv" ;
+	schema:isPartOf <https://sv.wiktionary.org/> ;
+	schema:name "Hjälp:Index"@sv .
+
+<https://sv.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://eo.wikisource.org/wiki/Helpo:Superrigardo> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "eo" ;
+	schema:isPartOf <https://eo.wikisource.org/> ;
+	schema:name "Helpo:Superrigardo"@eo .
+
+<https://eo.wikisource.org/> wikibase:wikiGroup "wikisource" .
+
+<https://no.wikibooks.org/wiki/Wikib%C3%B8ker:Hjelp> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "nb" ;
+	schema:isPartOf <https://no.wikibooks.org/> ;
+	schema:name "Wikibøker:Hjelp"@nb .
+
+<https://no.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://eo.wikivoyage.org/wiki/Helpo:Helpo> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "eo" ;
+	schema:isPartOf <https://eo.wikivoyage.org/> ;
+	schema:name "Helpo:Helpo"@eo .
+
+<https://eo.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://tl.wikibooks.org/wiki/Tulong:Nilalaman> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tl" ;
+	schema:isPartOf <https://tl.wikibooks.org/> ;
+	schema:name "Tulong:Nilalaman"@tl .
+
+<https://tl.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://wikisource.org/wiki/Wikisource:Help> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "en" ;
+	schema:isPartOf <https://wikisource.org/> ;
+	schema:name "Wikisource:Help"@en .
+
+<https://wikisource.org/> wikibase:wikiGroup "sources" .
+
+<https://ha.wikipedia.org/wiki/Help:Bayanai> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ha" ;
+	schema:isPartOf <https://ha.wikipedia.org/> ;
+	schema:name "Help:Bayanai"@ha .
+
+<https://ha.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://br.wikipedia.org/wiki/Wikipedia:Skoazell> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "br" ;
+	schema:isPartOf <https://br.wikipedia.org/> ;
+	schema:name "Wikipedia:Skoazell"@br .
+
+<https://br.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://hi.wikibooks.org/wiki/%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE:%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hi" ;
+	schema:isPartOf <https://hi.wikibooks.org/> ;
+	schema:name "सहायता:अनुक्रम"@hi .
+
+<https://hi.wikibooks.org/> wikibase:wikiGroup "wikibooks" .
+
+<https://ast.wiktionary.org/wiki/Wikcionariu:Ayuda> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ast" ;
+	schema:isPartOf <https://ast.wiktionary.org/> ;
+	schema:name "Wikcionariu:Ayuda"@ast .
+
+<https://ast.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://de.wiktionary.org/wiki/Wiktionary:Hilfe> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "de" ;
+	schema:isPartOf <https://de.wiktionary.org/> ;
+	schema:name "Wiktionary:Hilfe"@de .
+
+<https://de.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://hi.wiktionary.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A8%E0%A4%B0%E0%A5%80:%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hi" ;
+	schema:isPartOf <https://hi.wiktionary.org/> ;
+	schema:name "विक्षनरी:सहायता"@hi .
+
+<https://hi.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://hi.wikivoyage.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE:%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "hi" ;
+	schema:isPartOf <https://hi.wikivoyage.org/> ;
+	schema:name "विकियात्रा:सहायता"@hi .
+
+<https://hi.wikivoyage.org/> wikibase:wikiGroup "wikivoyage" .
+
+<https://tcy.wikipedia.org/wiki/%E0%B2%B8%E0%B2%B9%E0%B2%BE%E0%B2%AF%E0%B3%8A:%E0%B2%B5%E0%B2%BF%E0%B2%B8%E0%B2%AF%E0%B3%8A%E0%B2%B2%E0%B3%81> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tcy" ;
+	schema:isPartOf <https://tcy.wikipedia.org/> ;
+	schema:name "ಸಹಾಯೊ:ವಿಸಯೊಲು"@tcy .
+
+<https://tcy.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://ary.wikipedia.org/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D8%B5%D9%81%D8%AD%D8%A9_%D9%84%D9%85%D8%B9%D8%A7%D9%88%D9%86%D8%A9> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "ary" ;
+	schema:isPartOf <https://ary.wikipedia.org/> ;
+	schema:name "مساعدة:صفحة لمعاونة"@ary .
+
+<https://ary.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%80%E1%80%B0%E1%80%A1%E1%80%8A%E1%80%AE:%E1%80%99%E1%80%AC%E1%80%90%E1%80%AD%E1%80%80%E1%80%AC> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "my" ;
+	schema:isPartOf <https://my.wikipedia.org/> ;
+	schema:name "အကူအညီ:မာတိကာ"@my .
+
+<https://my.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+<https://be.wiktionary.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%81%D0%BB%D0%BE%D1%9E%D0%BD%D1%96%D0%BA:%D0%94%D0%B0%D0%B2%D0%B5%D0%B4%D0%BA%D0%B0> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "be" ;
+	schema:isPartOf <https://be.wiktionary.org/> ;
+	schema:name "Вікіслоўнік:Даведка"@be .
+
+<https://be.wiktionary.org/> wikibase:wikiGroup "wiktionary" .
+
+<https://tw.wikipedia.org/wiki/Help:Contents> a schema:Article ;
+	schema:about wd:Q914807 ;
+	schema:inLanguage "tw" ;
+	schema:isPartOf <https://tw.wikipedia.org/> ;
+	schema:name "Help:Contents"@tw .
+
+<https://tw.wikipedia.org/> wikibase:wikiGroup "wikipedia" .
+
+wd:Q914807 wdt:P31 wd:Q14204246,
+		wd:Q21281405,
+		wd:Q56005592 ;
+	wdt:P910 wd:Q4588883 ;
+	wdt:P1889 wd:Q4654925,
+		wd:Q3945 ;
+	p:P31 s:Q914807-b12c6baf-467a-1f34-db81-43cf9e292221 .
+
+s:Q914807-b12c6baf-467a-1f34-db81-43cf9e292221 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P31 wd:Q14204246 .
+
+wd:Q914807 p:P31 s:Q914807-F1303964-81B1-475A-A371-2CEF54ABDFEB .
+
+s:Q914807-F1303964-81B1-475A-A371-2CEF54ABDFEB a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P31 wd:Q21281405 .
+
+wd:Q914807 p:P31 s:Q914807-5a3e2360-4ed2-6cce-a8c5-cbfa8137c28f .
+
+s:Q914807-5a3e2360-4ed2-6cce-a8c5-cbfa8137c28f a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P31 wd:Q56005592 .
+
+wd:Q914807 p:P910 s:Q914807-78fd5afd-4acb-dd9e-0371-c169c2e48249 .
+
+s:Q914807-78fd5afd-4acb-dd9e-0371-c169c2e48249 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P910 wd:Q4588883 .
+
+wd:Q914807 p:P1889 s:Q914807-596E295E-6E61-45DE-9F0A-7A3FC471343A .
+
+s:Q914807-596E295E-6E61-45DE-9F0A-7A3FC471343A a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P1889 wd:Q4654925 ;
+	prov:wasDerivedFrom ref:48d7f15a51a39815ab2d01e87111ed12a0128d89 .
+
+wd:Q914807 p:P1889 s:Q914807-919b13db-4797-929f-b98a-5fb6d7b0b28a .
+
+s:Q914807-919b13db-4797-929f-b98a-5fb6d7b0b28a a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P1889 wd:Q3945 .
+
+wd:Q914807 rdfs:label "위키백과:도움말"@ko ;
+	skos:prefLabel "위키백과:도움말"@ko ;
+	schema:name "위키백과:도움말"@ko ;
+	rdfs:label "Wikipedia:Hulp"@af ;
+	skos:prefLabel "Wikipedia:Hulp"@af ;
+	schema:name "Wikipedia:Hulp"@af ;
+	rdfs:label "እርዳታ:ይዞታ"@am ;
+	skos:prefLabel "እርዳታ:ይዞታ"@am ;
+	schema:name "እርዳታ:ይዞታ"@am ;
+	rdfs:label "Wikipedia:Aduya"@an ;
+	skos:prefLabel "Wikipedia:Aduya"@an ;
+	schema:name "Wikipedia:Aduya"@an ;
+	rdfs:label "Help:Innoþ"@ang ;
+	skos:prefLabel "Help:Innoþ"@ang ;
+	schema:name "Help:Innoþ"@ang ;
+	rdfs:label "مساعدة:محتويات"@ar ;
+	skos:prefLabel "مساعدة:محتويات"@ar ;
+	schema:name "مساعدة:محتويات"@ar ;
+	rdfs:label "مساعدة:محتويات"@arz ;
+	skos:prefLabel "مساعدة:محتويات"@arz ;
+	schema:name "مساعدة:محتويات"@arz ;
+	rdfs:label "সহায়:সহায়কক্ষ"@as ;
+	skos:prefLabel "সহায়:সহায়কক্ষ"@as ;
+	schema:name "সহায়:সহায়কক্ষ"@as ;
+	rdfs:label "Ayuda:Conteníos"@ast ;
+	skos:prefLabel "Ayuda:Conteníos"@ast ;
+	schema:name "Ayuda:Conteníos"@ast ;
+	rdfs:label "Ayuda:Contents"@ay ;
+	skos:prefLabel "Ayuda:Contents"@ay ;
+	schema:name "Ayuda:Contents"@ay ;
+	rdfs:label "Kömək:Mündəricat"@az ;
+	skos:prefLabel "Kömək:Mündəricat"@az ;
+	schema:name "Kömək:Mündəricat"@az ;
+	rdfs:label "Вікіпедыя:Даведка"@be ;
+	skos:prefLabel "Вікіпедыя:Даведка"@be ;
+	schema:name "Вікіпедыя:Даведка"@be ;
+	rdfs:label "Patulung:Isi"@bjn ;
+	skos:prefLabel "Patulung:Isi"@bjn ;
+	schema:name "Patulung:Isi"@bjn ;
+	rdfs:label "সাহায্য:সূচী"@bn ;
+	skos:prefLabel "সাহায্য:সূচী"@bn ;
+	schema:name "সাহায্য:সূচী"@bn ;
+	rdfs:label "Skoazell:Skoazell"@br ;
+	skos:prefLabel "Skoazell:Skoazell"@br ;
+	schema:name "Skoazell:Skoazell"@br ;
+	rdfs:label "Pomoć:Sadržaj"@bs ;
+	skos:prefLabel "Pomoć:Sadržaj"@bs ;
+	schema:name "Pomoć:Sadržaj"@bs ;
+	rdfs:label "Viquipèdia:Ajuda"@ca ;
+	skos:prefLabel "Viquipèdia:Ajuda"@ca ;
+	schema:name "Viquipèdia:Ajuda"@ca ;
+	rdfs:label "Tabang:Mga sulod"@ceb ;
+	skos:prefLabel "Tabang:Mga sulod"@ceb ;
+	schema:name "Tabang:Mga sulod"@ceb ;
+	rdfs:label "یارمەتی:ناوەرۆک"@ckb ;
+	skos:prefLabel "یارمەتی:ناوەرۆک"@ckb ;
+	schema:name "یارمەتی:ناوەرۆک"@ckb ;
+	rdfs:label "Nápověda:Obsah"@cs ;
+	skos:prefLabel "Nápověda:Obsah"@cs ;
+	schema:name "Nápověda:Obsah"@cs ;
+	rdfs:label "Wicipedia:Cymorth"@cy ;
+	skos:prefLabel "Wicipedia:Cymorth"@cy ;
+	schema:name "Wicipedia:Cymorth"@cy ;
+	rdfs:label "Hjælp:Forside"@da ;
+	skos:prefLabel "Hjælp:Forside"@da ;
+	schema:name "Hjælp:Forside"@da ;
+	rdfs:label "Hilfe:Übersicht"@de ;
+	skos:prefLabel "Hilfe:Übersicht"@de ;
+	schema:name "Hilfe:Übersicht"@de ;
+	rdfs:label "Hilfe:Übersicht"@de-ch ;
+	skos:prefLabel "Hilfe:Übersicht"@de-ch ;
+	schema:name "Hilfe:Übersicht"@de-ch ;
+	rdfs:label "Desteg:Contents"@diq ;
+	skos:prefLabel "Desteg:Contents"@diq ;
+	schema:name "Desteg:Contents"@diq ;
+	rdfs:label "Pomoc:Pomoc"@dsb ;
+	skos:prefLabel "Pomoc:Pomoc"@dsb ;
+	schema:name "Pomoc:Pomoc"@dsb ;
+	rdfs:label "Help:ནང་དོན།"@dz ;
+	skos:prefLabel "Help:ནང་དོན།"@dz ;
+	schema:name "Help:ནང་དོན།"@dz ;
+	rdfs:label "Βικιπαίδεια:Βοήθεια"@el ;
+	skos:prefLabel "Βικιπαίδεια:Βοήθεια"@el ;
+	schema:name "Βικιπαίδεια:Βοήθεια"@el ;
+	rdfs:label "Help:Contents"@en ;
+	skos:prefLabel "Help:Contents"@en ;
+	schema:name "Help:Contents"@en ;
+	rdfs:label "Help:Contents"@en-ca ;
+	skos:prefLabel "Help:Contents"@en-ca ;
+	schema:name "Help:Contents"@en-ca ;
+	rdfs:label "Help:Contents"@en-gb ;
+	skos:prefLabel "Help:Contents"@en-gb ;
+	schema:name "Help:Contents"@en-gb ;
+	rdfs:label "Helpo:Enhavo"@eo ;
+	skos:prefLabel "Helpo:Enhavo"@eo ;
+	schema:name "Helpo:Enhavo"@eo ;
+	rdfs:label "Ayuda:Contenidos"@es ;
+	skos:prefLabel "Ayuda:Contenidos"@es ;
+	schema:name "Ayuda:Contenidos"@es ;
+	rdfs:label "Juhend:Sisukord"@et ;
+	skos:prefLabel "Juhend:Sisukord"@et ;
+	schema:name "Juhend:Sisukord"@et ;
+	rdfs:label "Laguntza:Sarrera"@eu ;
+	skos:prefLabel "Laguntza:Sarrera"@eu ;
+	schema:name "Laguntza:Sarrera"@eu ;
+	rdfs:label "راهنما:فهرست"@fa ;
+	skos:prefLabel "راهنما:فهرست"@fa ;
+	schema:name "راهنما:فهرست"@fa ;
+	rdfs:label "Ohje:Sisällys"@fi ;
+	skos:prefLabel "Ohje:Sisällys"@fi ;
+	schema:name "Ohje:Sisällys"@fi ;
+	rdfs:label "Hjálp:Innihald"@fo ;
+	skos:prefLabel "Hjálp:Innihald"@fo ;
+	schema:name "Hjálp:Innihald"@fo ;
+	rdfs:label "Aide:Accueil"@fr ;
+	skos:prefLabel "Aide:Accueil"@fr ;
+	schema:name "Aide:Accueil"@fr ;
+	rdfs:label "Wikipedy:Help"@fy ;
+	skos:prefLabel "Wikipedy:Help"@fy ;
+	schema:name "Wikipedy:Help"@fy ;
+	rdfs:label "Vicipéid:Cabhair"@ga ;
+	skos:prefLabel "Vicipéid:Cabhair"@ga ;
+	schema:name "Vicipéid:Cabhair"@ga ;
+	rdfs:label "Wikipedia:Axuda"@gl ;
+	skos:prefLabel "Wikipedia:Axuda"@gl ;
+	schema:name "Wikipedia:Axuda"@gl ;
+	rdfs:label "Pytyvõ:Pytyvõhára"@gn ;
+	skos:prefLabel "Pytyvõ:Pytyvõhára"@gn ;
+	schema:name "Pytyvõ:Pytyvõhára"@gn ;
+	rdfs:label "עזרה:תפריט ראשי"@he ;
+	skos:prefLabel "עזרה:תפריט ראשי"@he ;
+	schema:name "עזרה:תפריט ראשי"@he ;
+	rdfs:label "विकिपीडिया:सहायता"@hi ;
+	skos:prefLabel "विकिपीडिया:सहायता"@hi ;
+	schema:name "विकिपीडिया:सहायता"@hi ;
+	rdfs:label "Pomoć:Sadržaj"@hr ;
+	skos:prefLabel "Pomoć:Sadržaj"@hr ;
+	schema:name "Pomoć:Sadržaj"@hr ;
+	rdfs:label "Wikipedija:Pomoc"@hsb ;
+	skos:prefLabel "Wikipedija:Pomoc"@hsb ;
+	schema:name "Wikipedija:Pomoc"@hsb ;
+	rdfs:label "Wikipédia:Segítség"@hu ;
+	skos:prefLabel "Wikipédia:Segítség"@hu ;
+	schema:name "Wikipédia:Segítség"@hu ;
+	rdfs:label "Օգնություն:Գլխացանկ"@hy ;
+	skos:prefLabel "Օգնություն:Գլխացանկ"@hy ;
+	schema:name "Օգնություն:Գլխացանկ"@hy ;
+	rdfs:label "Wikipedia:Adjuta"@ia ;
+	skos:prefLabel "Wikipedia:Adjuta"@ia ;
+	schema:name "Wikipedia:Adjuta"@ia ;
+	rdfs:label "Bantuan:Isi"@id ;
+	skos:prefLabel "Bantuan:Isi"@id ;
+	schema:name "Bantuan:Isi"@id ;
+	rdfs:label "Tulong:Dagiti linaon"@ilo ;
+	skos:prefLabel "Tulong:Dagiti linaon"@ilo ;
+	schema:name "Tulong:Dagiti linaon"@ilo ;
+	rdfs:label "Helpo:Helpo"@io ;
+	skos:prefLabel "Helpo:Helpo"@io ;
+	schema:name "Helpo:Helpo"@io ;
+	rdfs:label "Hjálp:Efnisyfirlit"@is ;
+	skos:prefLabel "Hjálp:Efnisyfirlit"@is ;
+	schema:name "Hjálp:Efnisyfirlit"@is ;
+	rdfs:label "Aiuto:Aiuto"@it ;
+	skos:prefLabel "Aiuto:Aiuto"@it ;
+	schema:name "Aiuto:Aiuto"@it ;
+	rdfs:label "Help:目次"@ja ;
+	skos:prefLabel "Help:目次"@ja ;
+	schema:name "Help:目次"@ja ;
+	rdfs:label "ვიკიპედია:არქივი/დახმარება"@ka ;
+	skos:prefLabel "ვიკიპედია:არქივი/დახმარება"@ka ;
+	schema:name "ვიკიპედია:არქივი/დახმარება"@ka ;
+	rdfs:label "Уикипедия:Анықтама"@kk ;
+	skos:prefLabel "Уикипедия:Анықтама"@kk ;
+	schema:name "Уикипедия:Анықтама"@kk ;
+	rdfs:label "ជំនួយ:មាតិកា"@km ;
+	skos:prefLabel "ជំនួយ:មាតិកា"@km ;
+	schema:name "ជំនួយ:មាតិកា"@km ;
+	rdfs:label "ಸಹಾಯ:ಪರಿವಿಡಿ"@kn ;
+	skos:prefLabel "ಸಹಾಯ:ಪರಿವಿಡಿ"@kn ;
+	schema:name "ಸಹಾಯ:ಪರಿವಿಡಿ"@kn ;
+	rdfs:label "Wikipedia:Hölp"@ksh ;
+	skos:prefLabel "Wikipedia:Hölp"@ksh ;
+	schema:name "Wikipedia:Hölp"@ksh ;
+	rdfs:label "Alîkarî:Naverok"@ku ;
+	skos:prefLabel "Alîkarî:Naverok"@ku ;
+	schema:name "Alîkarî:Naverok"@ku ;
+	rdfs:label "Wikipedia:Gweres"@kw ;
+	skos:prefLabel "Wikipedia:Gweres"@kw ;
+	schema:name "Wikipedia:Gweres"@kw ;
+	rdfs:label "Жардам:Мазмуну"@ky ;
+	skos:prefLabel "Жардам:Мазмуну"@ky ;
+	schema:name "Жардам:Мазмуну"@ky ;
+	rdfs:label "Vicipaedia:Praefatio"@la ;
+	skos:prefLabel "Vicipaedia:Praefatio"@la ;
+	schema:name "Vicipaedia:Praefatio"@la ;
+	rdfs:label "Ayudo:Contènidos"@lad ;
+	skos:prefLabel "Ayudo:Contènidos"@lad ;
+	schema:name "Ayudo:Contènidos"@lad ;
+	rdfs:label "Wikipedia:Hëllef"@lb ;
+	skos:prefLabel "Wikipedia:Hëllef"@lb ;
+	schema:name "Wikipedia:Hëllef"@lb ;
+	rdfs:label "Wikipedia:Gebroekersportaol"@li ;
+	skos:prefLabel "Wikipedia:Gebroekersportaol"@li ;
+	schema:name "Wikipedia:Gebroekersportaol"@li ;
+	rdfs:label "Wikipedia:Jütt"@lmo ;
+	skos:prefLabel "Wikipedia:Jütt"@lmo ;
+	schema:name "Wikipedia:Jütt"@lmo ;
+	rdfs:label "Bosálisi:Contents"@ln ;
+	skos:prefLabel "Bosálisi:Contents"@ln ;
+	schema:name "Bosálisi:Contents"@ln ;
+	rdfs:label "ຊ່ວຍເຫຼືອ:ເນື້ອໃນ"@lo ;
+	skos:prefLabel "ຊ່ວຍເຫຼືອ:ເນື້ອໃນ"@lo ;
+	schema:name "ຊ່ວຍເຫຼືອ:ເນື້ອໃນ"@lo ;
+	rdfs:label "Pagalba:Turinys"@lt ;
+	skos:prefLabel "Pagalba:Turinys"@lt ;
+	schema:name "Pagalba:Turinys"@lt ;
+	rdfs:label "Palīdzība:Saturs"@lv ;
+	skos:prefLabel "Palīdzība:Saturs"@lv ;
+	schema:name "Palīdzība:Saturs"@lv ;
+	rdfs:label "Pitulung:Isi"@map-bms ;
+	skos:prefLabel "Pitulung:Isi"@map-bms ;
+	schema:name "Pitulung:Isi"@map-bms ;
+	rdfs:label "Whakamārama:Kuputohu"@mi ;
+	skos:prefLabel "Whakamārama:Kuputohu"@mi ;
+	schema:name "Whakamārama:Kuputohu"@mi ;
+	rdfs:label "Помош:Содржина"@mk ;
+	skos:prefLabel "Помош:Содржина"@mk ;
+	schema:name "Помош:Содржина"@mk ;
+	rdfs:label "സഹായം:ഉള്ളടക്കം"@ml ;
+	skos:prefLabel "സഹായം:ഉള്ളടക്കം"@ml ;
+	schema:name "സഹായം:ഉള്ളടക്കം"@ml ;
+	rdfs:label "सहाय्य:आशय"@mr ;
+	skos:prefLabel "सहाय्य:आशय"@mr ;
+	schema:name "सहाय्य:आशय"@mr ;
+	rdfs:label "Bantuan:Kandungan"@ms ;
+	skos:prefLabel "Bantuan:Kandungan"@ms ;
+	schema:name "Bantuan:Kandungan"@ms ;
+	rdfs:label "Għajnuna:Kontenut"@mt ;
+	skos:prefLabel "Għajnuna:Kontenut"@mt ;
+	schema:name "Għajnuna:Kontenut"@mt ;
+	rdfs:label "အကူအညီ:Contents"@my ;
+	skos:prefLabel "အကူအညီ:Contents"@my ;
+	schema:name "အကူအညီ:Contents"@my ;
+	rdfs:label "Wikipedia:Ajùto"@nap ;
+	skos:prefLabel "Wikipedia:Ajùto"@nap ;
+	schema:name "Wikipedia:Ajùto"@nap ;
+	rdfs:label "Wikipedia:Hülp"@nds ;
+	skos:prefLabel "Wikipedia:Hülp"@nds ;
+	schema:name "Wikipedia:Hülp"@nds ;
+	rdfs:label "Hulpe:Wikipedie"@nds-nl ;
+	skos:prefLabel "Hulpe:Wikipedie"@nds-nl ;
+	schema:name "Hulpe:Wikipedie"@nds-nl ;
+	rdfs:label "मद्दत:सहायता"@ne ;
+	skos:prefLabel "मद्दत:सहायता"@ne ;
+	schema:name "मद्दत:सहायता"@ne ;
+	rdfs:label "ग्वाहालि:धलःपौ"@new ;
+	skos:prefLabel "ग्वाहालि:धलःपौ"@new ;
+	schema:name "ग्वाहालि:धलःपौ"@new ;
+	rdfs:label "Portaal:Hulp en beheer"@nl ;
+	skos:prefLabel "Portaal:Hulp en beheer"@nl ;
+	schema:name "Portaal:Hulp en beheer"@nl ;
+	rdfs:label "Hjelp:Innhald"@nn ;
+	skos:prefLabel "Hjelp:Innhald"@nn ;
+	schema:name "Hjelp:Innhald"@nn ;
+	rdfs:label "Anáʼálwoʼ:Bee hadítʼéhígíí"@nv ;
+	skos:prefLabel "Anáʼálwoʼ:Bee hadítʼéhígíí"@nv ;
+	schema:name "Anáʼálwoʼ:Bee hadítʼéhígíí"@nv ;
+	rdfs:label "Ajuda:Ensenhador"@oc ;
+	skos:prefLabel "Ajuda:Ensenhador"@oc ;
+	schema:name "Ajuda:Ensenhador"@oc ;
+	rdfs:label "Æххуыс:Мидис"@os ;
+	skos:prefLabel "Æххуыс:Мидис"@os ;
+	schema:name "Æххуыс:Мидис"@os ;
+	rdfs:label "ਮਦਦ:ਵਿਸ਼ਾ-ਵਸਤੂ"@pa ;
+	skos:prefLabel "ਮਦਦ:ਵਿਸ਼ਾ-ਵਸਤੂ"@pa ;
+	schema:name "ਮਦਦ:ਵਿਸ਼ਾ-ਵਸਤੂ"@pa ;
+	rdfs:label "Pomoc:Spis treści"@pl ;
+	skos:prefLabel "Pomoc:Spis treści"@pl ;
+	schema:name "Pomoc:Spis treści"@pl ;
+	rdfs:label "Agiut:Agiut"@pms ;
+	skos:prefLabel "Agiut:Agiut"@pms ;
+	schema:name "Agiut:Agiut"@pms ;
+	rdfs:label "Ajuda:Página principal"@pt ;
+	skos:prefLabel "Ajuda:Página principal"@pt ;
+	schema:name "Ajuda:Página principal"@pt ;
+	rdfs:label "Ajuda:Página principal"@pt-br ;
+	skos:prefLabel "Ajuda:Página principal"@pt-br ;
+	schema:name "Ajuda:Página principal"@pt-br ;
+	rdfs:label "Yanapa:Wikipidiya Yanapana"@qu ;
+	skos:prefLabel "Yanapa:Wikipidiya Yanapana"@qu ;
+	schema:name "Yanapa:Wikipidiya Yanapana"@qu ;
+	rdfs:label "Agid:Cuntegn"@rm ;
+	skos:prefLabel "Agid:Cuntegn"@rm ;
+	schema:name "Agid:Cuntegn"@rm ;
+	rdfs:label "Ajutor:Cuprins"@ro ;
+	skos:prefLabel "Ajutor:Cuprins"@ro ;
+	schema:name "Ajutor:Cuprins"@ro ;
+	rdfs:label "Википедия:Справка"@ru ;
+	skos:prefLabel "Википедия:Справка"@ru ;
+	schema:name "Википедия:Справка"@ru ;
+	rdfs:label "विकिपीडिया:साहाय्यम्"@sa ;
+	skos:prefLabel "विकिपीडिया:साहाय्यम्"@sa ;
+	schema:name "विकिपीडिया:साहाय्यम्"@sa ;
+	rdfs:label "Aiutu:Cuntinuti"@scn ;
+	skos:prefLabel "Aiutu:Cuntinuti"@scn ;
+	schema:name "Aiutu:Cuntinuti"@scn ;
+	rdfs:label "Help:Contents"@sco ;
+	skos:prefLabel "Help:Contents"@sco ;
+	schema:name "Help:Contents"@sco ;
+	rdfs:label "Veahkki:Sisdoallu"@se ;
+	skos:prefLabel "Veahkki:Sisdoallu"@se ;
+	schema:name "Veahkki:Sisdoallu"@se ;
+	rdfs:label "Pomoć:Sadržaj"@sh ;
+	skos:prefLabel "Pomoć:Sadržaj"@sh ;
+	schema:name "Pomoć:Sadržaj"@sh ;
+	rdfs:label "උදවු:පටුන"@si ;
+	skos:prefLabel "උදවු:පටුන"@si ;
+	schema:name "උදවු:පටුන"@si ;
+	rdfs:label "Pomoc:Obsah"@sk ;
+	skos:prefLabel "Pomoc:Obsah"@sk ;
+	schema:name "Pomoc:Obsah"@sk ;
+	rdfs:label "Pomoč:Vsebina"@sl ;
+	skos:prefLabel "Pomoč:Vsebina"@sl ;
+	schema:name "Pomoč:Vsebina"@sl ;
+	rdfs:label "Ndihmë:Përmbajtja"@sq ;
+	skos:prefLabel "Ndihmë:Përmbajtja"@sq ;
+	schema:name "Ndihmë:Përmbajtja"@sq ;
+	rdfs:label "Помоћ:Садржај"@sr ;
+	skos:prefLabel "Помоћ:Садржај"@sr ;
+	schema:name "Помоћ:Садржај"@sr ;
+	rdfs:label "Hälpe:Hälpe"@stq ;
+	skos:prefLabel "Hälpe:Hälpe"@stq ;
+	schema:name "Hälpe:Hälpe"@stq ;
+	rdfs:label "Wikipedia:Pitulung"@su ;
+	skos:prefLabel "Wikipedia:Pitulung"@su ;
+	schema:name "Wikipedia:Pitulung"@su ;
+	rdfs:label "Wikipedia:Hjälp"@sv ;
+	skos:prefLabel "Wikipedia:Hjälp"@sv ;
+	schema:name "Wikipedia:Hjälp"@sv ;
+	rdfs:label "Wikipedia:Msaada wa kuanzisha makala"@sw ;
+	skos:prefLabel "Wikipedia:Msaada wa kuanzisha makala"@sw ;
+	schema:name "Wikipedia:Msaada wa kuanzisha makala"@sw ;
+	rdfs:label "Půmoc:Půmoc"@szl ;
+	skos:prefLabel "Půmoc:Půmoc"@szl ;
+	schema:name "Půmoc:Půmoc"@szl ;
+	rdfs:label "விக்கிப்பீடியா:உதவி"@ta ;
+	skos:prefLabel "விக்கிப்பீடியா:உதவி"@ta ;
+	schema:name "விக்கிப்பீடியா:உதவி"@ta ;
+	rdfs:label "సహాయం:సూచిక"@te ;
+	skos:prefLabel "సహాయం:సూచిక"@te ;
+	schema:name "సహాయం:సూచిక"@te ;
+	rdfs:label "วิธีใช้:สารบัญ"@th ;
+	skos:prefLabel "วิธีใช้:สารบัญ"@th ;
+	schema:name "วิธีใช้:สารบัญ"@th ;
+	rdfs:label "Wikipedia:Tulong"@tl ;
+	skos:prefLabel "Wikipedia:Tulong"@tl ;
+	schema:name "Wikipedia:Tulong"@tl ;
+	rdfs:label "Help:Contents"@to ;
+	skos:prefLabel "Help:Contents"@to ;
+	schema:name "Help:Contents"@to ;
+	rdfs:label "Yardım:İçindekiler"@tr ;
+	skos:prefLabel "Yardım:İçindekiler"@tr ;
+	schema:name "Yardım:İçindekiler"@tr ;
+	rdfs:label "Википедия:Ярдәм"@tt ;
+	skos:prefLabel "Википедия:Ярдәм"@tt ;
+	schema:name "Википедия:Ярдәм"@tt ;
+	rdfs:label "Help:Typing Twi"@tw ;
+	skos:prefLabel "Help:Typing Twi"@tw ;
+	schema:name "Help:Typing Twi"@tw ;
+	rdfs:label "ياردەم:ياردەم"@ug ;
+	skos:prefLabel "ياردەم:ياردەم"@ug ;
+	schema:name "ياردەم:ياردەم"@ug ;
+	rdfs:label "Вікіпедія:Довідка"@uk ;
+	skos:prefLabel "Вікіпедія:Довідка"@uk ;
+	schema:name "Вікіпедія:Довідка"@uk ;
+	rdfs:label "معاونت:مندرجات"@ur ;
+	skos:prefLabel "معاونت:مندرجات"@ur ;
+	schema:name "معاونت:مندرجات"@ur ;
+	rdfs:label "Yordam:Mundarija"@uz ;
+	skos:prefLabel "Yordam:Mundarija"@uz ;
+	schema:name "Yordam:Mundarija"@uz ;
+	rdfs:label "Trợ giúp:Mục lục"@vi ;
+	skos:prefLabel "Trợ giúp:Mục lục"@vi ;
+	schema:name "Trợ giúp:Mục lục"@vi ;
+	rdfs:label "Ulpe:Wikipedia"@vls ;
+	skos:prefLabel "Ulpe:Wikipedia"@vls ;
+	schema:name "Ulpe:Wikipedia"@vls ;
+	rdfs:label "Wikipedia:Aidance"@wa ;
+	skos:prefLabel "Wikipedia:Aidance"@wa ;
+	schema:name "Wikipedia:Aidance"@wa ;
+	rdfs:label "הילף:אינהאלט"@yi ;
+	skos:prefLabel "הילף:אינהאלט"@yi ;
+	schema:name "הילף:אינהאלט"@yi ;
+	rdfs:label "Help:目录"@zh ;
+	skos:prefLabel "Help:目录"@zh ;
+	schema:name "Help:目录"@zh ;
+	rdfs:label "Help:目錄"@yue ;
+	skos:prefLabel "Help:目錄"@yue ;
+	schema:name "Help:目錄"@yue ;
+	rdfs:label "Hjelp:Portal"@nb ;
+	skos:prefLabel "Hjelp:Portal"@nb ;
+	schema:name "Hjelp:Portal"@nb ;
+	rdfs:label "Википедия:Белешмә"@ba ;
+	skos:prefLabel "Википедия:Белешмә"@ba ;
+	schema:name "Википедия:Белешмә"@ba ;
+	rdfs:label "Bantuan:Isi"@min ;
+	skos:prefLabel "Bantuan:Isi"@min ;
+	schema:name "Bantuan:Isi"@min ;
+	rdfs:label "Vükiped:Yuf"@vo ;
+	skos:prefLabel "Vükiped:Yuf"@vo ;
+	schema:name "Vükiped:Yuf"@vo ;
+	rdfs:label "Huif:Hilfe"@bar ;
+	skos:prefLabel "Huif:Hilfe"@bar ;
+	schema:name "Huif:Hilfe"@bar ;
+	rdfs:label "Cutub:Caawin"@so ;
+	skos:prefLabel "Cutub:Caawin"@so ;
+	schema:name "Cutub:Caawin"@so ;
+	rdfs:label "Wikimedia:Hilfe"@gsw ;
+	skos:prefLabel "Wikimedia:Hilfe"@gsw ;
+	schema:name "Wikimedia:Hilfe"@gsw ;
+	rdfs:label "Дапамога:Зьмест"@be-tarask ;
+	skos:prefLabel "Дапамога:Зьмест"@be-tarask ;
+	schema:name "Дапамога:Зьмест"@be-tarask ;
+	rdfs:label "Википеди:ГӀо"@ce ;
+	skos:prefLabel "Википеди:ГӀо"@ce ;
+	schema:name "Википеди:ГӀо"@ce ;
+	rdfs:label "Bantuan:Contents"@bug ;
+	skos:prefLabel "Bantuan:Contents"@bug ;
+	schema:name "Bantuan:Contents"@bug ;
+	rdfs:label "Пулăшу:Тупмалли"@cv ;
+	skos:prefLabel "Пулăшу:Тупмалли"@cv ;
+	schema:name "Пулăшу:Тупмалли"@cv ;
+	rdfs:label "Бикипиэдьийэ:Саҕалааччыларга көмө"@sah ;
+	skos:prefLabel "Бикипиэдьийэ:Саҕалааччыларга көмө"@sah ;
+	schema:name "Бикипиэдьийэ:Саҕалааччыларга көмө"@sah ;
+	rdfs:label "Aiuto:Aiût"@eml ;
+	skos:prefLabel "Aiuto:Aiût"@eml ;
+	schema:name "Aiuto:Aiût"@eml ;
+	rdfs:label "Pitulung:Isi"@jv ;
+	skos:prefLabel "Pitulung:Isi"@jv ;
+	schema:name "Pitulung:Isi"@jv ;
+	rdfs:label "Тусламж:Агуулга"@mn ;
+	skos:prefLabel "Тусламж:Агуулга"@mn ;
+	schema:name "Тусламж:Агуулга"@mn ;
+	rdfs:label "Ikiuutit:Ikiuutit"@kl ;
+	skos:prefLabel "Ikiuutit:Ikiuutit"@kl ;
+	schema:name "Ikiuutit:Ikiuutit"@kl ;
+	rdfs:label "Ajuto:Ajuto"@vec ;
+	skos:prefLabel "Ajuto:Ajuto"@vec ;
+	schema:name "Ajuto:Ajuto"@vec ;
+	rdfs:label "Роҳнамо:Мундариҷа"@tg ;
+	skos:prefLabel "Роҳнамо:Мундариҷа"@tg ;
+	schema:name "Роҳнамо:Мундариҷа"@tg ;
+	rdfs:label "Help:Contents"@ha ;
+	skos:prefLabel "Help:Contents"@ha ;
+	schema:name "Help:Contents"@ha ;
+	rdfs:label "Cobhair:Susbaint"@gd ;
+	skos:prefLabel "Cobhair:Susbaint"@gd ;
+	schema:name "Cobhair:Susbaint"@gd ;
+	rdfs:label "ܥܘܕܪܢܐ:ܚܒܝܫܬ̈ܐ"@arc ;
+	skos:prefLabel "ܥܘܕܪܢܐ:ܚܒܝܫܬ̈ܐ"@arc ;
+	schema:name "ܥܘܕܪܢܐ:ܚܒܝܫܬ̈ܐ"@arc ;
+	rdfs:label "મદદ:સૂચિ"@gu ;
+	skos:prefLabel "મદદ:સૂચિ"@gu ;
+	schema:name "મદદ:સૂચિ"@gu ;
+	rdfs:label "幫助:Bo̍k-lio̍k"@nan ;
+	skos:prefLabel "幫助:Bo̍k-lio̍k"@nan ;
+	schema:name "幫助:Bo̍k-lio̍k"@nan ;
+	rdfs:label "Help:凡例"@lzh ;
+	skos:prefLabel "Help:凡例"@lzh ;
+	schema:name "Help:凡例"@lzh ;
+	rdfs:label "Oppus:Abi"@vro ;
+	skos:prefLabel "Oppus:Abi"@vro ;
+	schema:name "Oppus:Abi"@vro ;
+	rdfs:label "ସହଯୋଗ:ବିଷୟବସ୍ତୁ"@or ;
+	skos:prefLabel "ସହଯୋଗ:ବିଷୟବସ୍ତୁ"@or ;
+	schema:name "ସହଯୋଗ:ବିଷୟବସ୍ତୁ"@or ;
+	rdfs:label "Abu:Südäiolend"@vep ;
+	skos:prefLabel "Abu:Südäiolend"@vep ;
+	schema:name "Abu:Südäiolend"@vep ;
+	rdfs:label "Help:目录"@wuu ;
+	skos:prefLabel "Help:目录"@wuu ;
+	schema:name "Help:目录"@wuu ;
+	rdfs:label "Help:Contents"@rn ;
+	skos:prefLabel "Help:Contents"@rn ;
+	schema:name "Help:Contents"@rn ;
+	rdfs:label "Help:Contents"@bi ;
+	skos:prefLabel "Help:Contents"@bi ;
+	schema:name "Help:Contents"@bi ;
+	rdfs:label "Help:Contents"@chy ;
+	skos:prefLabel "Help:Contents"@chy ;
+	schema:name "Help:Contents"@chy ;
+	rdfs:label "Помощ:Съдържание"@bg ;
+	skos:prefLabel "Помощ:Съдържание"@bg ;
+	schema:name "Помощ:Съдържание"@bg ;
+	rdfs:label "मदद:Contents"@bho ;
+	skos:prefLabel "मदद:Contents"@bho ;
+	schema:name "मदद:Contents"@bho ;
+	rdfs:label "Beunantu:Asoë"@ace ;
+	skos:prefLabel "Beunantu:Asoë"@ace ;
+	schema:name "Beunantu:Asoë"@ace ;
+	rdfs:label "Pagelba:Torėnīs"@sgs ;
+	skos:prefLabel "Pagelba:Torėnīs"@sgs ;
+	schema:name "Pagelba:Torėnīs"@sgs ;
+	rdfs:label "Yardım:Münderice"@crh-latn ;
+	skos:prefLabel "Yardım:Münderice"@crh-latn ;
+	schema:name "Yardım:Münderice"@crh-latn ;
+	rdfs:label "Помощь:Каталогъ"@cu ;
+	skos:prefLabel "Помощь:Каталогъ"@cu ;
+	schema:name "Помощь:Каталогъ"@cu ;
+	rdfs:label "لارښود:په ويکيپېډيا کي ليکنه جوړول"@ps ;
+	skos:prefLabel "لارښود:په ويکيپېډيا کي ليکنه جوړول"@ps ;
+	schema:name "لارښود:په ويکيپېډيا کي ليکنه جوړول"@ps ;
+	rdfs:label "مدد:مندرجات"@sd ;
+	skos:prefLabel "مدد:مندرجات"@sd ;
+	schema:name "مدد:مندرجات"@sd ;
+	rdfs:label "Дуза:Допчузу"@tyv ;
+	skos:prefLabel "Дуза:Допчузу"@tyv ;
+	schema:name "Дуза:Допчузу"@tyv ;
+	rdfs:label "Boa:Contents"@ak ;
+	skos:prefLabel "Boa:Contents"@ak ;
+	schema:name "Boa:Contents"@ak ;
+	rdfs:label "کؤمک:ایچینده‌کیلر"@azb ;
+	skos:prefLabel "کؤمک:ایچینده‌کیلر"@azb ;
+	schema:name "کؤمک:ایچینده‌کیلر"@azb ;
+	rdfs:label "Help:རྒྱན་ལྡན་དྭོགས་འདྲི།"@bo ;
+	skos:prefLabel "Help:རྒྱན་ལྡན་དྭོགས་འདྲི།"@bo ;
+	schema:name "Help:རྒྱན་ལྡན་དྭོགས་འདྲི།"@bo ;
+	rdfs:label "Helppage"@dty ;
+	skos:prefLabel "Helppage"@dty ;
+	schema:name "Helppage"@dty ;
+	rdfs:label "Ýardam:Içindäkiler"@tk ;
+	skos:prefLabel "Ýardam:Içindäkiler"@tk ;
+	schema:name "Ýardam:Içindäkiler"@tk ;
+	rdfs:label "Yardım:Münderice"@crh ;
+	skos:prefLabel "Yardım:Münderice"@crh ;
+	schema:name "Yardım:Münderice"@crh ;
+	rdfs:label "Ajuda:Páigina percipal"@mwl ;
+	skos:prefLabel "Ajuda:Páigina percipal"@mwl ;
+	schema:name "Ajuda:Páigina percipal"@mwl ;
+	rdfs:label "ꯃꯇꯦꯡ:ꯑꯌꯥꯎꯕꯁꯤꯡ"@mni ;
+	skos:prefLabel "ꯃꯇꯦꯡ:ꯑꯌꯥꯎꯕꯁꯤꯡ"@mni ;
+	schema:name "ꯃꯇꯦꯡ:ꯑꯌꯥꯎꯕꯁꯤꯡ"@mni ;
+	rdfs:label "လွင်ႈၸွႆႈထႅမ်:Contents"@shn ;
+	skos:prefLabel "လွင်ႈၸွႆႈထႅမ်:Contents"@shn ;
+	schema:name "လွင်ႈၸွႆႈထႅမ်:Contents"@shn ;
+	rdfs:label "幫助:Mŭk-liŏh"@cdo ;
+	skos:prefLabel "幫助:Mŭk-liŏh"@cdo ;
+	schema:name "幫助:Mŭk-liŏh"@cdo ;
+	rdfs:label "幫助:目錄"@hak ;
+	skos:prefLabel "幫助:目錄"@hak ;
+	schema:name "幫助:目錄"@hak ;
+	rdfs:label "Agiudu:Agiudu"@sc ;
+	skos:prefLabel "Agiudu:Agiudu"@sc ;
+	schema:name "Agiudu:Agiudu"@sc ;
+	rdfs:label "Википеди:Новкъостал"@inh ;
+	skos:prefLabel "Википеди:Новкъостал"@inh ;
+	schema:name "Википеди:Новкъостал"@inh ;
+	rdfs:label "Wubodu:Tuwango"@gor ;
+	skos:prefLabel "Wubodu:Tuwango"@gor ;
+	schema:name "Wubodu:Tuwango"@gor ;
+	rdfs:label "Ayuda:Ayuda"@cbk-zam ;
+	skos:prefLabel "Ayuda:Ayuda"@cbk-zam ;
+	schema:name "Ayuda:Ayuda"@cbk-zam ;
+	rdfs:label "Auxilie:Auxilie"@ie ;
+	skos:prefLabel "Auxilie:Auxilie"@ie ;
+	schema:name "Auxilie:Auxilie"@ie ;
+	rdfs:label "Go̠ṛo̠:Suci"@sat ;
+	skos:prefLabel "Go̠ṛo̠:Suci"@sat ;
+	schema:name "Go̠ṛo̠:Suci"@sat ;
+	rdfs:label "مساعدة:صفحة المساعدة"@ary ;
+	skos:prefLabel "مساعدة:صفحة المساعدة"@ary ;
+	schema:name "مساعدة:صفحة المساعدة"@ary ;
+	rdfs:label "ವಿಕಿಪೀಡಿಯ:ಸಹಾಯೊ"@tcy ;
+	skos:prefLabel "ವಿಕಿಪೀಡಿಯ:ಸಹಾಯೊ"@tcy ;
+	schema:name "ವಿಕಿಪೀಡಿಯ:ಸಹಾಯೊ"@tcy ;
+	rdfs:label "Help:Kontenido"@pap ;
+	skos:prefLabel "Help:Kontenido"@pap ;
+	schema:name "Help:Kontenido"@pap ;
+	schema:description "página de ayuda"@es,
+		"Wikimedia help page"@en,
+		"Hauptseite des Hilfe-Namensraumes"@de,
+		"main page of the help namespace"@en-gb,
+		"pagina di aiuto principale del namespace aiuto"@it,
+		"kangrunaan a panid ti nagan ti lugar ti tulong"@ilo,
+		"główna strona pomocy"@pl,
+		"page d'accueil de l'aide"@fr,
+		"വിക്കിപീഡിയ ഉപയോഗിക്കുന്നതിനും ഈ സംരംഭത്തിൽ പ്രവർത്തിക്കുന്നതിനും താങ്കൾ‌ക്ക് സഹായകരമാകാവുന്ന ഏതാനും സൂചികകളാണ് ഈ താളിലെ ലേഖനങ്ങളും കണ്ണികളും (ലിങ്കുകൾ)"@ml,
+		"Wikimedia-projectpagina"@nl,
+		"Даведка"@be,
+		"página inicial de ajuda de um projeto da Wikimedia"@pt,
+		"pàjina prinçipałe del spasio nome Juto"@vec,
+		"ĉefpaĝo aŭ enhavtabelo de la helpa nomspaco (ero komuna por ĉiuj vikiaj projektoj)"@eo,
+		"উইকিমিডিয়া প্রকল্পের পাতা"@bn,
+		"дапаможная старонка праектаў Вікімэдыі"@be-tarask,
+		"Wikimedia-projekbladsy"@af,
+		"ウィキメディアのヘルプページ"@ja ;
+	skos:altLabel "WP:P"@hsb,
+		"A:SOS"@es,
+		"Help:Bo̍k-lio̍k"@nan,
+		"Даведка:Зьмест"@be-tarask,
+		"Даведка:Вікікрыніцы:Зьмест"@be-tarask,
+		"Cutubyada caawinaada"@so,
+		"manuale di Wikidata"@it,
+		"help Wikidata"@it,
+		"aiuto Wikidata"@it,
+		"Wikidata aiuto"@it,
+		"Wikidata manuale"@it,
+		"manuale Wikidata"@it,
+		"Wikidata:Aiuto"@it,
+		"Wikidata:Help"@it,
+		"Aiuto:Wikidata"@it,
+		"Wikipedia manuale"@it,
+		"manuale di Wiki"@it,
+		"manuale di Wikipedia"@it,
+		"Wikidata manual"@en,
+		"help Wikidata"@en,
+		"Wikidata help"@en,
+		"manual of Wikidata"@en,
+		"Wikipedia:help"@en,
+		"manual of wiki"@en,
+		"help wiki"@en,
+		"ശ്രദ്ധിക്കുക:"@ml,
+		"Викисловарь:Справка"@ru,
+		"Wiktionary:Hilfe"@de,
+		"ꯋꯤꯀꯤꯗꯥꯇꯥ ꯈꯨꯠꯄꯥꯏ"@mni,
+		"ꯃꯇꯦꯡ ꯋꯤꯀꯤꯗꯥꯇꯥ"@mni,
+		"ꯋꯤꯀꯤꯄꯦꯗꯤꯌꯥ: ꯃꯇꯦꯡ"@mni,
+		"Ajuda:Principal"@pt,
+		"Ajuda:Índice"@pt,
+		"Ajuda:Início"@pt,
+		"Ajuda:Conteúdos"@pt,
+		"Wikivoyage:Ajuda"@pt,
+		"manuałe de ła wiki"@vec,
+		"Wikipedia juto"@vec,
+		"Wikidata juto"@vec,
+		"Hjälp:Index"@sv,
+		"Helpo:Superrigardo"@eo .
+
+wd:Q14204246 a wikibase:Item ;
+	rdfs:label "Wikimedia project page"@en ;
+	skos:prefLabel "Wikimedia project page"@en ;
+	schema:name "Wikimedia project page"@en ;
+	schema:description "page in the non-article namespace 4 on a Wikimedia project (having the same name as the site, for example \"Wiktionary:\" on Wiktionary) serving internal purposes"@en .
+
+wd:P31 a wikibase:Property ;
+	rdfs:label "instance of"@en ;
+	skos:prefLabel "instance of"@en ;
+	schema:name "instance of"@en ;
+	schema:description "that class of which this subject is a particular example and member"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P31 ;
+	wikibase:claim p:P31 ;
+	wikibase:statementProperty ps:P31 ;
+	wikibase:statementValue psv:P31 ;
+	wikibase:qualifier pq:P31 ;
+	wikibase:qualifierValue pqv:P31 ;
+	wikibase:reference pr:P31 ;
+	wikibase:referenceValue prv:P31 ;
+	wikibase:novalue wdno:P31 .
+
+p:P31 a owl:ObjectProperty .
+
+psv:P31 a owl:ObjectProperty .
+
+pqv:P31 a owl:ObjectProperty .
+
+prv:P31 a owl:ObjectProperty .
+
+wdt:P31 a owl:ObjectProperty .
+
+ps:P31 a owl:ObjectProperty .
+
+pq:P31 a owl:ObjectProperty .
+
+pr:P31 a owl:ObjectProperty .
+
+wdno:P31 a owl:Class ;
+	owl:complementOf _:0b8bd71b926a65ca3fa72e5d9103e4d6 .
+
+_:0b8bd71b926a65ca3fa72e5d9103e4d6 a owl:Restriction ;
+	owl:onProperty wdt:P31 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q21281405 a wikibase:Item ;
+	rdfs:label "Wikidata internal entity"@en ;
+	skos:prefLabel "Wikidata internal entity"@en ;
+	schema:name "Wikidata internal entity"@en ;
+	schema:description "instance of this page are about some Wikidata-only content and should not refer to real world entities"@en .
+
+wd:Q56005592 a wikibase:Item ;
+	rdfs:label "Wikimedia help page"@en ;
+	skos:prefLabel "Wikimedia help page"@en ;
+	schema:name "Wikimedia help page"@en ;
+	schema:description "page of a Wikimedia wiki in the Help namespace"@en .
+
+wd:Q4588883 a wikibase:Item ;
+	rdfs:label "Category:Help"@en ;
+	skos:prefLabel "Category:Help"@en ;
+	schema:name "Category:Help"@en ;
+	schema:description "wiki category common for all wiki projects; the top-level category for help pages"@en .
+
+wd:P910 a wikibase:Property ;
+	rdfs:label "topic's main category"@en ;
+	skos:prefLabel "topic's main category"@en ;
+	schema:name "topic's main category"@en ;
+	schema:description "main Wikimedia category"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P910 ;
+	wikibase:claim p:P910 ;
+	wikibase:statementProperty ps:P910 ;
+	wikibase:statementValue psv:P910 ;
+	wikibase:qualifier pq:P910 ;
+	wikibase:qualifierValue pqv:P910 ;
+	wikibase:reference pr:P910 ;
+	wikibase:referenceValue prv:P910 ;
+	wikibase:novalue wdno:P910 .
+
+p:P910 a owl:ObjectProperty .
+
+psv:P910 a owl:ObjectProperty .
+
+pqv:P910 a owl:ObjectProperty .
+
+prv:P910 a owl:ObjectProperty .
+
+wdt:P910 a owl:ObjectProperty .
+
+ps:P910 a owl:ObjectProperty .
+
+pq:P910 a owl:ObjectProperty .
+
+pr:P910 a owl:ObjectProperty .
+
+wdno:P910 a owl:Class ;
+	owl:complementOf _:06be9361e78d041ce01df69013cf6906 .
+
+_:06be9361e78d041ce01df69013cf6906 a owl:Restriction ;
+	owl:onProperty wdt:P910 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q4654925 a wikibase:Item ;
+	rdfs:label "Wikipedia:Community portal"@en ;
+	skos:prefLabel "Wikipedia:Community portal"@en ;
+	schema:name "Wikipedia:Community portal"@en ;
+	schema:description "Wikimedia project page"@en .
+
+wd:P1889 a wikibase:Property ;
+	rdfs:label "different from"@en ;
+	skos:prefLabel "different from"@en ;
+	schema:name "different from"@en ;
+	schema:description "item that is different from another item, with which it is often confused"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P1889 ;
+	wikibase:claim p:P1889 ;
+	wikibase:statementProperty ps:P1889 ;
+	wikibase:statementValue psv:P1889 ;
+	wikibase:qualifier pq:P1889 ;
+	wikibase:qualifierValue pqv:P1889 ;
+	wikibase:reference pr:P1889 ;
+	wikibase:referenceValue prv:P1889 ;
+	wikibase:novalue wdno:P1889 .
+
+p:P1889 a owl:ObjectProperty .
+
+psv:P1889 a owl:ObjectProperty .
+
+pqv:P1889 a owl:ObjectProperty .
+
+prv:P1889 a owl:ObjectProperty .
+
+wdt:P1889 a owl:ObjectProperty .
+
+ps:P1889 a owl:ObjectProperty .
+
+pq:P1889 a owl:ObjectProperty .
+
+pr:P1889 a owl:ObjectProperty .
+
+wdno:P1889 a owl:Class ;
+	owl:complementOf _:4fcc9ce770ae6fe14cb8672fb35a8bc9 .
+
+_:4fcc9ce770ae6fe14cb8672fb35a8bc9 a owl:Restriction ;
+	owl:onProperty wdt:P1889 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q3945 a wikibase:Item ;
+	rdfs:label "Help:Introduction"@en ;
+	skos:prefLabel "Help:Introduction"@en ;
+	schema:name "Help:Introduction"@en ;
+	schema:description "Wikimedia project page"@en .
+
+wd:P3452 a wikibase:Property ;
+	rdfs:label "inferred from"@en ;
+	skos:prefLabel "inferred from"@en ;
+	schema:name "inferred from"@en ;
+	schema:description "statement added based on related statement found on the following item, not the entity described by the item (to be used in a reference field)"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P3452 ;
+	wikibase:claim p:P3452 ;
+	wikibase:statementProperty ps:P3452 ;
+	wikibase:statementValue psv:P3452 ;
+	wikibase:qualifier pq:P3452 ;
+	wikibase:qualifierValue pqv:P3452 ;
+	wikibase:reference pr:P3452 ;
+	wikibase:referenceValue prv:P3452 ;
+	wikibase:novalue wdno:P3452 .
+
+p:P3452 a owl:ObjectProperty .
+
+psv:P3452 a owl:ObjectProperty .
+
+pqv:P3452 a owl:ObjectProperty .
+
+prv:P3452 a owl:ObjectProperty .
+
+wdt:P3452 a owl:ObjectProperty .
+
+ps:P3452 a owl:ObjectProperty .
+
+pq:P3452 a owl:ObjectProperty .
+
+pr:P3452 a owl:ObjectProperty .
+
+wdno:P3452 a owl:Class ;
+	owl:complementOf _:5839b6febac847e3b7df51938b87824d .
+
+_:5839b6febac847e3b7df51938b87824d a owl:Restriction ;
+	owl:onProperty wdt:P3452 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q21015019 owl:sameAs wd:Q914807 .
+
+wd:Q25682465 owl:sameAs wd:Q914807 .
+
+wd:Q28859649 owl:sameAs wd:Q914807 .
+
+wd:Q55097063 owl:sameAs wd:Q914807 .
+
+wd:Q60648232 owl:sameAs wd:Q914807 .
+
+wd:Q60648265 owl:sameAs wd:Q914807 .
+
+wd:Q60648562 owl:sameAs wd:Q914807 .
+
+wd:Q61433001 owl:sameAs wd:Q914807 .
+
+wd:Q104696533 owl:sameAs wd:Q914807 .
+
+wd:Q105756243 owl:sameAs wd:Q914807 .
+
+ref:48d7f15a51a39815ab2d01e87111ed12a0128d89 a wikibase:Reference ;
+	pr:P3452 wd:Q4654925 .

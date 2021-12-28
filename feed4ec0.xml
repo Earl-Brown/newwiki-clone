@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<id>http://newwiki.thegleep.com/api.php?action=feedwatchlist&amp;allrev=1&amp;wlowner=TheGleep&amp;wltoken=42c0da2560b9eca5f8bf0072469c5eea1da4e868&amp;feedformat=atom</id>
+	<title>Earl's Test Wiki - Error - Watchlist [en]</title>
+	<link rel="self" type="application/atom+xml" href="http://newwiki.thegleep.com/api.php?action=feedwatchlist&amp;allrev=1&amp;wlowner=TheGleep&amp;wltoken=42c0da2560b9eca5f8bf0072469c5eea1da4e868&amp;feedformat=atom"/>
+	<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php/Special:Watchlist"/>
+	<updated>2021-12-28T00:31:39Z</updated>
+	<subtitle>Watchlist</subtitle>
+	<generator>MediaWiki 1.32.0</generator>
+	<entry>
+		<id></id>
+		<title>Error (bad_wltoken)</title>
+		<link rel="alternate" type="text/html" href=""/>
+		<updated>Z</updated>
+
+		<summary type="html">Incorrect watchlist token provided. Please set a correct token in [[Special:Preferences]].</summary>
+		<author><name></name></author>
+		
+	</entry>
+</feed>

@@ -1,0 +1,296 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;feed=atom&amp;action=history</id>
+	<title>Main Page - Revision history</title>
+	<link rel="self" type="application/atom+xml" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;feed=atom&amp;action=history"/>
+	<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;action=history"/>
+	<updated>2021-12-28T00:31:41Z</updated>
+	<subtitle>Revision history for this page on the wiki</subtitle>
+	<generator>MediaWiki 1.32.0</generator>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1828&amp;oldid=prev</id>
+		<title>TheGleep at 14:35, 31 July 2019</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1828&amp;oldid=prev"/>
+		<updated>2019-07-31T14:35:12Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 14:35, 31 July 2019&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l20&quot; &gt;Line 20:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 20:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|Megreth|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|Megreth|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;== Priority to-do ==&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;* Cut hole in closet for power cords&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;* Mount limit switches&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;* Burn Raspberry controller&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;* attach rpi to cnc&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;* flatten secondary bed&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;* test pickguard cut using paper glued to wood&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;* cut pickguard&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;* build laser-guard chamber&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;** Can I get plexiglass with proper frequency shielding?&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;** Find instructions for laser&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== Quick Access ==&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== Quick Access ==&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>TheGleep</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1823&amp;oldid=prev</id>
+		<title>TheGleep at 16:13, 19 February 2019</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1823&amp;oldid=prev"/>
+		<updated>2019-02-19T16:13:44Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 16:13, 19 February 2019&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l33&quot; &gt;Line 33:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 33:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== todo ==&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== todo ==&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;* VSCode Extensions&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;** Better task runner&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;*** Use sample project&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;*** Add auto-reload when the tasks file changes&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;** Save Explorer Stack&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;* Find more J. Michael Verta&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;* Find more J. Michael Verta&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;* Install UPS for wifi/Internet&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;* Install UPS for wifi/Internet&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>TheGleep</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1793&amp;oldid=prev</id>
+		<title>Megreth at 15:50, 6 January 2019</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1793&amp;oldid=prev"/>
+		<updated>2019-01-06T15:50:34Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 15:50, 6 January 2019&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l10&quot; &gt;Line 10:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 10:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifeq:{{CURRENTUSER}}|Megreth|&amp;lt;big&amp;gt;'''Hey, Br(i,y)an!!!'''&amp;lt;/big&amp;gt;  Its Bryan, :-)&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifeq:{{CURRENTUSER}}|Megreth|&amp;lt;big&amp;gt;'''Hey, Br(i,y)an!!!'''&amp;lt;/big&amp;gt;   &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt; &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Its Bryan, :-)&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Here's the link for my current thoughts on [[Turret]]&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Here's the link for my current thoughts on [[Turret]]&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1792&amp;oldid=prev</id>
+		<title>Megreth at 15:50, 6 January 2019</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1792&amp;oldid=prev"/>
+		<updated>2019-01-06T15:50:10Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 15:50, 6 January 2019&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l10&quot; &gt;Line 10:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 10:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifeq:{{CURRENTUSER}}|Megreth|&amp;lt;big&amp;gt;'''Hey, Br(i,y)an!!!'''&amp;lt;/big&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifeq:{{CURRENTUSER}}|Megreth|&amp;lt;big&amp;gt;'''Hey, Br(i,y)an!!!'''&amp;lt;/big&amp;gt; &lt;ins class=&quot;diffchange diffchange-inline&quot;&gt; Its Bryan, :-)&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Here's the link for my current thoughts on [[Turret]]&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Here's the link for my current thoughts on [[Turret]]&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1789&amp;oldid=prev</id>
+		<title>TheGleep at 18:56, 5 January 2019</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1789&amp;oldid=prev"/>
+		<updated>2019-01-05T18:56:33Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 18:56, 5 January 2019&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l10&quot; &gt;Line 10:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 10:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifeq:{{CURRENTUSER}}|Megreth|&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifeq:{{CURRENTUSER}}|Megreth|&amp;lt;big&amp;gt;'''Hey, Br&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;(&lt;/ins&gt;i&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;,&lt;/ins&gt;y&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;)&lt;/ins&gt;an!!!'''&amp;lt;/big&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;big&amp;gt;'''Hey, Br&lt;del class=&quot;diffchange diffchange-inline&quot;&gt;[&lt;/del&gt;i&lt;del class=&quot;diffchange diffchange-inline&quot;&gt;|&lt;/del&gt;y&lt;del class=&quot;diffchange diffchange-inline&quot;&gt;]&lt;/del&gt;an!!!'''&amp;lt;/big&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Here's the link for my current thoughts on [[Turret]]&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Here's the link for my current thoughts on [[Turret]]&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>TheGleep</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1788&amp;oldid=prev</id>
+		<title>TheGleep at 18:55, 5 January 2019</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1788&amp;oldid=prev"/>
+		<updated>2019-01-05T18:55:27Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 18:55, 5 January 2019&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l9&quot; &gt;Line 9:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 9:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;However, I have started to develop content for the Android OS in my spare time, so if you like - say - watching paint dry, or grass grow; keep an eye [[Android | here]].&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;However, I have started to develop content for the Android OS in my spare time, so if you like - say - watching paint dry, or grass grow; keep an eye [[Android | here]].&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;{{#ifeq:{{CURRENTUSER}}|Megreth|&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&amp;lt;big&amp;gt;'''Hey, Br[i|y]an!!!'''&amp;lt;/big&amp;gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Here's the link for my current thoughts on [[Turret]]&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;}}&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>TheGleep</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1786&amp;oldid=prev</id>
+		<title>Megreth at 02:28, 5 January 2019</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1786&amp;oldid=prev"/>
+		<updated>2019-01-05T02:28:48Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 02:28, 5 January 2019&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l11&quot; &gt;Line 11:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 11:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&amp;lt;!--{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{#ifeq:{{CURRENTUSER}}|Megreth}} |--&amp;gt;&lt;/del&gt;&lt;/div&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|Megreth|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|Megreth|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1784&amp;oldid=prev</id>
+		<title>Megreth at 02:06, 5 January 2019</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1784&amp;oldid=prev"/>
+		<updated>2019-01-05T02:06:36Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 02:06, 5 January 2019&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l12&quot; &gt;Line 12:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 12:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;!--{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{#ifeq:{{CURRENTUSER}}|Megreth}} |--&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;!--{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{#ifeq:{{CURRENTUSER}}|Megreth}} |--&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|&lt;del class=&quot;diffchange diffchange-inline&quot;&gt;Mereth&lt;/del&gt;|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;Megreth&lt;/ins&gt;|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== Quick Access ==&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== Quick Access ==&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1783&amp;oldid=prev</id>
+		<title>Megreth at 02:06, 5 January 2019</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1783&amp;oldid=prev"/>
+		<updated>2019-01-05T02:06:18Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 02:06, 5 January 2019&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l12&quot; &gt;Line 12:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 12:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;!--{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{#ifeq:{{CURRENTUSER}}|Megreth}} |--&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;!--{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{#ifeq:{{CURRENTUSER}}|Megreth}} |--&amp;gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|&lt;del class=&quot;diffchange diffchange-inline&quot;&gt;Megreth&lt;/del&gt;|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;Mereth&lt;/ins&gt;|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== Quick Access ==&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== Quick Access ==&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1782&amp;oldid=prev</id>
+		<title>Megreth at 02:05, 5 January 2019</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1782&amp;oldid=prev"/>
+		<updated>2019-01-05T02:05:57Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 02:05, 5 January 2019&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l11&quot; &gt;Line 11:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 11:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{#ifeq:{{CURRENTUSER}}|Megreth}} |&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;&amp;lt;!--&lt;/ins&gt;{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{#ifeq:{{CURRENTUSER}}|Megreth}} &lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;|--&amp;gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|Megreth|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 &lt;/ins&gt;|&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== Quick Access ==&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== Quick Access ==&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+</feed>

@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<id>http://newwiki.thegleep.com/index.php?title=House_of_God_Forever&amp;feed=atom&amp;action=history</id>
+	<title>House of God Forever - Revision history</title>
+	<link rel="self" type="application/atom+xml" href="http://newwiki.thegleep.com/index.php?title=House_of_God_Forever&amp;feed=atom&amp;action=history"/>
+	<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=House_of_God_Forever&amp;action=history"/>
+	<updated>2021-12-28T00:31:48Z</updated>
+	<subtitle>Revision history for this page on the wiki</subtitle>
+	<generator>MediaWiki 1.32.0</generator>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=House_of_God_Forever&amp;diff=1768&amp;oldid=prev</id>
+		<title>TheGleep at 21:19, 30 December 2018</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=House_of_God_Forever&amp;diff=1768&amp;oldid=prev"/>
+		<updated>2018-12-30T21:19:39Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 21:19, 30 December 2018&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l6&quot; &gt;Line 6:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 6:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{Verse}&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{Verse}&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[G]God is my [F]shepherd, I won't be [C]wanting  &lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[G]God is my [F]shepherd, I won't be [C]wanting&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;, &lt;/ins&gt;I won't be [F]wanting  &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;I won't be [F]wanting  &lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[C]He makes me [F]rest, in fields of [C]green&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;, &lt;/ins&gt;With quiet [F]streams  &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[C]He makes me [F]rest, in fields of [C]green  &lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[C]Even though I [F]walk, through the [C]valley&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;, &lt;/ins&gt;Of death and [F]dying  &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;With quiet [F]streams  &lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[C]I will not [F]fear, 'cause you are [C]with me&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;, &lt;/ins&gt;You are [F]with me  &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[C]Even though I [F]walk, through the [C]valley  &lt;/div&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Of death and [F]dying  &lt;/div&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[C]I will not [F]fear, 'cause you are [C]with me  &lt;/div&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;You are [F]with me  &lt;/div&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{Chorus}&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{Chorus}&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>TheGleep</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=House_of_God_Forever&amp;diff=1767&amp;oldid=prev</id>
+		<title>TheGleep at 21:19, 30 December 2018</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=House_of_God_Forever&amp;diff=1767&amp;oldid=prev"/>
+		<updated>2018-12-30T21:19:04Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 21:19, 30 December 2018&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l19&quot; &gt;Line 19:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 19:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[Gsus2]You are my [F]feast, In the presence of enemies  &lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[Gsus2]You are my [F]feast, In the presence of enemies  &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[Gsus2]Surely [F]goodness  &lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[Gsus2]Surely [F]goodness  &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Will follow me, [Am]follow me [F]  &lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Will follow me, [Am]follow me [F]&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;...&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;In the house of God [C]forever [F]...[C]...[F]...  &lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;In the house of God [C]forever [F]...[C]...[F]...  &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>TheGleep</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=House_of_God_Forever&amp;diff=1758&amp;oldid=prev</id>
+		<title>TheGleep at 00:06, 29 December 2018</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=House_of_God_Forever&amp;diff=1758&amp;oldid=prev"/>
+		<updated>2018-12-29T00:06:48Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 00:06, 29 December 2018&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l1&quot; &gt;Line 1:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Lead Sheet|&lt;del class=&quot;diffchange diffchange-inline&quot;&gt;&amp;lt;nowiki&amp;gt;&lt;/del&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Lead Sheet|&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{Title: House of God Forever}&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{Title: House of God Forever}&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l22&quot; &gt;Line 22:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 22:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;In the house of God [C]forever [F]...[C]...[F]...  &lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;In the house of God [C]forever [F]...[C]...[F]...  &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&amp;lt;/nowiki&amp;gt;&lt;/del&gt;&lt;/div&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;}}&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;}}&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Lead Sheets]]&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Lead Sheets]]&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{DISPLAYTITLE: House of God Forever}}&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{DISPLAYTITLE: House of God Forever}}&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>TheGleep</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=House_of_God_Forever&amp;diff=1383&amp;oldid=prev</id>
+		<title>TheGleep: Created page with &quot;{{Lead Sheet|&lt;nowiki&gt; {Title: House of God Forever}  {Intro} [C]...[F]...[C]...[F]...  {Verse} [G]God is my [F]shepherd, I won't be [C]wanting  I won't be [F]wanting  [C]He ma...&quot;</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=House_of_God_Forever&amp;diff=1383&amp;oldid=prev"/>
+		<updated>2018-06-23T04:19:44Z</updated>
+
+		<summary type="html">&lt;p&gt;Created page with &amp;quot;{{Lead Sheet|&amp;lt;nowiki&amp;gt; {Title: House of God Forever}  {Intro} [C]...[F]...[C]...[F]...  {Verse} [G]God is my [F]shepherd, I won&amp;#039;t be [C]wanting  I won&amp;#039;t be [F]wanting  [C]He ma...&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;{{Lead Sheet|&amp;lt;nowiki&amp;gt;&lt;br /&gt;
+{Title: House of God Forever}&lt;br /&gt;
+&lt;br /&gt;
+{Intro}&lt;br /&gt;
+[C]...[F]...[C]...[F]...&lt;br /&gt;
+&lt;br /&gt;
+{Verse}&lt;br /&gt;
+[G]God is my [F]shepherd, I won't be [C]wanting &lt;br /&gt;
+I won't be [F]wanting &lt;br /&gt;
+[C]He makes me [F]rest, in fields of [C]green &lt;br /&gt;
+With quiet [F]streams &lt;br /&gt;
+[C]Even though I [F]walk, through the [C]valley &lt;br /&gt;
+Of death and [F]dying &lt;br /&gt;
+[C]I will not [F]fear, 'cause you are [C]with me &lt;br /&gt;
+You are [F]with me &lt;br /&gt;
+&lt;br /&gt;
+{Chorus}&lt;br /&gt;
+[Gsus2]Your shepherd [F]staff, comforts me &lt;br /&gt;
+[Gsus2]You are my [F]feast, In the presence of enemies &lt;br /&gt;
+[Gsus2]Surely [F]goodness &lt;br /&gt;
+Will follow me, [Am]follow me [F] &lt;br /&gt;
+In the house of God [C]forever [F]...[C]...[F]... &lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;/nowiki&amp;gt;&lt;br /&gt;
+}}&lt;br /&gt;
+[[Category:Lead Sheets]]&lt;br /&gt;
+{{DISPLAYTITLE: House of God Forever}}&lt;/div&gt;</summary>
+		<author><name>TheGleep</name></author>
+		
+	</entry>
+</feed>

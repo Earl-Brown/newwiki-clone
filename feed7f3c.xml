@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<id>http://newwiki.thegleep.com/index.php?title=Android&amp;feed=atom&amp;action=history</id>
+	<title>Android - Revision history</title>
+	<link rel="self" type="application/atom+xml" href="http://newwiki.thegleep.com/index.php?title=Android&amp;feed=atom&amp;action=history"/>
+	<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Android&amp;action=history"/>
+	<updated>2021-12-28T00:38:15Z</updated>
+	<subtitle>Revision history for this page on the wiki</subtitle>
+	<generator>MediaWiki 1.32.0</generator>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Android&amp;diff=1345&amp;oldid=prev</id>
+		<title>TheGleep: Created page with &quot;= Development = I write software for a living...and I'm always thinking of things I'd like to write.  I'm not nearly as good at actually writing them.  Anything listed here ha...&quot;</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Android&amp;diff=1345&amp;oldid=prev"/>
+		<updated>2018-06-08T17:23:29Z</updated>
+
+		<summary type="html">&lt;p&gt;Created page with &amp;quot;= Development = I write software for a living...and I&amp;#039;m always thinking of things I&amp;#039;d like to write.  I&amp;#039;m not nearly as good at actually writing them.  Anything listed here ha...&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;= Development =&lt;br /&gt;
+I write software for a living...and I'm always thinking of things I'd like to write.&lt;br /&gt;
+&lt;br /&gt;
+I'm not nearly as good at actually writing them.&lt;br /&gt;
+&lt;br /&gt;
+Anything listed here has at least made the proof-of-concept stage.&lt;br /&gt;
+&lt;br /&gt;
+At the moment, I plan to release all of my applications as &amp;quot;donationware&amp;quot; for individual users, and bulk-use license for institutions (like schools).  Individuals can use my programs all they like.  I expect institutions to contact me to arrange reimbursements (I think it's only fair...if you are making money or saving time from my work, I want a piece of the action.  I promise to be reasonable!&amp;lt;span style=&amp;quot;font-size: smaller; vertical-align: top;&amp;quot;&amp;gt;*&amp;lt;/span&amp;gt; :)&lt;br /&gt;
+&lt;br /&gt;
+Pending projects:&lt;br /&gt;
+* [[Android/Music Tutor | Music Tutor]]&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;span style=&amp;quot;font-size: smaller; vertical-align: top;&amp;quot;&amp;gt;*&amp;lt;/span&amp;gt; my definition of reasonable is the only definition which applies.&lt;br /&gt;
+&lt;br /&gt;
+= Favorites =&lt;br /&gt;
+[[Android/Andor's Trail | Andor's Trail]] is a great and free game.  I like it enough that I've decided to make maps for it.&lt;/div&gt;</summary>
+		<author><name>TheGleep</name></author>
+		
+	</entry>
+</feed>

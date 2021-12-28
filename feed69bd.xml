@@ -1,0 +1,1446 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<id>http://newwiki.thegleep.com/api.php?action=feedcontributions&amp;user=Megreth&amp;feedformat=atom</id>
+	<title>Earl's Test Wiki - User contributions [en]</title>
+	<link rel="self" type="application/atom+xml" href="http://newwiki.thegleep.com/api.php?action=feedcontributions&amp;user=Megreth&amp;feedformat=atom"/>
+	<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php/Special:Contributions/Megreth"/>
+	<updated>2021-12-28T00:31:50Z</updated>
+	<subtitle>User contributions</subtitle>
+	<generator>MediaWiki 1.32.0</generator>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Gunner&amp;diff=1794</id>
+		<title>Gunner</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Gunner&amp;diff=1794"/>
+		<updated>2019-01-06T15:54:10Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: /* Comments */&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;= Overview =&lt;br /&gt;
+Turret is a VR game where the player is a member of the space military, assigned to operate a gun emplacement on a capital ship.&lt;br /&gt;
+&lt;br /&gt;
+The game is designed to provide a sit-down VR experience.  The in-game character will be sitting, so it will make sense for the player to sit, as well.&lt;br /&gt;
+&lt;br /&gt;
+A flat-surface version might also be released, which renders the VR as a single image and provides gamepad affordances&lt;br /&gt;
+&lt;br /&gt;
+= Gameplay =&lt;br /&gt;
+&amp;quot;Leveling&amp;quot; is modeled after pseudo-military promotions and assignments.&lt;br /&gt;
+&lt;br /&gt;
+== Earliest level is trainee ==&lt;br /&gt;
+&lt;br /&gt;
+Aim is provided by POV&lt;br /&gt;
+Other features provided by input device&lt;br /&gt;
+* movement&lt;br /&gt;
+* munition selection&lt;br /&gt;
+* munition firing&lt;br /&gt;
+&lt;br /&gt;
+* Polygonal targets&lt;br /&gt;
+* Simple HUD&lt;br /&gt;
+* single trigger for firing&lt;br /&gt;
+* the only movement is POV&lt;br /&gt;
+&lt;br /&gt;
+== other levels add more features ==&lt;br /&gt;
+* rendering style&lt;br /&gt;
+** Polygonal for training&lt;br /&gt;
+** &amp;quot;realistic&amp;quot; for combat&lt;br /&gt;
+** allow for non-realistic&lt;br /&gt;
+&lt;br /&gt;
+* left/right sliding turret&lt;br /&gt;
+* different HUD&lt;br /&gt;
+* missiles&lt;br /&gt;
+** dumbfire&lt;br /&gt;
+** guided by lock-on&lt;br /&gt;
+&lt;br /&gt;
+* projectiles&lt;br /&gt;
+** much bigger &amp;quot;punch&amp;quot;, but require &amp;quot;leading&amp;quot; the target&lt;br /&gt;
+&lt;br /&gt;
+* choice of munition&lt;br /&gt;
+** immediate changes (beam weapons)&lt;br /&gt;
+** delayed changes (projectile weapons, including missiles)&lt;br /&gt;
+&lt;br /&gt;
+* selection of turret options before &amp;quot;battle&amp;quot;&lt;br /&gt;
+** available munition types&lt;br /&gt;
+&lt;br /&gt;
+* ability to control multiple munitions at the same time&lt;br /&gt;
+&lt;br /&gt;
+== difficulty ==&lt;br /&gt;
+the definition of success for a level/mission can vary&lt;br /&gt;
+** the turret is not destroyed&lt;br /&gt;
+*** shields (require energy)&lt;br /&gt;
+*** armor (reduces performance)&lt;br /&gt;
+&lt;br /&gt;
+** the capital ship is not destroyed&lt;br /&gt;
+*** player can change turrets when one is destroyed&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+= Equipment =&lt;br /&gt;
+This section is expected to change over time, but the first intention is to operate on any VR system on which React360 operates.&lt;br /&gt;
+&lt;br /&gt;
+A gamepad of some sort is required&lt;br /&gt;
+&lt;br /&gt;
+= Architecture =&lt;br /&gt;
+The current plan is to use React360 as the primary rendering system.&lt;br /&gt;
+&lt;br /&gt;
+It will allow for monitoring and control surfaces to operate on a separate device by way of WebSockets&lt;br /&gt;
+&lt;br /&gt;
+The mechanism used for monitoring will also provide for the flat-surface version of the game.&lt;br /&gt;
+&lt;br /&gt;
+= Future plans =&lt;br /&gt;
+The concept of &amp;quot;Turret&amp;quot; can fit into a larger game world with other games like &amp;quot;CapShip&amp;quot; - in which the player runs the capital ship the turret is attached to.&lt;br /&gt;
+&lt;br /&gt;
+Also, the game could be turned into something of an MMO, where &amp;quot;teams&amp;quot; act as the collection of Turrets on a capital ship.  Eventually the two could be combined to expand in-game play to multiple types of games at the same time.&lt;br /&gt;
+&lt;br /&gt;
+Another off-shoot would be &amp;quot;Mercenary,&amp;quot; and &amp;quot;Merchant&amp;quot; providing for smaller teams and different goals.&lt;br /&gt;
+&lt;br /&gt;
+The overall MMO operation could eventually include a large universe of interacting behavior and many different genre's of games.&lt;br /&gt;
+&lt;br /&gt;
+= Background =&lt;br /&gt;
+Although VR is really catching on, the games available for Android are still lacking in depth.&lt;br /&gt;
+&lt;br /&gt;
+While &amp;quot;Turret&amp;quot; won't be that much more of an in-depth playing experience, it will offer more expansive game play than the current norm.&lt;br /&gt;
+&lt;br /&gt;
+= Comments =&lt;br /&gt;
+Bryan: I love the concept! One question, I noticed you mention React360, I did some research and its a 3d rendering system for a VR environment.  I am confused was there a 2d initial version them moving into a 3D renders game, or was I confused.  Again I love this game but I was thinking we tackle something very simple at first just to cut our teeth on the Google, advertising etc... systems.  My worry is we would get bogged down with a 3D graphical environment for our first project. &lt;br /&gt;
+&lt;br /&gt;
+[[Category:Projects/Games]]&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1793</id>
+		<title>Main Page</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1793"/>
+		<updated>2019-01-06T15:50:34Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;&amp;lt;div id=&amp;quot;mf-home&amp;quot;&amp;gt;&lt;br /&gt;
+Hi...&lt;br /&gt;
+&lt;br /&gt;
+Welcome to my little place on the 'Net.&lt;br /&gt;
+&lt;br /&gt;
+theGleep.com started out as just a place to claim my nickname &amp;quot;theGleep&amp;quot; as &amp;lt;b&amp;gt;mine&amp;lt;/b&amp;gt;...think of it as Internet Graffiti.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+However, I have started to develop content for the Android OS in my spare time, so if you like - say - watching paint dry, or grass grow; keep an eye [[Android | here]].&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+{{#ifeq:{{CURRENTUSER}}|Megreth|&amp;lt;big&amp;gt;'''Hey, Br(i,y)an!!!'''&amp;lt;/big&amp;gt;  &lt;br /&gt;
+&lt;br /&gt;
+Its Bryan, :-)&lt;br /&gt;
+&lt;br /&gt;
+Here's the link for my current thoughts on [[Turret]]&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|Megreth|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;br /&gt;
+&lt;br /&gt;
+== Quick Access ==&lt;br /&gt;
+* [[:Category:Recipes]]&lt;br /&gt;
+* [[:Category:Lead Sheets]]&lt;br /&gt;
+* [[:Category:Projects]]&lt;br /&gt;
+* [[My Songs]]&lt;br /&gt;
+* [[Note To Self]]&lt;br /&gt;
+* [[Interesting Extensions]]&lt;br /&gt;
+&lt;br /&gt;
+== Android Development ==&lt;br /&gt;
+* [[Collaborative Game Development]]&lt;br /&gt;
+&lt;br /&gt;
+== todo ==&lt;br /&gt;
+* Find more J. Michael Verta&lt;br /&gt;
+* Install UPS for wifi/Internet&lt;br /&gt;
+** Also install rack-mount power strip&lt;br /&gt;
+* Run speaker wires&lt;br /&gt;
+** subwoofer&lt;br /&gt;
+** HDMI cables&lt;br /&gt;
+* Improve remote access system&lt;br /&gt;
+** network sharing via virtual machines&lt;br /&gt;
+** individual programs instead of full desktop&lt;br /&gt;
+*** &amp;quot;WinSwitch&amp;quot; or &amp;quot;Xpra&amp;quot;&lt;br /&gt;
+*** requires network sharing via VMs - or maybe using VM as SSH Gateway/jump host&lt;br /&gt;
+* put a light in the pantry&lt;br /&gt;
+&lt;br /&gt;
+== Site to-do list ==&lt;br /&gt;
+&lt;br /&gt;
+=== improve menu ===&lt;br /&gt;
+* Style/Theme&lt;br /&gt;
+* Links&lt;br /&gt;
+** Projects&lt;br /&gt;
+** Music&lt;br /&gt;
+** Recipes&lt;br /&gt;
+&lt;br /&gt;
+=== leadsheet bugs to fix and features to add ===&lt;br /&gt;
+* Move configuration UI outside of rendering engine&lt;br /&gt;
+** the &amp;quot;render&amp;quot; method should receive the configuration settings&lt;br /&gt;
+&lt;br /&gt;
+* Improve spacing&lt;br /&gt;
+** Don't allow lyrics to drop below controls (move controls to be a menu-type bar)&lt;br /&gt;
+&lt;br /&gt;
+* Show song title when printing&lt;br /&gt;
+&lt;br /&gt;
+* Accept chords next to each other&lt;br /&gt;
+&lt;br /&gt;
+* revise react output (div after .display-settings) to have a class to allow &amp;quot;width: 100%&amp;quot; specification&lt;br /&gt;
+&lt;br /&gt;
+* Printing often shows second page when it shouldn't&lt;br /&gt;
+&lt;br /&gt;
+* two chords in a row results in one being treated as the text of the verse&lt;br /&gt;
+* Show rendering errors to the user, not just the console&lt;br /&gt;
+* When there are more chords than lyrics, add blank spaces as lyrics&lt;br /&gt;
+* honor comments in lyric headers&lt;br /&gt;
+&lt;br /&gt;
+* Template example errors out&lt;br /&gt;
+&lt;br /&gt;
+* add SetList page template&lt;br /&gt;
+** links to songs&lt;br /&gt;
+** ?index=[1,2,3...]&lt;br /&gt;
+** &amp;quot;next/prev&amp;quot; buttons&lt;br /&gt;
+&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+== Shopping list ==&lt;br /&gt;
+&lt;br /&gt;
+== Print ideas ==&lt;br /&gt;
+* Shelf&lt;br /&gt;
+* Armada mounts&lt;br /&gt;
+* revise toothbrush holder&lt;br /&gt;
+* Funnel balancer&lt;br /&gt;
+&lt;br /&gt;
+=== Spaceships &amp;amp; Such ===&lt;br /&gt;
+&lt;br /&gt;
+{{#ifeq:{{CURRENTUSER}}&lt;br /&gt;
+  |Mellab|&lt;br /&gt;
+&lt;br /&gt;
+Hello, love!!  [[Carmella's Music List|this page here]] is probably what you're looking for.  But you can create new pages any time you want to!&lt;br /&gt;
+}}&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1792</id>
+		<title>Main Page</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1792"/>
+		<updated>2019-01-06T15:50:10Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;&amp;lt;div id=&amp;quot;mf-home&amp;quot;&amp;gt;&lt;br /&gt;
+Hi...&lt;br /&gt;
+&lt;br /&gt;
+Welcome to my little place on the 'Net.&lt;br /&gt;
+&lt;br /&gt;
+theGleep.com started out as just a place to claim my nickname &amp;quot;theGleep&amp;quot; as &amp;lt;b&amp;gt;mine&amp;lt;/b&amp;gt;...think of it as Internet Graffiti.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+However, I have started to develop content for the Android OS in my spare time, so if you like - say - watching paint dry, or grass grow; keep an eye [[Android | here]].&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+{{#ifeq:{{CURRENTUSER}}|Megreth|&amp;lt;big&amp;gt;'''Hey, Br(i,y)an!!!'''&amp;lt;/big&amp;gt;  Its Bryan, :-)&lt;br /&gt;
+&lt;br /&gt;
+Here's the link for my current thoughts on [[Turret]]&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|Megreth|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;br /&gt;
+&lt;br /&gt;
+== Quick Access ==&lt;br /&gt;
+* [[:Category:Recipes]]&lt;br /&gt;
+* [[:Category:Lead Sheets]]&lt;br /&gt;
+* [[:Category:Projects]]&lt;br /&gt;
+* [[My Songs]]&lt;br /&gt;
+* [[Note To Self]]&lt;br /&gt;
+* [[Interesting Extensions]]&lt;br /&gt;
+&lt;br /&gt;
+== Android Development ==&lt;br /&gt;
+* [[Collaborative Game Development]]&lt;br /&gt;
+&lt;br /&gt;
+== todo ==&lt;br /&gt;
+* Find more J. Michael Verta&lt;br /&gt;
+* Install UPS for wifi/Internet&lt;br /&gt;
+** Also install rack-mount power strip&lt;br /&gt;
+* Run speaker wires&lt;br /&gt;
+** subwoofer&lt;br /&gt;
+** HDMI cables&lt;br /&gt;
+* Improve remote access system&lt;br /&gt;
+** network sharing via virtual machines&lt;br /&gt;
+** individual programs instead of full desktop&lt;br /&gt;
+*** &amp;quot;WinSwitch&amp;quot; or &amp;quot;Xpra&amp;quot;&lt;br /&gt;
+*** requires network sharing via VMs - or maybe using VM as SSH Gateway/jump host&lt;br /&gt;
+* put a light in the pantry&lt;br /&gt;
+&lt;br /&gt;
+== Site to-do list ==&lt;br /&gt;
+&lt;br /&gt;
+=== improve menu ===&lt;br /&gt;
+* Style/Theme&lt;br /&gt;
+* Links&lt;br /&gt;
+** Projects&lt;br /&gt;
+** Music&lt;br /&gt;
+** Recipes&lt;br /&gt;
+&lt;br /&gt;
+=== leadsheet bugs to fix and features to add ===&lt;br /&gt;
+* Move configuration UI outside of rendering engine&lt;br /&gt;
+** the &amp;quot;render&amp;quot; method should receive the configuration settings&lt;br /&gt;
+&lt;br /&gt;
+* Improve spacing&lt;br /&gt;
+** Don't allow lyrics to drop below controls (move controls to be a menu-type bar)&lt;br /&gt;
+&lt;br /&gt;
+* Show song title when printing&lt;br /&gt;
+&lt;br /&gt;
+* Accept chords next to each other&lt;br /&gt;
+&lt;br /&gt;
+* revise react output (div after .display-settings) to have a class to allow &amp;quot;width: 100%&amp;quot; specification&lt;br /&gt;
+&lt;br /&gt;
+* Printing often shows second page when it shouldn't&lt;br /&gt;
+&lt;br /&gt;
+* two chords in a row results in one being treated as the text of the verse&lt;br /&gt;
+* Show rendering errors to the user, not just the console&lt;br /&gt;
+* When there are more chords than lyrics, add blank spaces as lyrics&lt;br /&gt;
+* honor comments in lyric headers&lt;br /&gt;
+&lt;br /&gt;
+* Template example errors out&lt;br /&gt;
+&lt;br /&gt;
+* add SetList page template&lt;br /&gt;
+** links to songs&lt;br /&gt;
+** ?index=[1,2,3...]&lt;br /&gt;
+** &amp;quot;next/prev&amp;quot; buttons&lt;br /&gt;
+&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+== Shopping list ==&lt;br /&gt;
+&lt;br /&gt;
+== Print ideas ==&lt;br /&gt;
+* Shelf&lt;br /&gt;
+* Armada mounts&lt;br /&gt;
+* revise toothbrush holder&lt;br /&gt;
+* Funnel balancer&lt;br /&gt;
+&lt;br /&gt;
+=== Spaceships &amp;amp; Such ===&lt;br /&gt;
+&lt;br /&gt;
+{{#ifeq:{{CURRENTUSER}}&lt;br /&gt;
+  |Mellab|&lt;br /&gt;
+&lt;br /&gt;
+Hello, love!!  [[Carmella's Music List|this page here]] is probably what you're looking for.  But you can create new pages any time you want to!&lt;br /&gt;
+}}&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Gunner&amp;diff=1791</id>
+		<title>Gunner</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Gunner&amp;diff=1791"/>
+		<updated>2019-01-06T15:49:41Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;= Overview =&lt;br /&gt;
+Turret is a VR game where the player is a member of the space military, assigned to operate a gun emplacement on a capital ship.&lt;br /&gt;
+&lt;br /&gt;
+The game is designed to provide a sit-down VR experience.  The in-game character will be sitting, so it will make sense for the player to sit, as well.&lt;br /&gt;
+&lt;br /&gt;
+A flat-surface version might also be released, which renders the VR as a single image and provides gamepad affordances&lt;br /&gt;
+&lt;br /&gt;
+= Gameplay =&lt;br /&gt;
+&amp;quot;Leveling&amp;quot; is modeled after pseudo-military promotions and assignments.&lt;br /&gt;
+&lt;br /&gt;
+== Earliest level is trainee ==&lt;br /&gt;
+&lt;br /&gt;
+Aim is provided by POV&lt;br /&gt;
+Other features provided by input device&lt;br /&gt;
+* movement&lt;br /&gt;
+* munition selection&lt;br /&gt;
+* munition firing&lt;br /&gt;
+&lt;br /&gt;
+* Polygonal targets&lt;br /&gt;
+* Simple HUD&lt;br /&gt;
+* single trigger for firing&lt;br /&gt;
+* the only movement is POV&lt;br /&gt;
+&lt;br /&gt;
+== other levels add more features ==&lt;br /&gt;
+* rendering style&lt;br /&gt;
+** Polygonal for training&lt;br /&gt;
+** &amp;quot;realistic&amp;quot; for combat&lt;br /&gt;
+** allow for non-realistic&lt;br /&gt;
+&lt;br /&gt;
+* left/right sliding turret&lt;br /&gt;
+* different HUD&lt;br /&gt;
+* missiles&lt;br /&gt;
+** dumbfire&lt;br /&gt;
+** guided by lock-on&lt;br /&gt;
+&lt;br /&gt;
+* projectiles&lt;br /&gt;
+** much bigger &amp;quot;punch&amp;quot;, but require &amp;quot;leading&amp;quot; the target&lt;br /&gt;
+&lt;br /&gt;
+* choice of munition&lt;br /&gt;
+** immediate changes (beam weapons)&lt;br /&gt;
+** delayed changes (projectile weapons, including missiles)&lt;br /&gt;
+&lt;br /&gt;
+* selection of turret options before &amp;quot;battle&amp;quot;&lt;br /&gt;
+** available munition types&lt;br /&gt;
+&lt;br /&gt;
+* ability to control multiple munitions at the same time&lt;br /&gt;
+&lt;br /&gt;
+== difficulty ==&lt;br /&gt;
+the definition of success for a level/mission can vary&lt;br /&gt;
+** the turret is not destroyed&lt;br /&gt;
+*** shields (require energy)&lt;br /&gt;
+*** armor (reduces performance)&lt;br /&gt;
+&lt;br /&gt;
+** the capital ship is not destroyed&lt;br /&gt;
+*** player can change turrets when one is destroyed&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+= Equipment =&lt;br /&gt;
+This section is expected to change over time, but the first intention is to operate on any VR system on which React360 operates.&lt;br /&gt;
+&lt;br /&gt;
+A gamepad of some sort is required&lt;br /&gt;
+&lt;br /&gt;
+= Architecture =&lt;br /&gt;
+The current plan is to use React360 as the primary rendering system.&lt;br /&gt;
+&lt;br /&gt;
+It will allow for monitoring and control surfaces to operate on a separate device by way of WebSockets&lt;br /&gt;
+&lt;br /&gt;
+The mechanism used for monitoring will also provide for the flat-surface version of the game.&lt;br /&gt;
+&lt;br /&gt;
+= Future plans =&lt;br /&gt;
+The concept of &amp;quot;Turret&amp;quot; can fit into a larger game world with other games like &amp;quot;CapShip&amp;quot; - in which the player runs the capital ship the turret is attached to.&lt;br /&gt;
+&lt;br /&gt;
+Also, the game could be turned into something of an MMO, where &amp;quot;teams&amp;quot; act as the collection of Turrets on a capital ship.  Eventually the two could be combined to expand in-game play to multiple types of games at the same time.&lt;br /&gt;
+&lt;br /&gt;
+Another off-shoot would be &amp;quot;Mercenary,&amp;quot; and &amp;quot;Merchant&amp;quot; providing for smaller teams and different goals.&lt;br /&gt;
+&lt;br /&gt;
+The overall MMO operation could eventually include a large universe of interacting behavior and many different genre's of games.&lt;br /&gt;
+&lt;br /&gt;
+= Background =&lt;br /&gt;
+Although VR is really catching on, the games available for Android are still lacking in depth.&lt;br /&gt;
+&lt;br /&gt;
+While &amp;quot;Turret&amp;quot; won't be that much more of an in-depth playing experience, it will offer more expansive game play than the current norm.&lt;br /&gt;
+&lt;br /&gt;
+= Comments =&lt;br /&gt;
+Bryan: I love the concept! One question, I noticed you mention React360, I did some research and its a 3d rendering system for a VR environment.  I am confused was there a 2d inital version them moving into a 3D renders game, or was I confused.  Again I love this game but I was thinking we tackle something very simple at first just to cut our teath on the Google, edvertising etc... systems.  &lt;br /&gt;
+&lt;br /&gt;
+[[Category:Projects/Games]]&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Gunner&amp;diff=1790</id>
+		<title>Gunner</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Gunner&amp;diff=1790"/>
+		<updated>2019-01-06T15:49:20Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;= Overview =&lt;br /&gt;
+Turret is a VR game where the player is a member of the space military, assigned to operate a gun emplacement on a capital ship.&lt;br /&gt;
+&lt;br /&gt;
+The game is designed to provide a sit-down VR experience.  The in-game character will be sitting, so it will make sense for the player to sit, as well.&lt;br /&gt;
+&lt;br /&gt;
+A flat-surface version might also be released, which renders the VR as a single image and provides gamepad affordances&lt;br /&gt;
+&lt;br /&gt;
+= Gameplay =&lt;br /&gt;
+&amp;quot;Leveling&amp;quot; is modeled after pseudo-military promotions and assignments.&lt;br /&gt;
+&lt;br /&gt;
+== Earliest level is trainee ==&lt;br /&gt;
+&lt;br /&gt;
+Aim is provided by POV&lt;br /&gt;
+Other features provided by input device&lt;br /&gt;
+* movement&lt;br /&gt;
+* munition selection&lt;br /&gt;
+* munition firing&lt;br /&gt;
+&lt;br /&gt;
+* Polygonal targets&lt;br /&gt;
+* Simple HUD&lt;br /&gt;
+* single trigger for firing&lt;br /&gt;
+* the only movement is POV&lt;br /&gt;
+&lt;br /&gt;
+== other levels add more features ==&lt;br /&gt;
+* rendering style&lt;br /&gt;
+** Polygonal for training&lt;br /&gt;
+** &amp;quot;realistic&amp;quot; for combat&lt;br /&gt;
+** allow for non-realistic&lt;br /&gt;
+&lt;br /&gt;
+* left/right sliding turret&lt;br /&gt;
+* different HUD&lt;br /&gt;
+* missiles&lt;br /&gt;
+** dumbfire&lt;br /&gt;
+** guided by lock-on&lt;br /&gt;
+&lt;br /&gt;
+* projectiles&lt;br /&gt;
+** much bigger &amp;quot;punch&amp;quot;, but require &amp;quot;leading&amp;quot; the target&lt;br /&gt;
+&lt;br /&gt;
+* choice of munition&lt;br /&gt;
+** immediate changes (beam weapons)&lt;br /&gt;
+** delayed changes (projectile weapons, including missiles)&lt;br /&gt;
+&lt;br /&gt;
+* selection of turret options before &amp;quot;battle&amp;quot;&lt;br /&gt;
+** available munition types&lt;br /&gt;
+&lt;br /&gt;
+* ability to control multiple munitions at the same time&lt;br /&gt;
+&lt;br /&gt;
+== difficulty ==&lt;br /&gt;
+the definition of success for a level/mission can vary&lt;br /&gt;
+** the turret is not destroyed&lt;br /&gt;
+*** shields (require energy)&lt;br /&gt;
+*** armor (reduces performance)&lt;br /&gt;
+&lt;br /&gt;
+** the capital ship is not destroyed&lt;br /&gt;
+*** player can change turrets when one is destroyed&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+= Equipment =&lt;br /&gt;
+This section is expected to change over time, but the first intention is to operate on any VR system on which React360 operates.&lt;br /&gt;
+&lt;br /&gt;
+A gamepad of some sort is required&lt;br /&gt;
+&lt;br /&gt;
+= Architecture =&lt;br /&gt;
+The current plan is to use React360 as the primary rendering system.&lt;br /&gt;
+&lt;br /&gt;
+It will allow for monitoring and control surfaces to operate on a separate device by way of WebSockets&lt;br /&gt;
+&lt;br /&gt;
+The mechanism used for monitoring will also provide for the flat-surface version of the game.&lt;br /&gt;
+&lt;br /&gt;
+= Future plans =&lt;br /&gt;
+The concept of &amp;quot;Turret&amp;quot; can fit into a larger game world with other games like &amp;quot;CapShip&amp;quot; - in which the player runs the capital ship the turret is attached to.&lt;br /&gt;
+&lt;br /&gt;
+Also, the game could be turned into something of an MMO, where &amp;quot;teams&amp;quot; act as the collection of Turrets on a capital ship.  Eventually the two could be combined to expand in-game play to multiple types of games at the same time.&lt;br /&gt;
+&lt;br /&gt;
+Another off-shoot would be &amp;quot;Mercenary,&amp;quot; and &amp;quot;Merchant&amp;quot; providing for smaller teams and different goals.&lt;br /&gt;
+&lt;br /&gt;
+The overall MMO operation could eventually include a large universe of interacting behavior and many different genre's of games.&lt;br /&gt;
+&lt;br /&gt;
+= Background =&lt;br /&gt;
+Although VR is really catching on, the games available for Android are still lacking in depth.&lt;br /&gt;
+&lt;br /&gt;
+While &amp;quot;Turret&amp;quot; won't be that much more of an in-depth playing experience, it will offer more expansive game play than the current norm.&lt;br /&gt;
+&lt;br /&gt;
+= Comments =&lt;br /&gt;
+I love the concept! One question, I noticed you mention React360, I did some research and its a 3d rendering system for a VR environment.  I am confused was there a 2d inital version them moving into a 3D renders game, or was I confused.  Again I love this game but I was thinking we tackle something very simple at first just to cut our teath on the Google, edvertising etc... systems.  &lt;br /&gt;
+&lt;br /&gt;
+[[Category:Projects/Games]]&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1787</id>
+		<title>Collaborative Game Development</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1787"/>
+		<updated>2019-01-05T02:47:31Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;The idea behind this page is to represent the collaborative effort between Earl and Bryan.  I didn't think it was appropriate to integrate what we will be doing together with what you had already done.  So I am thinking this could be a launch page for not only specific projects but also other things like resources, tech, graphics that would be common to all the projects.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+== Technologies ==&lt;br /&gt;
+These are technologies related to the development, testing, deployment, data storage, etc.. in Android applications we should look at.&lt;br /&gt;
+&lt;br /&gt;
+=== Deployment ===&lt;br /&gt;
+==== Google Play Store ====&lt;br /&gt;
+The primary deployment option I think we should look at first due to its wide acceptance, there are other options but for now, let's focus on this.&lt;br /&gt;
+&lt;br /&gt;
+=== Player Experience ===&lt;br /&gt;
+&lt;br /&gt;
+==== Unity Graphics ====&lt;br /&gt;
+High learning curve but very high-end results, if we can figure it out.  No in-house experience with this...&lt;br /&gt;
+&lt;br /&gt;
+==== HTML Graphics ====&lt;br /&gt;
+We have in-house experience and depending on the need it will most likely be the graphics interface we will initially use. &lt;br /&gt;
+&lt;br /&gt;
+=== Income Generation ===&lt;br /&gt;
+We need to start educating ourselves on how to integrate advertising into the application.  The odds are we aren't going to make money at first, but who knows we may get lucky... :-)&lt;br /&gt;
+&lt;br /&gt;
+==== Types of Advertising ====&lt;br /&gt;
+We wouldn't have the same type of advertising for games as we would have for utility applications.&lt;br /&gt;
+&lt;br /&gt;
+===== Utility Apps =====&lt;br /&gt;
+I found this [https://www.adpushup.com/blog/top-8-best-paying-mobile-ad-networks-you-should-try/] link to an article that talked about the 8 best mobile add networks but it looks like those are related to android utility application and desktop application advertising.&lt;br /&gt;
+&lt;br /&gt;
+===== Gaming Apps =====&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+=== Nice To Have ===&lt;br /&gt;
+Optional items but would really be nice to have.&lt;br /&gt;
+&lt;br /&gt;
+==== Google Play ====&lt;br /&gt;
+This is different than the store, this is the integration of the app with the Google gaming API. Where players get XP and other accomplishments that we define for our game.  Although this could be a &amp;quot;nice to have&amp;quot; option users seem to really like to have this.&lt;br /&gt;
+&lt;br /&gt;
+== Reasearch ==&lt;br /&gt;
+&lt;br /&gt;
+=== Development Tools ===&lt;br /&gt;
+&lt;br /&gt;
+Here is an article I found on this. [https://theappsolutions.com/blog/development/mobile-game-dev/]&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+== Projects ==&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1786</id>
+		<title>Main Page</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1786"/>
+		<updated>2019-01-05T02:28:48Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;&amp;lt;div id=&amp;quot;mf-home&amp;quot;&amp;gt;&lt;br /&gt;
+Hi...&lt;br /&gt;
+&lt;br /&gt;
+Welcome to my little place on the 'Net.&lt;br /&gt;
+&lt;br /&gt;
+theGleep.com started out as just a place to claim my nickname &amp;quot;theGleep&amp;quot; as &amp;lt;b&amp;gt;mine&amp;lt;/b&amp;gt;...think of it as Internet Graffiti.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+However, I have started to develop content for the Android OS in my spare time, so if you like - say - watching paint dry, or grass grow; keep an eye [[Android | here]].&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|Megreth|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;br /&gt;
+&lt;br /&gt;
+== Quick Access ==&lt;br /&gt;
+* [[:Category:Recipes]]&lt;br /&gt;
+* [[:Category:Lead Sheets]]&lt;br /&gt;
+* [[:Category:Projects]]&lt;br /&gt;
+* [[My Songs]]&lt;br /&gt;
+* [[Note To Self]]&lt;br /&gt;
+* [[Interesting Extensions]]&lt;br /&gt;
+&lt;br /&gt;
+== Android Development ==&lt;br /&gt;
+* [[Collaborative Game Development]]&lt;br /&gt;
+&lt;br /&gt;
+== todo ==&lt;br /&gt;
+* Find more J. Michael Verta&lt;br /&gt;
+* Install UPS for wifi/Internet&lt;br /&gt;
+** Also install rack-mount power strip&lt;br /&gt;
+* Run speaker wires&lt;br /&gt;
+** subwoofer&lt;br /&gt;
+** HDMI cables&lt;br /&gt;
+* Improve remote access system&lt;br /&gt;
+** network sharing via virtual machines&lt;br /&gt;
+** individual programs instead of full desktop&lt;br /&gt;
+*** &amp;quot;WinSwitch&amp;quot; or &amp;quot;Xpra&amp;quot;&lt;br /&gt;
+*** requires network sharing via VMs - or maybe using VM as SSH Gateway/jump host&lt;br /&gt;
+* put a light in the pantry&lt;br /&gt;
+&lt;br /&gt;
+== Site to-do list ==&lt;br /&gt;
+&lt;br /&gt;
+=== improve menu ===&lt;br /&gt;
+* Style/Theme&lt;br /&gt;
+* Links&lt;br /&gt;
+** Projects&lt;br /&gt;
+** Music&lt;br /&gt;
+** Recipes&lt;br /&gt;
+&lt;br /&gt;
+=== leadsheet bugs to fix and features to add ===&lt;br /&gt;
+* Move configuration UI outside of rendering engine&lt;br /&gt;
+** the &amp;quot;render&amp;quot; method should receive the configuration settings&lt;br /&gt;
+&lt;br /&gt;
+* Improve spacing&lt;br /&gt;
+** Don't allow lyrics to drop below controls (move controls to be a menu-type bar)&lt;br /&gt;
+&lt;br /&gt;
+* Show song title when printing&lt;br /&gt;
+&lt;br /&gt;
+* Accept chords next to each other&lt;br /&gt;
+&lt;br /&gt;
+* revise react output (div after .display-settings) to have a class to allow &amp;quot;width: 100%&amp;quot; specification&lt;br /&gt;
+&lt;br /&gt;
+* Printing often shows second page when it shouldn't&lt;br /&gt;
+&lt;br /&gt;
+* two chords in a row results in one being treated as the text of the verse&lt;br /&gt;
+* Show rendering errors to the user, not just the console&lt;br /&gt;
+* When there are more chords than lyrics, add blank spaces as lyrics&lt;br /&gt;
+* honor comments in lyric headers&lt;br /&gt;
+&lt;br /&gt;
+* Template example errors out&lt;br /&gt;
+&lt;br /&gt;
+* add SetList page template&lt;br /&gt;
+** links to songs&lt;br /&gt;
+** ?index=[1,2,3...]&lt;br /&gt;
+** &amp;quot;next/prev&amp;quot; buttons&lt;br /&gt;
+&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+== Shopping list ==&lt;br /&gt;
+&lt;br /&gt;
+== Print ideas ==&lt;br /&gt;
+* Shelf&lt;br /&gt;
+* Armada mounts&lt;br /&gt;
+* revise toothbrush holder&lt;br /&gt;
+* Funnel balancer&lt;br /&gt;
+&lt;br /&gt;
+=== Spaceships &amp;amp; Such ===&lt;br /&gt;
+&lt;br /&gt;
+{{#ifeq:{{CURRENTUSER}}&lt;br /&gt;
+  |Mellab|&lt;br /&gt;
+&lt;br /&gt;
+Hello, love!!  [[Carmella's Music List|this page here]] is probably what you're looking for.  But you can create new pages any time you want to!&lt;br /&gt;
+}}&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1785</id>
+		<title>Collaborative Game Development</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1785"/>
+		<updated>2019-01-05T02:28:00Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;The idea behind this page is to represent the collaborative effort between Earl and Bryan.  I didn't think it was appropriate to integrate what we will be doing together with what you had already done.  So I am thinking this could be a launch page for not only specific projects but also other things like resources, tech, graphics that would be common to all the projects.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+== Technologies ==&lt;br /&gt;
+These are technologies related to the development, testing, deployment, data storage, etc.. in Android applications we should look at.&lt;br /&gt;
+&lt;br /&gt;
+=== Deployment ===&lt;br /&gt;
+==== Google Play Store ====&lt;br /&gt;
+The primary deployment option I think we should look at first due to its wide acceptance, there are other options but for now, let's focus on this.&lt;br /&gt;
+&lt;br /&gt;
+=== Player Experience ===&lt;br /&gt;
+&lt;br /&gt;
+==== Unity Graphics ====&lt;br /&gt;
+High learning curve but very high-end results, if we can figure it out.  No in-house experience with this...&lt;br /&gt;
+&lt;br /&gt;
+==== HTML Graphics ====&lt;br /&gt;
+We have in-house experience and depending on the need it will most likely be the graphics interface we will initially use. &lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+=== Nice To Have ===&lt;br /&gt;
+Optional items but would really be nice to have.&lt;br /&gt;
+&lt;br /&gt;
+==== Google Play ====&lt;br /&gt;
+This is different than the store, this is the integration of the app with the Google gaming API. Where players get XP and other accomplishments that we define for our game.  Although this could be a &amp;quot;nice to have&amp;quot; option users seem to really like to have this.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+== Projects ==&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1784</id>
+		<title>Main Page</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1784"/>
+		<updated>2019-01-05T02:06:36Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;&amp;lt;div id=&amp;quot;mf-home&amp;quot;&amp;gt;&lt;br /&gt;
+Hi...&lt;br /&gt;
+&lt;br /&gt;
+Welcome to my little place on the 'Net.&lt;br /&gt;
+&lt;br /&gt;
+theGleep.com started out as just a place to claim my nickname &amp;quot;theGleep&amp;quot; as &amp;lt;b&amp;gt;mine&amp;lt;/b&amp;gt;...think of it as Internet Graffiti.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+However, I have started to develop content for the Android OS in my spare time, so if you like - say - watching paint dry, or grass grow; keep an eye [[Android | here]].&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;!--{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{#ifeq:{{CURRENTUSER}}|Megreth}} |--&amp;gt;&lt;br /&gt;
+{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|Megreth|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;br /&gt;
+&lt;br /&gt;
+== Quick Access ==&lt;br /&gt;
+* [[:Category:Recipes]]&lt;br /&gt;
+* [[:Category:Lead Sheets]]&lt;br /&gt;
+* [[:Category:Projects]]&lt;br /&gt;
+* [[My Songs]]&lt;br /&gt;
+* [[Note To Self]]&lt;br /&gt;
+* [[Interesting Extensions]]&lt;br /&gt;
+&lt;br /&gt;
+== Android Development ==&lt;br /&gt;
+* [[Collaborative Game Development]]&lt;br /&gt;
+&lt;br /&gt;
+== todo ==&lt;br /&gt;
+* Find more J. Michael Verta&lt;br /&gt;
+* Install UPS for wifi/Internet&lt;br /&gt;
+** Also install rack-mount power strip&lt;br /&gt;
+* Run speaker wires&lt;br /&gt;
+** subwoofer&lt;br /&gt;
+** HDMI cables&lt;br /&gt;
+* Improve remote access system&lt;br /&gt;
+** network sharing via virtual machines&lt;br /&gt;
+** individual programs instead of full desktop&lt;br /&gt;
+*** &amp;quot;WinSwitch&amp;quot; or &amp;quot;Xpra&amp;quot;&lt;br /&gt;
+*** requires network sharing via VMs - or maybe using VM as SSH Gateway/jump host&lt;br /&gt;
+* put a light in the pantry&lt;br /&gt;
+&lt;br /&gt;
+== Site to-do list ==&lt;br /&gt;
+&lt;br /&gt;
+=== improve menu ===&lt;br /&gt;
+* Style/Theme&lt;br /&gt;
+* Links&lt;br /&gt;
+** Projects&lt;br /&gt;
+** Music&lt;br /&gt;
+** Recipes&lt;br /&gt;
+&lt;br /&gt;
+=== leadsheet bugs to fix and features to add ===&lt;br /&gt;
+* Move configuration UI outside of rendering engine&lt;br /&gt;
+** the &amp;quot;render&amp;quot; method should receive the configuration settings&lt;br /&gt;
+&lt;br /&gt;
+* Improve spacing&lt;br /&gt;
+** Don't allow lyrics to drop below controls (move controls to be a menu-type bar)&lt;br /&gt;
+&lt;br /&gt;
+* Show song title when printing&lt;br /&gt;
+&lt;br /&gt;
+* Accept chords next to each other&lt;br /&gt;
+&lt;br /&gt;
+* revise react output (div after .display-settings) to have a class to allow &amp;quot;width: 100%&amp;quot; specification&lt;br /&gt;
+&lt;br /&gt;
+* Printing often shows second page when it shouldn't&lt;br /&gt;
+&lt;br /&gt;
+* two chords in a row results in one being treated as the text of the verse&lt;br /&gt;
+* Show rendering errors to the user, not just the console&lt;br /&gt;
+* When there are more chords than lyrics, add blank spaces as lyrics&lt;br /&gt;
+* honor comments in lyric headers&lt;br /&gt;
+&lt;br /&gt;
+* Template example errors out&lt;br /&gt;
+&lt;br /&gt;
+* add SetList page template&lt;br /&gt;
+** links to songs&lt;br /&gt;
+** ?index=[1,2,3...]&lt;br /&gt;
+** &amp;quot;next/prev&amp;quot; buttons&lt;br /&gt;
+&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+== Shopping list ==&lt;br /&gt;
+&lt;br /&gt;
+== Print ideas ==&lt;br /&gt;
+* Shelf&lt;br /&gt;
+* Armada mounts&lt;br /&gt;
+* revise toothbrush holder&lt;br /&gt;
+* Funnel balancer&lt;br /&gt;
+&lt;br /&gt;
+=== Spaceships &amp;amp; Such ===&lt;br /&gt;
+&lt;br /&gt;
+{{#ifeq:{{CURRENTUSER}}&lt;br /&gt;
+  |Mellab|&lt;br /&gt;
+&lt;br /&gt;
+Hello, love!!  [[Carmella's Music List|this page here]] is probably what you're looking for.  But you can create new pages any time you want to!&lt;br /&gt;
+}}&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1783</id>
+		<title>Main Page</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1783"/>
+		<updated>2019-01-05T02:06:18Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;&amp;lt;div id=&amp;quot;mf-home&amp;quot;&amp;gt;&lt;br /&gt;
+Hi...&lt;br /&gt;
+&lt;br /&gt;
+Welcome to my little place on the 'Net.&lt;br /&gt;
+&lt;br /&gt;
+theGleep.com started out as just a place to claim my nickname &amp;quot;theGleep&amp;quot; as &amp;lt;b&amp;gt;mine&amp;lt;/b&amp;gt;...think of it as Internet Graffiti.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+However, I have started to develop content for the Android OS in my spare time, so if you like - say - watching paint dry, or grass grow; keep an eye [[Android | here]].&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;!--{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{#ifeq:{{CURRENTUSER}}|Megreth}} |--&amp;gt;&lt;br /&gt;
+{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|Mereth|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;br /&gt;
+&lt;br /&gt;
+== Quick Access ==&lt;br /&gt;
+* [[:Category:Recipes]]&lt;br /&gt;
+* [[:Category:Lead Sheets]]&lt;br /&gt;
+* [[:Category:Projects]]&lt;br /&gt;
+* [[My Songs]]&lt;br /&gt;
+* [[Note To Self]]&lt;br /&gt;
+* [[Interesting Extensions]]&lt;br /&gt;
+&lt;br /&gt;
+== Android Development ==&lt;br /&gt;
+* [[Collaborative Game Development]]&lt;br /&gt;
+&lt;br /&gt;
+== todo ==&lt;br /&gt;
+* Find more J. Michael Verta&lt;br /&gt;
+* Install UPS for wifi/Internet&lt;br /&gt;
+** Also install rack-mount power strip&lt;br /&gt;
+* Run speaker wires&lt;br /&gt;
+** subwoofer&lt;br /&gt;
+** HDMI cables&lt;br /&gt;
+* Improve remote access system&lt;br /&gt;
+** network sharing via virtual machines&lt;br /&gt;
+** individual programs instead of full desktop&lt;br /&gt;
+*** &amp;quot;WinSwitch&amp;quot; or &amp;quot;Xpra&amp;quot;&lt;br /&gt;
+*** requires network sharing via VMs - or maybe using VM as SSH Gateway/jump host&lt;br /&gt;
+* put a light in the pantry&lt;br /&gt;
+&lt;br /&gt;
+== Site to-do list ==&lt;br /&gt;
+&lt;br /&gt;
+=== improve menu ===&lt;br /&gt;
+* Style/Theme&lt;br /&gt;
+* Links&lt;br /&gt;
+** Projects&lt;br /&gt;
+** Music&lt;br /&gt;
+** Recipes&lt;br /&gt;
+&lt;br /&gt;
+=== leadsheet bugs to fix and features to add ===&lt;br /&gt;
+* Move configuration UI outside of rendering engine&lt;br /&gt;
+** the &amp;quot;render&amp;quot; method should receive the configuration settings&lt;br /&gt;
+&lt;br /&gt;
+* Improve spacing&lt;br /&gt;
+** Don't allow lyrics to drop below controls (move controls to be a menu-type bar)&lt;br /&gt;
+&lt;br /&gt;
+* Show song title when printing&lt;br /&gt;
+&lt;br /&gt;
+* Accept chords next to each other&lt;br /&gt;
+&lt;br /&gt;
+* revise react output (div after .display-settings) to have a class to allow &amp;quot;width: 100%&amp;quot; specification&lt;br /&gt;
+&lt;br /&gt;
+* Printing often shows second page when it shouldn't&lt;br /&gt;
+&lt;br /&gt;
+* two chords in a row results in one being treated as the text of the verse&lt;br /&gt;
+* Show rendering errors to the user, not just the console&lt;br /&gt;
+* When there are more chords than lyrics, add blank spaces as lyrics&lt;br /&gt;
+* honor comments in lyric headers&lt;br /&gt;
+&lt;br /&gt;
+* Template example errors out&lt;br /&gt;
+&lt;br /&gt;
+* add SetList page template&lt;br /&gt;
+** links to songs&lt;br /&gt;
+** ?index=[1,2,3...]&lt;br /&gt;
+** &amp;quot;next/prev&amp;quot; buttons&lt;br /&gt;
+&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+== Shopping list ==&lt;br /&gt;
+&lt;br /&gt;
+== Print ideas ==&lt;br /&gt;
+* Shelf&lt;br /&gt;
+* Armada mounts&lt;br /&gt;
+* revise toothbrush holder&lt;br /&gt;
+* Funnel balancer&lt;br /&gt;
+&lt;br /&gt;
+=== Spaceships &amp;amp; Such ===&lt;br /&gt;
+&lt;br /&gt;
+{{#ifeq:{{CURRENTUSER}}&lt;br /&gt;
+  |Mellab|&lt;br /&gt;
+&lt;br /&gt;
+Hello, love!!  [[Carmella's Music List|this page here]] is probably what you're looking for.  But you can create new pages any time you want to!&lt;br /&gt;
+}}&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1782</id>
+		<title>Main Page</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1782"/>
+		<updated>2019-01-05T02:05:57Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;&amp;lt;div id=&amp;quot;mf-home&amp;quot;&amp;gt;&lt;br /&gt;
+Hi...&lt;br /&gt;
+&lt;br /&gt;
+Welcome to my little place on the 'Net.&lt;br /&gt;
+&lt;br /&gt;
+theGleep.com started out as just a place to claim my nickname &amp;quot;theGleep&amp;quot; as &amp;lt;b&amp;gt;mine&amp;lt;/b&amp;gt;...think of it as Internet Graffiti.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+However, I have started to develop content for the Android OS in my spare time, so if you like - say - watching paint dry, or grass grow; keep an eye [[Android | here]].&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;!--{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{#ifeq:{{CURRENTUSER}}|Megreth}} |--&amp;gt;&lt;br /&gt;
+{{#ifexpr: {{#ifeq:{{CURRENTUSER}}|Megreth|1|0}} + {{#ifeq:{{CURRENTUSER}}|TheGleep|1|0}} &amp;gt; 0 |&lt;br /&gt;
+&lt;br /&gt;
+== Quick Access ==&lt;br /&gt;
+* [[:Category:Recipes]]&lt;br /&gt;
+* [[:Category:Lead Sheets]]&lt;br /&gt;
+* [[:Category:Projects]]&lt;br /&gt;
+* [[My Songs]]&lt;br /&gt;
+* [[Note To Self]]&lt;br /&gt;
+* [[Interesting Extensions]]&lt;br /&gt;
+&lt;br /&gt;
+== Android Development ==&lt;br /&gt;
+* [[Collaborative Game Development]]&lt;br /&gt;
+&lt;br /&gt;
+== todo ==&lt;br /&gt;
+* Find more J. Michael Verta&lt;br /&gt;
+* Install UPS for wifi/Internet&lt;br /&gt;
+** Also install rack-mount power strip&lt;br /&gt;
+* Run speaker wires&lt;br /&gt;
+** subwoofer&lt;br /&gt;
+** HDMI cables&lt;br /&gt;
+* Improve remote access system&lt;br /&gt;
+** network sharing via virtual machines&lt;br /&gt;
+** individual programs instead of full desktop&lt;br /&gt;
+*** &amp;quot;WinSwitch&amp;quot; or &amp;quot;Xpra&amp;quot;&lt;br /&gt;
+*** requires network sharing via VMs - or maybe using VM as SSH Gateway/jump host&lt;br /&gt;
+* put a light in the pantry&lt;br /&gt;
+&lt;br /&gt;
+== Site to-do list ==&lt;br /&gt;
+&lt;br /&gt;
+=== improve menu ===&lt;br /&gt;
+* Style/Theme&lt;br /&gt;
+* Links&lt;br /&gt;
+** Projects&lt;br /&gt;
+** Music&lt;br /&gt;
+** Recipes&lt;br /&gt;
+&lt;br /&gt;
+=== leadsheet bugs to fix and features to add ===&lt;br /&gt;
+* Move configuration UI outside of rendering engine&lt;br /&gt;
+** the &amp;quot;render&amp;quot; method should receive the configuration settings&lt;br /&gt;
+&lt;br /&gt;
+* Improve spacing&lt;br /&gt;
+** Don't allow lyrics to drop below controls (move controls to be a menu-type bar)&lt;br /&gt;
+&lt;br /&gt;
+* Show song title when printing&lt;br /&gt;
+&lt;br /&gt;
+* Accept chords next to each other&lt;br /&gt;
+&lt;br /&gt;
+* revise react output (div after .display-settings) to have a class to allow &amp;quot;width: 100%&amp;quot; specification&lt;br /&gt;
+&lt;br /&gt;
+* Printing often shows second page when it shouldn't&lt;br /&gt;
+&lt;br /&gt;
+* two chords in a row results in one being treated as the text of the verse&lt;br /&gt;
+* Show rendering errors to the user, not just the console&lt;br /&gt;
+* When there are more chords than lyrics, add blank spaces as lyrics&lt;br /&gt;
+* honor comments in lyric headers&lt;br /&gt;
+&lt;br /&gt;
+* Template example errors out&lt;br /&gt;
+&lt;br /&gt;
+* add SetList page template&lt;br /&gt;
+** links to songs&lt;br /&gt;
+** ?index=[1,2,3...]&lt;br /&gt;
+** &amp;quot;next/prev&amp;quot; buttons&lt;br /&gt;
+&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+== Shopping list ==&lt;br /&gt;
+&lt;br /&gt;
+== Print ideas ==&lt;br /&gt;
+* Shelf&lt;br /&gt;
+* Armada mounts&lt;br /&gt;
+* revise toothbrush holder&lt;br /&gt;
+* Funnel balancer&lt;br /&gt;
+&lt;br /&gt;
+=== Spaceships &amp;amp; Such ===&lt;br /&gt;
+&lt;br /&gt;
+{{#ifeq:{{CURRENTUSER}}&lt;br /&gt;
+  |Mellab|&lt;br /&gt;
+&lt;br /&gt;
+Hello, love!!  [[Carmella's Music List|this page here]] is probably what you're looking for.  But you can create new pages any time you want to!&lt;br /&gt;
+}}&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1781</id>
+		<title>Collaborative Game Development</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1781"/>
+		<updated>2019-01-05T01:35:03Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;The idea behind this page is to represent the collaborative effort between Earl and Bryan.  I didn't think it was appropriate to integrate what we will be doing together with what you had already done.  So I am thinking this could be a launch page for not only specific projects but also other things like resources, tech, graphics that would be common to all the projects.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+For now, though this is going to be a test page for me to freshen up on media wiki. :-)&lt;br /&gt;
+&lt;br /&gt;
+{{CURRENTUSER}}&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;!--&lt;br /&gt;
+{{#ifeq:{{CURRENTUSER}} |TheGleep }}|&lt;br /&gt;
+&lt;br /&gt;
+Can you see me&lt;br /&gt;
+&lt;br /&gt;
+}}&lt;br /&gt;
+--&amp;gt;&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1780</id>
+		<title>Collaborative Game Development</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1780"/>
+		<updated>2019-01-05T01:30:03Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;The idea behind this page is to represent the collaborative effort between Earl and Bryan.  I didn't think it was appropriate to integrate what we will be doing together with what you had already done.  So I am thinking this could be a launch page for not only specific projects but also other things like resources, tech, graphics that would be common to all the projects.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+For now, though this is going to be a test page for me to freshen up on media wiki. :-)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+{{#ifeq:{{CURRENTUSER}} |TheGleep }}|&lt;br /&gt;
+&lt;br /&gt;
+Can you see me&lt;br /&gt;
+&lt;br /&gt;
+}}&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1779</id>
+		<title>Collaborative Game Development</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1779"/>
+		<updated>2019-01-05T01:27:56Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;The idea behind this page is to represent the collaborative effort between Earl and Bryan.  I didn't think it was appropriate to integrate what we will be doing together with what you had already done.  So I am thinking this could be a launch page for not only specific projects but also other things like resources, tech, graphics that would be common to all the projects.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+For now, though this is going to be a test page for me to freshen up on media wiki. :-)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{#ifeq:{{CURRENTUSER}}|Megeth}} |&lt;br /&gt;
+&lt;br /&gt;
+Can you see me&lt;br /&gt;
+&lt;br /&gt;
+}}&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1778</id>
+		<title>Collaborative Game Development</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1778"/>
+		<updated>2019-01-05T01:26:42Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;The idea behind this page is to represent the collaborative effort between Earl and Bryan.  I didn't think it was appropriate to integrate what we will be doing together with what you had already done.  So I am thinking this could be a launch page for not only specific projects but also other things like resources, tech, graphics that would be common to all the projects.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+For now, though this is going to be a test page for me to freshen up on media wiki. :-)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{#ifeq:{{CURRENTUSER}}|Megreth}} |&lt;br /&gt;
+&lt;br /&gt;
+Can you see me&lt;br /&gt;
+&lt;br /&gt;
+}}&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1777</id>
+		<title>Collaborative Game Development</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Collaborative_Game_Development&amp;diff=1777"/>
+		<updated>2019-01-05T01:24:55Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: Created page with &amp;quot;The idea behind this page is to represent the collaborative effort between Earl and Bryan.  I didn't think it was appropriate to integrate what we will be doing together with...&amp;quot;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;The idea behind this page is to represent the collaborative effort between Earl and Bryan.  I didn't think it was appropriate to integrate what we will be doing together with what you had already done.  So I am thinking this could be a launch page for not only specific projects but also other things like resources, tech, graphics that would be common to all the projects.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+For now though this is going to be a test page for me to freshen up on media wiki. :-)&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1776</id>
+		<title>Main Page</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1776"/>
+		<updated>2019-01-05T01:16:37Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;&amp;lt;div id=&amp;quot;mf-home&amp;quot;&amp;gt;&lt;br /&gt;
+Hi...&lt;br /&gt;
+&lt;br /&gt;
+Welcome to my little place on the 'Net.&lt;br /&gt;
+&lt;br /&gt;
+theGleep.com started out as just a place to claim my nickname &amp;quot;theGleep&amp;quot; as &amp;lt;b&amp;gt;mine&amp;lt;/b&amp;gt;...think of it as Internet Graffiti.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+However, I have started to develop content for the Android OS in my spare time, so if you like - say - watching paint dry, or grass grow; keep an eye [[Android | here]].&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{#ifeq:{{CURRENTUSER}}|Megreth}} |&lt;br /&gt;
+&lt;br /&gt;
+== Quick Access ==&lt;br /&gt;
+* [[:Category:Recipes]]&lt;br /&gt;
+* [[:Category:Lead Sheets]]&lt;br /&gt;
+* [[:Category:Projects]]&lt;br /&gt;
+* [[My Songs]]&lt;br /&gt;
+* [[Note To Self]]&lt;br /&gt;
+* [[Interesting Extensions]]&lt;br /&gt;
+&lt;br /&gt;
+== Android Development ==&lt;br /&gt;
+* [[Collaborative Game Development]]&lt;br /&gt;
+&lt;br /&gt;
+== todo ==&lt;br /&gt;
+* Find more J. Michael Verta&lt;br /&gt;
+* Install UPS for wifi/Internet&lt;br /&gt;
+** Also install rack-mount power strip&lt;br /&gt;
+* Run speaker wires&lt;br /&gt;
+** subwoofer&lt;br /&gt;
+** HDMI cables&lt;br /&gt;
+* Improve remote access system&lt;br /&gt;
+** network sharing via virtual machines&lt;br /&gt;
+** individual programs instead of full desktop&lt;br /&gt;
+*** &amp;quot;WinSwitch&amp;quot; or &amp;quot;Xpra&amp;quot;&lt;br /&gt;
+*** requires network sharing via VMs - or maybe using VM as SSH Gateway/jump host&lt;br /&gt;
+* put a light in the pantry&lt;br /&gt;
+&lt;br /&gt;
+== Site to-do list ==&lt;br /&gt;
+&lt;br /&gt;
+=== improve menu ===&lt;br /&gt;
+* Style/Theme&lt;br /&gt;
+* Links&lt;br /&gt;
+** Projects&lt;br /&gt;
+** Music&lt;br /&gt;
+** Recipes&lt;br /&gt;
+&lt;br /&gt;
+=== leadsheet bugs to fix and features to add ===&lt;br /&gt;
+* Move configuration UI outside of rendering engine&lt;br /&gt;
+** the &amp;quot;render&amp;quot; method should receive the configuration settings&lt;br /&gt;
+&lt;br /&gt;
+* Improve spacing&lt;br /&gt;
+** Don't allow lyrics to drop below controls (move controls to be a menu-type bar)&lt;br /&gt;
+&lt;br /&gt;
+* Show song title when printing&lt;br /&gt;
+&lt;br /&gt;
+* Accept chords next to each other&lt;br /&gt;
+&lt;br /&gt;
+* revise react output (div after .display-settings) to have a class to allow &amp;quot;width: 100%&amp;quot; specification&lt;br /&gt;
+&lt;br /&gt;
+* Printing often shows second page when it shouldn't&lt;br /&gt;
+&lt;br /&gt;
+* two chords in a row results in one being treated as the text of the verse&lt;br /&gt;
+* Show rendering errors to the user, not just the console&lt;br /&gt;
+* When there are more chords than lyrics, add blank spaces as lyrics&lt;br /&gt;
+* honor comments in lyric headers&lt;br /&gt;
+&lt;br /&gt;
+* Template example errors out&lt;br /&gt;
+&lt;br /&gt;
+* add SetList page template&lt;br /&gt;
+** links to songs&lt;br /&gt;
+** ?index=[1,2,3...]&lt;br /&gt;
+** &amp;quot;next/prev&amp;quot; buttons&lt;br /&gt;
+&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+== Shopping list ==&lt;br /&gt;
+&lt;br /&gt;
+== Print ideas ==&lt;br /&gt;
+* Shelf&lt;br /&gt;
+* Armada mounts&lt;br /&gt;
+* revise toothbrush holder&lt;br /&gt;
+* Funnel balancer&lt;br /&gt;
+&lt;br /&gt;
+=== Spaceships &amp;amp; Such ===&lt;br /&gt;
+&lt;br /&gt;
+{{#ifeq:{{CURRENTUSER}}&lt;br /&gt;
+  |Mellab|&lt;br /&gt;
+&lt;br /&gt;
+Hello, love!!  [[Carmella's Music List|this page here]] is probably what you're looking for.  But you can create new pages any time you want to!&lt;br /&gt;
+}}&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1773</id>
+		<title>Main Page</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1773"/>
+		<updated>2019-01-04T20:10:53Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;&amp;lt;div id=&amp;quot;mf-home&amp;quot;&amp;gt;&lt;br /&gt;
+Hi...&lt;br /&gt;
+&lt;br /&gt;
+Welcome to my little place on the 'Net.&lt;br /&gt;
+&lt;br /&gt;
+theGleep.com started out as just a place to claim my nickname &amp;quot;theGleep&amp;quot; as &amp;lt;b&amp;gt;mine&amp;lt;/b&amp;gt;...think of it as Internet Graffiti.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+However, I have started to develop content for the Android OS in my spare time, so if you like - say - watching paint dry, or grass grow; keep an eye [[Android | here]].&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+{{#or:{{#ifeq:{{CURRENTUSER}} |TheGleep }}|{{$ifeq:{{CURRENTUSER}}|Megreth}}&lt;br /&gt;
+&lt;br /&gt;
+== Quick Access ==&lt;br /&gt;
+* [[:Category:Recipes]]&lt;br /&gt;
+* [[:Category:Lead Sheets]]&lt;br /&gt;
+* [[:Category:Projects]]&lt;br /&gt;
+* [[My Songs]]&lt;br /&gt;
+* [[Note To Self]]&lt;br /&gt;
+* [[Interesting Extensions]]&lt;br /&gt;
+* [[Hello]]&lt;br /&gt;
+&lt;br /&gt;
+== todo ==&lt;br /&gt;
+* Find more J. Michael Verta&lt;br /&gt;
+* Install UPS for wifi/Internet&lt;br /&gt;
+** Also install rack-mount power strip&lt;br /&gt;
+* Run speaker wires&lt;br /&gt;
+** subwoofer&lt;br /&gt;
+** HDMI cables&lt;br /&gt;
+* Improve remote access system&lt;br /&gt;
+** network sharing via virtual machines&lt;br /&gt;
+** individual programs instead of full desktop&lt;br /&gt;
+*** &amp;quot;WinSwitch&amp;quot; or &amp;quot;Xpra&amp;quot;&lt;br /&gt;
+*** requires network sharing via VMs - or maybe using VM as SSH Gateway/jump host&lt;br /&gt;
+* put a light in the pantry&lt;br /&gt;
+&lt;br /&gt;
+== Site to-do list ==&lt;br /&gt;
+&lt;br /&gt;
+=== improve menu ===&lt;br /&gt;
+* Style/Theme&lt;br /&gt;
+* Links&lt;br /&gt;
+** Projects&lt;br /&gt;
+** Music&lt;br /&gt;
+** Recipes&lt;br /&gt;
+&lt;br /&gt;
+=== leadsheet bugs to fix and features to add ===&lt;br /&gt;
+* Move configuration UI outside of rendering engine&lt;br /&gt;
+** the &amp;quot;render&amp;quot; method should receive the configuration settings&lt;br /&gt;
+&lt;br /&gt;
+* Improve spacing&lt;br /&gt;
+** Don't allow lyrics to drop below controls (move controls to be a menu-type bar)&lt;br /&gt;
+&lt;br /&gt;
+* Show song title when printing&lt;br /&gt;
+&lt;br /&gt;
+* Accept chords next to each other&lt;br /&gt;
+&lt;br /&gt;
+* revise react output (div after .display-settings) to have a class to allow &amp;quot;width: 100%&amp;quot; specification&lt;br /&gt;
+&lt;br /&gt;
+* Printing often shows second page when it shouldn't&lt;br /&gt;
+&lt;br /&gt;
+* two chords in a row results in one being treated as the text of the verse&lt;br /&gt;
+* Show rendering errors to the user, not just the console&lt;br /&gt;
+* When there are more chords than lyrics, add blank spaces as lyrics&lt;br /&gt;
+* honor comments in lyric headers&lt;br /&gt;
+&lt;br /&gt;
+* Template example errors out&lt;br /&gt;
+&lt;br /&gt;
+* add SetList page template&lt;br /&gt;
+** links to songs&lt;br /&gt;
+** ?index=[1,2,3...]&lt;br /&gt;
+** &amp;quot;next/prev&amp;quot; buttons&lt;br /&gt;
+&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+== Shopping list ==&lt;br /&gt;
+&lt;br /&gt;
+== Print ideas ==&lt;br /&gt;
+* Shelf&lt;br /&gt;
+* Armada mounts&lt;br /&gt;
+* revise toothbrush holder&lt;br /&gt;
+* Funnel balancer&lt;br /&gt;
+&lt;br /&gt;
+=== Spaceships &amp;amp; Such ===&lt;br /&gt;
+&lt;br /&gt;
+{{#ifeq:{{CURRENTUSER}}&lt;br /&gt;
+  |Mellab|&lt;br /&gt;
+&lt;br /&gt;
+Hello, love!!  [[Carmella's Music List|this page here]] is probably what you're looking for.  But you can create new pages any time you want to!&lt;br /&gt;
+}}&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1772</id>
+		<title>Main Page</title>
+		<link rel="alternate" type="text/html" href="http://newwiki.thegleep.com/index.php?title=Main_Page&amp;diff=1772"/>
+		<updated>2019-01-04T20:10:06Z</updated>
+
+		<summary type="html">&lt;p&gt;Megreth: &lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;&amp;lt;div id=&amp;quot;mf-home&amp;quot;&amp;gt;&lt;br /&gt;
+Hi...&lt;br /&gt;
+&lt;br /&gt;
+Welcome to my little place on the 'Net.&lt;br /&gt;
+&lt;br /&gt;
+theGleep.com started out as just a place to claim my nickname &amp;quot;theGleep&amp;quot; as &amp;lt;b&amp;gt;mine&amp;lt;/b&amp;gt;...think of it as Internet Graffiti.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+However, I have started to develop content for the Android OS in my spare time, so if you like - say - watching paint dry, or grass grow; keep an eye [[Android | here]].&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+{{#or:{{#ifeq:{{CURRENTUSER}}&lt;br /&gt;
+ |TheGleep }}|{{$ifeq:{{CURRENTUSER}}|Megreth}}&lt;br /&gt;
+&lt;br /&gt;
+== Quick Access ==&lt;br /&gt;
+* [[:Category:Recipes]]&lt;br /&gt;
+* [[:Category:Lead Sheets]]&lt;br /&gt;
+* [[:Category:Projects]]&lt;br /&gt;
+* [[My Songs]]&lt;br /&gt;
+* [[Note To Self]]&lt;br /&gt;
+* [[Interesting Extensions]]&lt;br /&gt;
+* [[Hello]]&lt;br /&gt;
+&lt;br /&gt;
+== todo ==&lt;br /&gt;
+* Find more J. Michael Verta&lt;br /&gt;
+* Install UPS for wifi/Internet&lt;br /&gt;
+** Also install rack-mount power strip&lt;br /&gt;
+* Run speaker wires&lt;br /&gt;
+** subwoofer&lt;br /&gt;
+** HDMI cables&lt;br /&gt;
+* Improve remote access system&lt;br /&gt;
+** network sharing via virtual machines&lt;br /&gt;
+** individual programs instead of full desktop&lt;br /&gt;
+*** &amp;quot;WinSwitch&amp;quot; or &amp;quot;Xpra&amp;quot;&lt;br /&gt;
+*** requires network sharing via VMs - or maybe using VM as SSH Gateway/jump host&lt;br /&gt;
+* put a light in the pantry&lt;br /&gt;
+&lt;br /&gt;
+== Site to-do list ==&lt;br /&gt;
+&lt;br /&gt;
+=== improve menu ===&lt;br /&gt;
+* Style/Theme&lt;br /&gt;
+* Links&lt;br /&gt;
+** Projects&lt;br /&gt;
+** Music&lt;br /&gt;
+** Recipes&lt;br /&gt;
+&lt;br /&gt;
+=== leadsheet bugs to fix and features to add ===&lt;br /&gt;
+* Move configuration UI outside of rendering engine&lt;br /&gt;
+** the &amp;quot;render&amp;quot; method should receive the configuration settings&lt;br /&gt;
+&lt;br /&gt;
+* Improve spacing&lt;br /&gt;
+** Don't allow lyrics to drop below controls (move controls to be a menu-type bar)&lt;br /&gt;
+&lt;br /&gt;
+* Show song title when printing&lt;br /&gt;
+&lt;br /&gt;
+* Accept chords next to each other&lt;br /&gt;
+&lt;br /&gt;
+* revise react output (div after .display-settings) to have a class to allow &amp;quot;width: 100%&amp;quot; specification&lt;br /&gt;
+&lt;br /&gt;
+* Printing often shows second page when it shouldn't&lt;br /&gt;
+&lt;br /&gt;
+* two chords in a row results in one being treated as the text of the verse&lt;br /&gt;
+* Show rendering errors to the user, not just the console&lt;br /&gt;
+* When there are more chords than lyrics, add blank spaces as lyrics&lt;br /&gt;
+* honor comments in lyric headers&lt;br /&gt;
+&lt;br /&gt;
+* Template example errors out&lt;br /&gt;
+&lt;br /&gt;
+* add SetList page template&lt;br /&gt;
+** links to songs&lt;br /&gt;
+** ?index=[1,2,3...]&lt;br /&gt;
+** &amp;quot;next/prev&amp;quot; buttons&lt;br /&gt;
+&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+== Shopping list ==&lt;br /&gt;
+&lt;br /&gt;
+== Print ideas ==&lt;br /&gt;
+* Shelf&lt;br /&gt;
+* Armada mounts&lt;br /&gt;
+* revise toothbrush holder&lt;br /&gt;
+* Funnel balancer&lt;br /&gt;
+&lt;br /&gt;
+=== Spaceships &amp;amp; Such ===&lt;br /&gt;
+&lt;br /&gt;
+{{#ifeq:{{CURRENTUSER}}&lt;br /&gt;
+  |Mellab|&lt;br /&gt;
+&lt;br /&gt;
+Hello, love!!  [[Carmella's Music List|this page here]] is probably what you're looking for.  But you can create new pages any time you want to!&lt;br /&gt;
+}}&lt;/div&gt;</summary>
+		<author><name>Megreth</name></author>
+		
+	</entry>
+</feed>
